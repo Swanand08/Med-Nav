@@ -1,0 +1,242 @@
+﻿"Palliativ
+e
+Medicine","General
+medicine/Medical &
+Radiation Oncology","Management of Diarrhea in
+cancer patients -
+Conservative management","Palliative care in Diarrhoea","PM038A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward -
+2300HDU - 3630
+ICU (without Ventilator) -
+9350
+ICU (with Ventilator) -
+9900","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"Palliativ
+e
+Medicine","Cardiac, Neuro,
+Pulmonary, Nephrology
+& Geriatric Medicine","Palliative and supportive care
+for non-malignant disease at
+advanced or end stage","Palliative care end stage disease","PM039A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward -
+2300HDU - 3630
+ICU (without Ventilator) -
+9350
+ICU (with Ventilator) -
+9900","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"Palliativ
+e
+Medicine","Anaesthesiology/Pain
+specialists/Radiology","Spinal/Epidural/Regional
+Nerve block, Radiofrequency
+ablation (RFA) for analgesia","Cancer pain interventions","PM040A","new procedure","New","7500","8300","9400","9800","","#N/A","#N/A"
+"Palliativ
+e
+Medicine","Anaesthesiology/Pain
+specialists/Radiology","Celiac Plexus
+Block/Hypogastric plexus
+block/ganglion impar block
+and Neurolysis in advanced
+cancer patients","Cancer pain plexus interventions","PM041A","new procedure","New","10000","11000","12500","13000","","#N/A","#N/A"
+"","","Headinjurywithrepairof
+fixations (including implants)","Head injury with repair of Facio-Maxillary
+Injury & fixations (including implants)","ST002A","31000","No change","31000","38800","44100","46500","(Plates / Screws) - 4000","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Conservative Management of
+Head Injury","Depressed Fracture","ST001B","5000","No change","5000","5000","7100","6300","","Yes","Routine Ward - 5000"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Conservative Management of
+Head Injury","Severe","ST001A","1000","No change","1000","1000","1300","1300","","Yes","Routine Ward - 1000"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Craniotomy and evacuation
+of Haematoma with fixation
+of fracture of long bone","Subdural hematoma along with fixation
+of fracture of single long bone","ST003A","60000","No change","60000","75000","85200","90000","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Craniotomy and evacuation
+of Haematoma with fixation
+of fracture of long bone","Extradural hematoma along with fixation
+of fracture of single long bone","ST003B","60000","No change","60000","75000","85200","90000","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Craniotomy and evacuation
+of Haematoma with fixation
+of fracture of long bone","Subdural hematoma along with fixation
+of fracture of 2 or more long bone.","ST003C","75000","No change","75000","93800","106500","112500","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Craniotomy and evacuation
+of Haematoma with fixation
+of fracture of long bone","Extradural hematoma along with fixation
+of fracture of 2 or more long bone.","ST003D","75000","No change","75000","93800","106500","112500","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Management of Chest injury
+with fracture of Long bone","Management of Chest injury with fixation
+of Single Long bone","ST004A","30000","No change","30000","30000","42600","37500","Implant for "One fracture of long bone
+(with implants)" - 5000","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Management of Chest injury
+with fracture of Long bone","Management of Chest injury with fixation
+of 2 or more Long bones","ST004B","45000","No change","45000","45000","63900","56300","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Management of Visceral
+injury and fracture long bone","Surgical intervention for Visceral injury
+and fixation of fracture of single long
+bone","ST005A","30000","No change","30000","37500","42600","45000","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Management of Visceral
+injury and fracture long bone","Surgical intervention for Visceral injury
+and fixation of fracture of 2 or more long
+bones","ST005B","45000","No change","45000","56300","63900","67500","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Internal fixation of
+Pelviacetabular fracture","Internal fixation of Pelviacetabular
+fracture","ST006A","40000","No change","40000","40000","56800","50000","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Internal fixation with Flap
+cover Surgery for wound in
+compound fracture","Internal fixation with Flap cover Surgery
+for wound in compound fracture","ST007A","40000","No change","40000","40000","56800","50000","Plates, screws and K wire - 1500 per plate, one 6 hole
+small DCP with screws -3500 per plate","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Emergency tendons repair ±
+Peripheral Nerve repair/
+reconstructive surgery","Emergency tendons repair ± Peripheral
+Nerve repair","ST008A","30000","No change","30000","37500","42600","45000","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Management of Nerve Plexus
+/ Tendon injuries","Tendon injury repair","ST009C","50000","No change","50000","50000","71000","62500","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Management of Nerve Plexus
+/ Tendon injuries","Tendon graft repair","ST009D","50000","No change","50000","50000","71000","62500","","No","NA"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Plexus injury along with
+Vascular injury repair / graft","Plexus injury along with Vascular injury
+graft","ST010B","60000","No change","60000","75000","85200","90000","","No","NA"
+"ST","Polytrauma","Conservative management of
+high cervical injury","Moderate head injury","SN063B","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","no change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward -
+2300HDU - 3630
+ICU (without Ventilator) -
+9350
+ICU (with Ventilator) -
+9900","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"ST","Polytrauma","Conservative management of
+high cervical injury","Simple head injury","SN063D","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","no change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward -
+2300HDU - 3630
+ICU (without Ventilator) -
+9350
+ICU (with Ventilator) -
+9900","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"ST","Polytrauma,
+Orthopedics,
+Neurosurgery, General
+Surgery","Management of Nerve Plexus
+/ Tendon injuries","Tendon Transfer","ST009E","50000","Decrease","20000","20000","23400","25000","","No","NA"

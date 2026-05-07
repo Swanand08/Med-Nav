@@ -1,0 +1,108 @@
+﻿"MO","Medical Oncology","CT for MM / Amyloidosis","Bortezomib + Thalidomide +
+Dexamethasone
+Thalidomide 100 mg daily Day 1 - 28
+Dexamethasone 40 mg Day 1, 8, 15, 22
+Bortezomib 1.3 mg/m2 Day 1, 8, 15, 22
+Every 28 days","MO043G","15000","No change","15000","16500","18800","19500","","No","NA"
+"MO","Medical Oncology","CT for Myeloproliferative
+Neoplasm","Hydroxurea
+Hydroxurea daily
+(Dose will be based on blood counts)","MO045A","2200","No change","2200","2500","2800","2800","","No","NA"
+"MO","Medical Oncology","CT for Acute Lymphoblastic
+Leukemia","BFM-90
+BFM-95
+BFM-2000
+HyperCVAD
+UKALL
+GMALL ( this does not include
+antibiotics, antifungals, blood and
+platelets transfusion)","MO047A","160000","No change","160000","176000","200000","208000","","No","NA"
+"MO","Medical Oncology","CT for Acute Lymphoblastic
+Leukemia","6 Mercaptopurine 50 mg / M2 daily
+Methotrexate 25 mg / M2 Weekly for 2
+years","MO047C","4000","No change","4000","4400","5000","5200","","No","NA"
+"MO","Medical Oncology","CT for Lymphoblastic
+Lymphoma","BFM-90
+BFM-95
+BFM-2000
+HyperCVAD
+UKALL
+GMALL","MO048A","160000","No change","160000","176000","200000","208000","","No","NA"
+"MO","Medical Oncology","CT for Lymphoblastic
+Lymphoma","6 Mercaptopurine 50 mg/M2 daily and
+Methotrexate 25 mg/M2 Weekly for 2
+Years","MO048C","4000","No change","4000","4400","5000","5200","","No","NA"
+"MO","Medical Oncology","CT for Acute Promyelocytic
+Leukemia
+(High Risk)","6 MP 50 mg / day daily
+Methotrexate 15 mg Weekly
+ATRA 45 mg / M2 for 14 days
+Every three months for 18 Months","MO049C","8000","No change","8000","8800","10000","10400","","No","NA"
+"MO","Medical Oncology","CT for Acute Promyelocytic
+Leukemia
+(Low Risk)","ATO 0.15 mg / kg day 1-Day 5, day 8-
+12, day 15-19, day 22-26 every 56 days
+for 4 cycles
+ATRA 45 mg / M2 day 1-Day 14 and
+Day 29-43 every 56 days for 4 cycles","MO050A","12000","Increased","55000 (per 56 day cycle)","60500 (per 56 day cycle)","68750(per 56 day cycle)","68750(per 56 day cycle)","","No","NA"
+"MO","Medical Oncology","Chemotherapy Complications
+- Tumor Lysis Syndrome","Rasburicase
+Febuxostat
+Allopurinol
+Sevelamer","MO052A","24000","No change","24000","26400","30000","30000","","No","NA"
+"MO","Medical Oncology","CT for Rhabdomyosarcoma","Vincristine + Ifosfamide + Etoposide
+Vincristine 1.5mg/m2 (days 1, 8 and 15)
+Ifosfamide 1.8gm/m2 (days 1-5)
+Etoposide 100mg/m2 (days 1-5)
+Each cycle every 3 weeks","MO059B","16200","No change","16200","17900","20300","21100","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Acute
+Myeloid Leukemia","Cytrabine 3 gram/m2 twice a day
+Days 1, 3 and 5","MO064A","57600","No change","57600","63400","72000","74900","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Acute
+Promyelocytic Leukemia","Maintenance (18 months total cost)","MO065C","39300","No change","39300","43300","49200","51100","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Hodgkins
+Lymphoma","OPEA","MO066B","13000","No change","13000","14300","16300","16900","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Hodgkins
+Lymphoma Relapse","IGVD","MO067C","34000","No change","34000","37400","42500","44200","","No","NA"
+"MO","Medical Oncology","CT for Pediatric
+Hepatoblastoma","Cisplatin","MO070B","5600","No change","5600","6200","7000","7300","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Topotecan
+Topotecan 1.5 mg/m2 D1-D5 every 21
+days","MO071F","24600","No change","24600","27100","30800","32000","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Docetaxel + Cyclophosphamide
+Docetaxel 75mg/m2 D1
+Cyclophosphamide 600 mg/m2 D1 every
+21 days","MO001E","19800","Decrease","9250","10200","11600","12100","","No","NA"
+"MO","Medical Oncology","CT for CA Penis","Paclitaxel
+Paclitaxel 175 mg/m2 D1 every 21 days","MO027F","12200","Decrease","11800","13000","14800","14800","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Exemestane
+Exemestane 25 mg orally daily (q 3
+monthsly)","MO001O","10400","Decrease","3900","4300","4900","4900","","No","NA"
+"MO","Medical Oncology","CT for Metastatic bone
+malignancy and multiple
+myeloma","Zoledronic Acid
+Zoledronic acid 4 mg IV Monthly","MO002A","4500","Decrease","3500","3900","4400","4400","","No","NA"
+"MO","Medical Oncology","CT for Osteogenic Sarcoma","Doxorubicin + Cisplatin
+Cisplatin 100mg/m2
+Doxorubicin 75mg/m2 given every 3
+weeks","MO010A","21800","Decrease","12000","13200","15000","15600","","No","NA"
+"MO","Medical Oncology","CT for Osteogenic Sarcoma","OGS - 12
+Ifosfamide 1800 mg/m2 D1-D5
+Mesna 600mg/m2 0h 3h 6h 9h D1-D5
+Cisplatin 33 mg/m2 D1-D3 every 21
+days","MO010D","36200","Decrease","28600","31500","35800","37200","","No","NA"
+"MO","Medical Oncology","CT for Soft Tissue Sarcoma","Gemcitabine + Docetaxel
+Gemcitabine 900 mg/m2 D1 D8
+Docetaxel 100 mg/m2 D8 every 21 days","MO011A","30900","Decrease","24000","26400","30000","31200","","No","NA"
+"MO","Medical Oncology","CT for Metastatic Melanoma","Temozolamide
+Temozolamide 200mg/m2 D1-D5 every
+28 days","MO012B","23100","Decrease","5000","5500","6300","6500","","No","NA"
+"MO","Medical Oncology","CT for Colorectal Cancer","Capecitabine + Oxaliplatin
+Capecitabine 1000mg/m2 D1-D14
+Oxaliplatin 130 mg/m2 D1 every 21 days","MO014E","16500","Decrease","12500","13800","15700","16300","","No","NA"
+"MO","Medical Oncology","CT for Panceratic Cancer","Capecitabine
+Capecitabine 825 mg/m2 twice daily","MO018E","7400","Decrease","7200","8000","9000","9000","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","Capecitabine + Oxaliplatin
+Capecitabine 1000mg/m2 D1-D14
+Oxaliplatin 130 mg/m2 D1 every 21 days","MO016E","16500","Decrease","12500","13800","15700","16300","","No","NA"

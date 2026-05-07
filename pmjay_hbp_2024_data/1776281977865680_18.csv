@@ -1,0 +1,103 @@
+﻿"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","Docetaxel + Cisplatin + 5 FU
+Docetaxel 40mg/m2 D1
+Cisplatin 40 mg/m2 D1
+Leucovorin 400mg/m2 D1
+5FU 1000mg/m2 D1 D2 every 14 days","MO016F","16400","Decrease","14500","16000","18200","18900","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","Docetaxel + Cisplatin + Capecitabine
+Docetaxel 40mg/m2 D1
+Cisplatin 40 mg/m2 D1
+Capecitabine 825mg/m2 twice daily
+every 14 days","MO016G","19700","Decrease","14500","16000","18200","18900","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","Docetaxel + Oxaliplatin + 5 FU
+Docetaxel 50mg/m2 D1
+Oxaliplatin 85 mg/m2 D1
+Leucovorin 400mg/m2 D1
+5FU 1200mg/m2 D1 D2 every 14 days","MO016H","20400","Decrease","18500","20400","23200","24100","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","Docetaxel + Oxaliplatin + Capecitabine
+Docetaxel 50mg/m2 D1
+Oxaliplatin 85 mg/m2 D1
+Capecitabine 825 mg/m2 Twice daily
+every 14 days","MO016I","24900","Decrease","18500","20400","23200","24100","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Gemcitabine
+Gemcitabine 1000mg /m2 D1 D8 every
+21 days","MO026H","9200","Decrease","9000","9900","11300","11700","","No","NA"
+"MO","Medical Oncology","CT for Panceratic Cancer","Gemcitabine
+Gemcitabine 300mg/m2 weekly","MO018C","9000","Decrease","4000","4400","5000","5200","","No","NA"
+"MO","Medical Oncology","CT for Gall Bladder Cancer /
+Cholangiocarcinoma","Capecitabine + Irinotecan
+Capecitabine 1000mg/m2 D1-D14
+Irinotecan 200 mg/m2 D1 every 21 days","MO019G","12600","Decrease","12500","13800","15700","16300","","No","NA"
+"MO","Medical Oncology","CT for Gastointestinal
+stromal tumor","Imatinib
+Imatinib 400 mg once daily","MO020A","19400","Decrease","15000","16500","18800","18800","","No","NA"
+"MO","Medical Oncology","CT for Gastointestinal
+stromal tumor","Sunitinib
+Sunitinb 37.5 mg once daily","MO020B","24400","Decrease","10000","11000","12500","12500","","No","NA"
+"MO","Medical Oncology","CT for CA Brain","Temozolamide
+Temozolomide 150 - 200 mg/m2 D1-D5
+every 28 days","MO021A","13000","Decrease","5000","5500","6300","6500","","No","NA"
+"MO","Medical Oncology","CT for CA Brain","Temozolamide
+Temozolomide 75mg/m2 once daily","MO021B","67600","Decrease","30000","33000","37500","39000","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Carboplatin + Gemcitabine
+Gemcitabine 1000 mg/m2 D1 D8
+Carboplatin AUC 5-6 D1 every 21 days","MO024C","14300","Decrease","13900","15300","17400","17400","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Docetaxel + Cisplatin + 5 FU
+Docetaxel 75 mg/m2 D1
+Cisplatin 75 mg/m2 D1
+5 FU 750 mg/m2 D1- D5 every 21 days","MO024D","16500","Decrease","14500","16000","18200","18900","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Docetaxel
+Docetaxel 20mg/m2 every week","MO024E","15000","Decrease","3200","3600","4000","4200","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Docetaxel
+Docetaxel 75 mg/m2 D1 every 21 days","MO024F","14400","Decrease","8500","9400","10700","11100","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Docetaxel
+Docetaxel 75 mg/m2 D1 every 21 days","MO071A","16200","Decrease","8500","9400","10700","11100","","No","NA"
+"MO","Medical Oncology","CT for CA Prostate","Docetaxel
+Docetaxel 75 mg/m2 D1 every 21 days","MO028B","14100","Decrease","8500","9400","10700","11100","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Docetaxel
+Docetaxel 75 mg/m2 D1 every 21 days","MO026F","14400","Decrease","8500","9400","10700","11100","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Gemcitabine
+Gemcitabine 1000 mg/m2 D1 D8 every
+21 days","MO024I","9200","Decrease","9000","9900","11300","11300","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Paclitaxel + Carboplatin
+Paclitaxel 175mg/m2 every 21 days","MO024L","15100","Decrease","14500","16000","18200","18200","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Paclitaxel
+Paclitaxel 175mg/m2 every 21 days","MO024N","12200","Decrease","11800","13000","14800","15400","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Paclitaxel
+Paclitaxel 175mg/m2 every 21 days","MO071N","12000","Decrease","11800","13000","14800","15400","","No","NA"
+"MO","Medical Oncology","CT for Renal Cell Cancer","Sunitinib
+50 mg once daily 4 weeks on 2 weeks
+off","MO025A","26400","Decrease","10000","11000","12500","12500","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Carboplatin + Gemcitabine
+Gemcitabine 1000 mg/m2 D1 D8
+Carboplatin AUC 5-6 D1 every 21 days","MO026B","14300","Decrease","13900","15300","17400","17400","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Cisplatin + Paclitaxel
+Paclitaxel 175 mg /m2 D1
+Cisplatin 75 mg /m2 D1 every 21 days","MO026E","13500","Decrease","13300","14700","16700","16700","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Gemcitabine + Paclitaxel
+Gemcitabine 2500 mg/m2 D1
+Paclitaxel 150 mg/m2 D1 every 14 days","MO026G","17500","Decrease","15500","17100","19400","20200","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Paclitaxel + Carboplatin
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO026J","15100","Decrease","14500","16000","18200","18200","","No","NA"
+"MO","Medical Oncology","CT for CA Penis","Cisplatin + Paclitaxel
+Paclitaxel 175 mg/m2 D1
+Cisplatin 75 mg/m2 D1 every 21 days","MO027A","13500","Decrease","13300","14700","16700","17300","","No","NA"
+"MO","Medical Oncology","CT for CA Penis","Capecitabine
+Capecitabine 1000-1250 mg/m2 PO
+twice daily D1 -D14 every 21 days","MO027C","7400","Decrease","7300","8100","9200","9500","","No","NA"
+"MO","Medical Oncology","CT for CA Penis","Paclitaxel + Carboplatin
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO027D","15100","Decrease","14500","16000","18200","18200","","No","NA"
+"MO","Medical Oncology","CT for CA Penis","Paclitaxel + Carboplatin
+Paclitaxel 80 mg/m2 D1
+Carboplatin AUC 2 D1 every week","MO027G","7900","Decrease","7700","8500","9700","10100","","No","NA"

@@ -1,0 +1,150 @@
+﻿"SV","CTVS","Double Valve Procedure","Double valve replacement / repair","SV006A","142,000","Increased","156200","195300","221900","234300","Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Tissue Valve - 80000
+Valve Ring - Mitral - 35000
+Valve Ring - Tricuspid - 35000","Yes","Aortic Valve - Repair -
+142000 Aortic Valve -
+Relacement - 142000
+Mitral Valve - Repair -
+142000
+Mitral Valve -
+Replacement - 142000
+Tricuspid Valve - Repair -
+142000 Tricuspid Valve -
+Replacement -
+142000"
+"SV","CTVS","Triple valve procedure","Triple valve replacement / repair","SV007A","170,000","Increased","187000","233800","265600","280500","Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Tissue Valve - 80000
+Valve Ring - Mitral - 35000
+Valve Ring - Tricuspid - 35000","Yes","Aortic Valve - Repair -
+170000 Aortic Valve -
+Relacement - 170000
+Mitral Valve - Repair -
+170000
+Mitral Valve -
+Replacement - 170000
+Tricuspid Valve - Repair -
+170000 Tricuspid Valve -
+Replacement -
+170000"
+"SV","CTVS","Closed Mitral Valvotomy
+including thoracotomy","Closed mitral valvotomy","SV008A","57,000","Increased","62700","78400","89100","94100","NA","No","NA"
+"SV
+SV","CTVS
+CTVS","Ross Procedure
+Surgery for Hypertrophic
+Obstructive Cardiomyopathy
+(HOCM)","Ross Procedure
+Surgery for Hypertrophic Obstructive
+Cardiomyopathy (HOCM)","SV009A
+SV010A","150,000
+111,000","Increased
+Increased","165000
+122100","206300
+152700","234300
+173400","247500
+183200","RV - PA Conduit - 120000
+Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Tissue Valve - 80000
+Valve Ring - Mitral - 35000
+Valve Ring - Tricuspid - 35000","No
+No","NA
+NA"
+"SV","CTVS","Pericardial window (via
+thoracotomy)","Pericardial window (via thoracotomy)","SV011A","30,000","Increased","33000","41300","46900","49500","NA","No","NA"
+"SV
+SV","CTVS
+CTVS","Pericardiectomy
+Patent Ductus Arteriosus
+(PDA) Closure via
+thoracotomy","Pericardiectomy
+Patent Ductus Arteriosus (PDA) Closure
+via thoracotomy","SV012A
+SV013A","67,000
+57,000","Increased
+Increased","73700
+62700","92200
+78400","104700
+89100","110600
+94100","NA
+NA","No
+No","NA
+NA"
+"SV","CTVS","Aortic Root Replacement
+Surgery","Bental Procedure","SV014A","150,000","Increased","165000","206300","234300","247500","Composite Aortic Valved conduit - Mechanical - 100000
+Dacron Graft - Straight - 30000
+Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Tissue Valve - 80000","No","NA"
+"SV","CTVS","Aortic Root Replacement
+Surgery","Aortic Dissection","SV014B","150,000","Increased","165000","206300","234300","247500","Composite Aortic Valved conduit - Mechanical - 100000
+Dacron Graft - Straight - 30000
+Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Tissue Valve - 80000","No","NA"
+"SV","CTVS","Aortic Root Replacement
+Surgery","Aortic Aneurysm","SV014C","150,000","Increased","165000","206300","234300","247500","Composite Aortic Valved conduit - Mechanical - 100000
+Dacron Graft - Straight - 30000
+Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Tissue Valve - 80000","No","NA"
+"SV","CTVS","Aortic Root Replacement
+Surgery","Valve sparing root replacement","SV014D","150,000","Increased","165000","206300","234300","247500","Composite Aortic Valved conduit - Mechanical - 100000
+Dacron Graft - Straight - 30000
+Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Tissue Valve - 80000","No","NA"
+"SV","CTVS","Aortic Root Replacement
+Surgery","AVR + Root enlargement","SV014E","150,000","Increased","165000","206300","234300","247500","PTFE Patch - Thin - 30000
+Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Pericardial Patch - 18000
+RV - PA Conduit - 120000
+Tissue Valve - 80000
+Valve Ring - Mitral - 35000
+Valve Ring - Tricuspid - 35000
+Dacron Graft Straight - 30000
+PTFE Graft Straight - 50000","No","NA"
+"SV","CTVS","Aortic Arch Replacement /
+Thoracoabdominal aneurysm
+Repair using bypass","Aortic Arch Replacement using
+cardiopulmonary bypass","SV015A","150,000","Increased","165000","206300","234300","247500","Arch Graft - 85000
+Coselli Graft - 85000
+Complex grafts other than Arch Graft & Coseli Graft -
+85000","No","NA"
+"SV","CTVS","Aortic Arch Replacement /
+Thoracoabdominal aneurysm
+Repair using bypass","Thoracoabdominal aneurysm Repair
+using partial cardiopulmonary bypass","SV015B","150,000","Increased","165000","206300","234300","247500","Arch Graft - 85000
+Coselli Graft - 85000
+Complex grafts other than Arch Graft & Coseli Graft -
+85000","No","NA"
+"SV","CTVS","Aortic Aneurysm Repair","Aortic Aneurysm Repair using
+Cardiopulmonary bypass (CPB)","SV016A","120,000","Increased","132000","165000","187500","198000","Dacron Graft - Straight - 30000","No","NA"
+"SV","CTVS","Aortic Aneurysm Repair","Aortic Aneurysm Repair using Left Heart
+Bypass","SV016B","120,000","Increased","132000","165000","187500","198000","Dacron Graft - Straight - 30000","No","NA"
+"SV","CTVS","Aortic Aneurysm Repair","Aortic Aneurysm Repair without using
+Cardiopulmonary bypass (CPB)","SV016C","65,500","Increased","72050","90100","102400","108100","Dacron Graft - Straight - 30000","No","NA"
+"SV","CTVS","Aortic Aneurysm Repair","Aortic Aneurysm Repair without using
+Left Heart Bypass","SV016D","65,500","Increased","72050","90100","102400","108100","Dacron Graft - Straight - 30000","No","NA"
+"SV","CTVS","Aorto Iliac / Aorto femoral
+bypass (Uni and Bi)","Aorto Iliac bypass - U/L","SV017A","64,500","Increased","70950","88700","100800","106500","Dacron Graft - Bifurcated - 35000
+PTFE Graft - Bifurcated - 50000","No","NA"
+"SV","CTVS","Aorto Iliac / Aorto femoral
+bypass (Uni and Bi)","Aorto femoral bypass - U/L","SV017B","64,500","Increased","70950","88700","100800","106500","Dacron Graft - Bifurcated - 35000
+PTFE Graft - Bifurcated - 50000","No","NA"
+"SV","CTVS","Aorto Iliac / Aorto femoral
+bypass (Uni and Bi)","Aorto Iliac bypass - B/L","SV017C","64,500","Increased","70950","88700","100800","106500","Dacron Graft - Bifurcated - 35000
+PTFE Graft - Bifurcated - 50000","No","NA"
+"SV","CTVS","Aorto Iliac / Aorto femoral
+bypass (Uni and Bi)","Aorto femoral bypass - B/L","SV017D","64,500","Increased","70950","88700","100800","106500","Dacron Graft - Bifurcated - 35000
+PTFE Graft - Bifurcated - 50000","No","NA"
+"SV","CTVS","Pulmonary Embolectomy /
+Thromboendarterectomy","Pulmonary Embolectomy","SV018A","141,000","Increased","155100","193900","220300","232700","","No","NA"
+"SV","CTVS","Pulmonary Embolectomy /
+Thromboendarterectomy","Thromboendarterectomy","SV018B","141,000","Increased","155100","193900","220300","232700","","No","NA"
+"SV","CTVS","Peripheral Arterial Surgeries","Femoro - Femoral Bypass","SV019A","50,000","Increased","55000","68800","78100","82500","PTFE graft small (upto 8 mm ) - 30000
+PTFE Graft Large (<8mm) -
+50000","No","NA"

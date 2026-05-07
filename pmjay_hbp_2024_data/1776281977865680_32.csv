@@ -1,0 +1,414 @@
+﻿"MR","Radiation Oncology","Brachytherapy High Dose
+Radiation (5 doses)
+(Inclusive of Simulation,
+Planning Cost, OT & other
+charges )","Interstitial / Intracavitary complex
+planning like CT or MR","MR014A","42000","No change","42000","46200","52500","54600","","No","NA"
+"MR","Radiation Oncology","Brachytherapy High Dose
+Radiation (5 doses)
+(Inclusive of Simulation,
+Planning Cost, OT & other
+charges )","Surface Mould / Intracavitary complex
+planning like CT or MR","MR014B","42000","No change","42000","46200","52500","54600","","No","NA"
+"MR","Radiation Oncology","Brachytherapy High Dose
+Radiation (5 doses)
+(Inclusive of Simulation,
+Planning Cost, OT & other
+charges )","Additional fractions - 11","MR014C","18750","no change","18750","20700","23500","24400","1250 (15)","No","NA"
+"MR","Radiation Oncology","iodine treatment 3 mCi","large Dose scan/ Pre Ablation -
+calculation of treatment","MR015A","new procedure","New","10290","11400","12900","13400","","#N/A","#N/A"
+"MR
+MR","Radiation Oncology
+Radiation Oncology","iodine treatment 30 mCi
+Iodine treatment 50 mCi","Ablation residual disease any risk
+Ablation of residual neck disease
+low/intermediate","MR015B
+MR016A","new procedure
+new procedure","New
+New","15290
+16290","16900
+18000","19200
+20400","19900
+21200","","#N/A
+#N/A","#N/A
+#N/A"
+"MR","Radiation Oncology","Iodine treatment 100 mCi","Ablation for metastatic disease, High risk","MR017A","new procedure","New","20290","22400","25400","26400","","#N/A","#N/A"
+"MR","Radiation Oncology","Iodine treatment 150 mCi","Ablation for metastatic disease, High risk","MR018A","new procedure","New","27290","30100","34200","35500","","#N/A","#N/A"
+"MR","Radiation Oncology","Iodine treatment 200 mCi","Ablation for metastatic disease, High risk","MR019A","new procedure","New","31290","34500","39200","40700","","#N/A","#N/A"
+"MR","Radiation Oncology","Iodine treatment 250 mCi","Ablation for metastatic disease, High risk","MR020A","new procedure","New","36290","40000","45400","47200","","#N/A","#N/A"
+"ID","Infectious Diseases,
+General Medicine","Laboratory Tests for COVID-
+19 Infection (PCR)
+(Reimbursement level for this
+package will be as per the
+ICMR guidelines, issued from
+time to time)","Screening Test for COVID-19 Infection","ID001A","1500","no change","(Reimbursement level
+for this package will be
+as per the ICMR/State
+guidelines, issued from
+time to time)","(Reimbursement level
+for this package will be
+as per the ICMR/State
+guidelines, issued from
+time to time)","(Reimbursement level
+for this package will be
+as per the ICMR/State
+guidelines, issued from
+time to time)","(Reimbursement level
+for this package will be
+as per the ICMR/State
+guidelines, issued from
+time to time)","","Yes","NA"
+"ID","Infectious Diseases,
+General Medicine","Laboratory Tests for COVID-
+19 Infection (PCR)
+(Reimbursement level for this
+package will be as per the
+ICMR guidelines, issued from
+time to time)","Test for Confirmation of COVID-19 Infection","ID001B","3000","no change","(Reimbursement level
+for this package will be
+as per the ICMR/State
+guidelines, issued from
+time to time)","(Reimbursement level
+for this package will be
+as per the ICMR/State
+guidelines, issued from
+time to time)","(Reimbursement level
+for this package will be
+as per the ICMR/State
+guidelines, issued from
+time to time)","(Reimbursement level
+for this package will be
+as per the ICMR/State
+guidelines, issued from
+time to time)","","No","NA"
+"ID","Infectious Diseases,
+General Medicine","Treatment of COVID-19 InfectionT","reatment of COVID-19 Infection","ID003A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"ID","Infectious Diseases,
+General Medicine","Treatment of systemic fungal
+infections","Treatment of systemic fungal infections","ID005A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"OBG & Gynec
+OBG & GyneOc","OBG & Gynec
+BG & Gynec","Hysterectomy
+Hysterectomy","Abdominal Hysterectomy
+Abdominal Hysterectomy + Salpingo-
+oophorectomy","SO010A
+SO010B","20000
+20000","No change
+No change","20000
+20000","20000
+20000","23400
+23400","25000
+25000","","No
+No","NA
+NA"
+"OBG & Gynec
+OBG & GyneOc","OBG & Gynec
+BG & Gynec","Hysterectomy
+Hysterectomy","Non descent vaginal hysterectomy
+Vaginal hysterectomy with anterior and
+posterior colpoperineorrhaphy","SO010C
+SO010D","20000
+20000","No change
+No change","20000
+20000","20000
+20000","23400
+23400","25000
+25000","","No
+No","NA
+NA"
+"OBG & GyneOc
+OBG & Gynec","BG & Gynec
+OBG & Gynec","Hysterectomy
+Hysterectomy","Laparoscopic hysterectomy (TLH)
+Laparoscopically assisted vaginal
+hysterectomy (LAVH)","SO010E
+SO010F","20000
+20000","No change
+No change","20000
+20000","20000
+20000","23400
+23400","25000
+25000","","No
+No","NA
+NA"
+"OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec","Caesarean hysterectomy
+Dilation and Evacuation
+(D&E)","Caesarean hysterectomy
+Dilation and Evacuation (D&E)","SO011A
+SO019A","20000
+5000","No change
+No change","20000
+5000","20000
+5000","23400
+5900","25000
+6300","","No
+No","NA
+NA"
+"OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec","Pyometra drainage
+Hospitalisation for Antenatal
+Complications","Pyometra drainage
+Hospitalisation for Antenatal
+Complications","SO020A
+SO046A","5000
+2100","No change
+No change","5000
+2100","5000
+2100","5900
+2400","6300
+2700","","No
+Yes","NA
+Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"OBG & Gynec","OBG & Gynec","Medical management of
+ectopic pregnancy","Medical management of ectopic
+pregnancy","SO052A","2100","No change","2100","2100","2400","2700","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"OBG & Gynec
+OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec
+OBG & Gynec","Manual removal of placenta
+Salpingoophorectomy
+Sacrocolpopexy (Abdominal)","Manual removal of placenta
+Open
+Open","SO055A
+SC030A
+SO025A","8500
+37400
+23900","No change
+Decrease
+Decrease","8500
+20000
+20000","8500
+25000
+20000","10000
+28400
+28400","10700
+30000
+25000","Mesh - 15 X 15 - 5000","No
+No
+No","NA
+NA
+NA"
+"OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec","Salpingoophorectomy
+Sling Surgeries for Prolapse","Lap.
+Surgeries for Prolapse - Sling Surgeries","SC030B
+SO013A","37400
+28900","Decrease
+Decrease","20000
+25000","25000
+31300","28400
+35500","30000
+37500","Sling - 5000","No
+No","NA
+NA"
+"OBG & Gynec","OBG & Gynec","Hysteroscopic IUCD removal","Hysteroscopic IUCD removal","SO017A","6000","Decrease","5000","5000","5900","6300","","No","NA"
+"OBG & Gynec
+OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec
+OBG & Gynec","D&C (Dilatation&curretage)
+Intrauterine transfusions
+Trans - vaginal tape / Trans-
+obturator tape","D&C (Dilatation&curretage)
+Intrauterine transfusions
+Trans-vaginal tape","SO018A
+SO021A
+SO024A","18800
+14200
+15200","Decrease
+Decrease
+Decrease","5000
+10000
+8000 (tape cost
+additional=30-35000)","5000
+10000
+8000 (tape cost
+additional=30-35000)","5900
+14200
+9360 (tape cost
+additional=30-35000)","6300
+12500
+10000 (tape cost
+additional=30-35000)","Tension free Vaginal Tape","No
+No
+No","NA
+NA
+NA"
+"OBG & Gynec","OBG & Gynec","Trans - vaginal tape / Trans-
+obturator tape","Trans-obturator tape","SO024B","15200","Decrease","8000 (tape cost
+additional=30-35000)","8000 (tape cost
+additional=30-35000)","9360 (tape cost
+additional=30-35000)","10000 (tape cost
+additional=30-35000)","Trans Obturator Tape","No","NA"
+"OBG & Gynec","OBG & Gynec","Sacrocolpopexy (Abdominal)","Lap.","SO025B","23900","Decrease","20000","20000","28400","25000","Mesh - 15 X 15 - 5000","No","NA"
+"OBG & Gynec","OBG & Gynec","LLETZ (including PAP smear
+and colposcopy)","LLETZ (including PAP smear and
+colposcopy)","SO026A","9900","Decrease","7000","7000","10000","8800","","No","NA"
+"OBG & GyneOc
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec","BG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec","Cystectomy
+Burch
+Burch
+Amniocentesis
+Chorionic villus sampling
+Cordocentesis
+McDonald's stitch
+High risk delivery","Lap
+Abdominal
+Laparoscopic
+Amniocentesis
+Chorionic villus sampling
+Cordocentesis
+McDonald's stitch
+Mothers with severe anaemia (<7 g/dL)","SO041A
+SO043A
+SO043B
+SO047A
+SO048A
+SO049A
+SO050A
+SO054D","24600
+30000
+30000
+14500
+14500
+14500
+8800
+11500","Decrease
+Decrease
+Decrease
+Decrease
+Decrease
+Decrease
+Decrease
+Decrease","20000
+25000
+25000
+5000
+5000
+10000
+8000
+10000","20000
+25000
+25000
+5000
+5000
+10000
+8000
+10000","23400
+35500
+35500
+7100
+7100
+14200
+9400
+14200","25000
+31300
+31300
+6300
+6300
+12500
+10000
+12500","","No
+No
+No
+No
+No
+No
+No
+No","NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA"

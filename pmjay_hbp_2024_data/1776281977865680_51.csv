@@ -1,0 +1,240 @@
+﻿"SU","Urology","Boari flap for ureteric
+stricture","Lap.","SU031B","30000","Increased","33750","42200","48000","50700","","No","NA"
+"SU","Urology","Ileal replacement for ureteric
+stricture","Ileal replacement for ureteric stricture","SU032A","46000","Increased","65000","81300","92300","97500","","No","NA"
+"SU
+SU","Urology
+Urology","DJ Stent Removal
+Ureterocele incision including
+cystoscopy, ureteric
+catheterization, retrograde
+pyelogram","DJ Stent Removal
+Ureterocele incision including
+cystoscopy, ureteric catheterization,
+retrograde pyelogram","SU034A
+SU035A","5000
+15000","Increased
+Increased","5250
+20000","6600
+25000","7500
+28400","6600
+25000","","No
+No","NA
+NA"
+"SU","Urology","Ureteric sampling including
+cystoscopy, ureteric
+catheterization, retrograde
+pyelogram","Ureteric sampling including cystoscopy,
+ureteric catheterization, retrograde
+pyelogram","SU036A","11000","Increased","15000","18800","21300","18800","","No","NA"
+"SU
+SU
+SU","Urology
+Urology
+Urology","Endopyelotomy
+Endopyelotomy
+Deflux for VUR","Retrograde with laser / bugbee
+Antegrade with laser / bugbee
+Deflux for VUR(only procedure charge)","SU038A
+SU038B
+SU046A","25000
+25000
+1200","Increased
+Increased
+Increased","30000
+30000
+4200","37500
+37500
+5300","42600
+42600
+6000","45000
+45000
+6300","","No
+No
+No","NA
+NA
+NA"
+"SU","Urology","Bladder Neck incision -
+Endoscopic","Bladder Neck incision - Endoscopic","SU054A","15000","Increased","16500","20700","23500","24800","","No","NA"
+"SU
+SU
+SU","Urology
+Urology
+Urology","Urachal Cyst excision
+Urachal Cyst excision
+Excision of Urethral Caruncle","Urachal Cyst excision - Open
+Urachal Cyst excision - Laparoscopic
+Excision of Urethral Caruncle","SU058A
+SU058B
+SU074A","18500
+18500
+5000","Increased
+Increased
+Increased","21937.5
+23812.5
+5625","27500
+29800
+7100","31200
+33900
+8000","27500
+29800
+7100","","No
+No
+No","NA
+NA
+NA"
+"SU","Urology","Open simple prostatetctomy
+for BPH","Open simple prostatetctomy for BPH","SU077A","27500","Increased","29812.5","37300","42400","37300","","No","NA"
+"SU
+SU
+SU","Urology
+Urology
+Urology","Radical prostatectomy
+Radical prostatectomy
+TURP-Transurethral
+Resection of the Prostate,
+BPH","Open (to be checked with surg onco)
+Lap.(to be checked with surg. Onco)
+Monopolar","SU078A
+SU078B
+SU080A","50000
+50000
+27500","Increased
+Increased
+Increased","54375
+56250
+30937.5","68000
+70400
+38700","77300
+79900
+44000","81600
+84400
+38700","","No
+No
+No","NA
+NA
+NA"
+"SU","Urology","TURP-Transurethral
+Resection of the Prostate,
+BPH","Bipolar","SU080B","27500","Increased","30937.5","38700","44000","38700","","No","NA"
+"SU","Urology","Transrectal Ultrasound
+guided prostate biopsy
+(minimum 12 core)","Transrectal Ultrasound guided prostate
+biopsy (minimum 12 core)","SU081A","10000","Increased","10125","12700","14400","15200","","No","NA"
+"SU
+SU","Urology
+Urology","Surgery for Priapism
+Surgical Correction of
+Varicocele","Shunt
+Non Microsurgical","SU083B
+SU089A","15000
+10000","Increased
+Increased","16500
+10125","20700
+12700","23500
+14400","20700
+15200","","No
+Yes","NA
+U/L - 10000
+B/L - 15000"
+"SU","Urology","Surgical Correction of
+Varicocele","Microsurgical","SU089B","15000","Increased","20000","25000","28400","30000","","Yes","U/L - 15000
+B/L - 20000"
+"SU","Urology","Retrograde Intrarenal
+Surgery with Laser
+Lithotripsy","Retrograde Intrarenal Surgery with
+Laser Lithotripsy","SU095A","30000","Increased","30375","38000","43200","45600","","No",""
+"SU
+SU","Urology
+Urology","Repair for VVF
+Permanent tunnelled catheter
+placement as substitute for
+AV fistula in long term
+dialysis","Laparoscopic/open
+Permanent tunnelled catheter placement
+as substitute for AV fistula in long term
+dialysis","SU096B
+SU097A","34000
+30000","Increased
+Increased","37500
+30000","37500
+30000","53300
+35100","46900
+37500","","No
+No",""
+"SU","Urology","Pelvic lymphadenectomy,
+after prior cancer surgery","Laparoscopic","SU098B","30000","Increased","30375","38000","43200","45600","","No",""
+"SU","Urology","Botulinum toxin injection for
+Neuropathic bladder","Botulinum toxin injection for Neuropathic
+bladder","SU099A","new procedure","New","10000","12500","14200","15000","","#N/A","#N/A"
+"SU
+SU","Urology
+Urology","Torsion of testis
+Follow up for urological
+procedures","Torsion of testis
+Follow up for urological procedures","SU0100A
+SU0101A","new procedure
+new procedure","New
+New","15000
+1500","18800
+1900","21300
+2200","22500
+2300","","#N/A
+#N/A","#N/A
+#N/A"
+"SV","CTVS","Surgical Correction of
+Category - I Congenital Heart
+Disease","Unifocalization of MAPCA","SV001A","100,000","Increased","110000","137500","156200","165000","PTFE Graft - Thin - 30000","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - I Congenital Heart
+Disease","Isolated Secundum Atrial Septal
+Defect (ASD) Repair","SV001B","100,000","Increased","110000","137500","156200","165000","","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - I Congenital Heart
+Disease","Glenn procedure","SV001C","100,000","Increased","110000","137500","156200","165000","","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - I Congenital Heart
+Disease","Pulmonary Artery Banding","SV001D","100,000","Increased","110000","137500","156200","165000","","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - I Congenital Heart
+Disease","Systemic - Pulmonary Artery shunt","SV001E","100,000","Increased","110000","137500","156200","165000","PTFE Patch - Thin - 30000","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - I Congenital Heart
+Disease","Vascular Ring division","SV001F","100,000","Increased","110000","137500","156200","165000","","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - I Congenital Heart
+Disease","Coarctation repair","SV001G","100,000","Increased","110000","137500","156200","165000","Dacron Graft - Straight - 30000","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - II Congenital
+Heart Disease","ASD closure + Partial Anomalous
+Venous Drainage Repair","SV002A","120,000","Increased","132000","165000","187500","198000","PTFE Patch - Thin - 30000
+PTFE graft small (upto 8 mm)- 30000
+PTFE Graft Large (<8mm) - 50000
+Dacron Graft Straight - 30000","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - II Congenital
+Heart Disease","ASD Closure + Mitral procedure","SV002B","120,000","Increased","132000","165000","187500","198000","PTFE Patch - Thin - 30000
+Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Pericardial Patch - 18000
+Tissue Valve - 80000
+Valve Ring - Mitral - 35000
+Valve Ring - Tricuspid - 35000","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - II Congenital
+Heart Disease","ASD Closure + Tricuspid procedure","SV002C","120,000","Increased","132000","165000","187500","198000","PTFE Patch - Thin - 30000
+Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Pericardial Patch - 18000
+Tissue Valve - 80000
+Valve Ring - Mitral - 35000
+Valve Ring - Tricuspid - 35000","No","NA"
+"SV","CTVS","Surgical Correction of
+Category - II Congenital
+Heart Disease","ASD Closure + Pulmonary procedure","SV002D","120,000","Increased","132000","165000","187500","198000","PTFE Patch - Thin - 30000
+Mechanical Valve - Bileaflet - 40000
+Mechanical Valve - Tilting Disc - 28000
+Pericardial Patch - 18000
+Tissue Valve - 80000
+Valve Ring - Mitral - 35000
+Valve Ring - Tricuspid - 35000","No","NA"

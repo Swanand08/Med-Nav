@@ -1,0 +1,331 @@
+﻿"MG","General Medicine,
+Pulmonology, General
+surgery","Intercostal drainage","Intercostal drainage","MG096A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General Medicine,
+Pulmonology
+interventional","Endobronchial Ultrasound
+(EBUS)","Endobronchial Ultrasound guided fine
+needle biopsy","MG097A","new procedure","New","15614","15700","18000","18000","","#N/A","#N/A"
+"MG","General Medicine,
+Pulmonology","Fibreoptic bronchoscopy
+(FOB)","Bronchoscopy","MG096A","new procedure","New","For foreign body removal
+2438 & Video
+Bronchoscopy 8500","-For foreign body removal
+2438 & Video
+Bronchoscopy 8500","-For foreign body removal
+2800 & Video
+Bronchoscopy 9800","-For foreign body removal
+2800 & Video
+Bronchoscopy 9800","-","#N/A","#N/A"
+"MG","General Medicine,
+Pediatric Medical
+Management, Cardiology","PET scan","PET scan","MG098A","new procedure","New","Whole body- 20528,
+Brain-14663, Gallium 68
+Peptide-15000, Cardiac-
+1500","Whole body- 20528,
+Brain-14663, Gallium 68
+Peptide-15000, Cardiac-
+1500","Whole body- 23600,
+Brain-16900, Gallium 68
+Peptide-17000, Cardiac-
+1700","Whole body- 23600,
+Brain-16900, Gallium 68
+Peptide-17000, Cardiac-
+1700","","#N/A","#N/A"
+"MG","General Medicine,
+Pediatric Medical
+Management","Platelet pheresis","Platelet pheresis","MG099A","new procedure","New","11000","11000","12700","12700","","#N/A","#N/A"
+"MG","General Medicine,
+Nephrology-
+Interventional","Chronic PD catheter
+Insertion","Chronic PD catheter Insertion","MG0100A","new procedure","New","4025","4100","4700","4700","","#N/A","#N/A"
+"MG","General Medicine,
+Gastroenterology","Acute severe ulcerative colitis","Acute severe ulcerative colitis","MG0101A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General Medicine,
+Gastroenterology","Mesenteric Ischemia","Mesenteric Ischemia","MG0102A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General Medicine,
+Gastroenterology","Intestinal obstruction","Intestinal obstruction","MG0103A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General Medicine,
+Gastroenterology","Acute necrotizing severe
+pancreatitis","Acute necrotizing severe pancreatitis","MG0104A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine /high
+end drugs","Pulmonary
+Thromboembolism","Pulmonary Thromboembolism","MG0105A","new procedure","New","25000","25000","28800","28800","","#N/A","#N/A"
+"MG","General medicine /high
+end drugs","Diffuse alveolar Hemorrhage
+Associated with
+SLE/Vasculitis/GP Syndrome","Diffuse alveolar Hemorrhage Associated
+with SLE/Vasculitis/GP Syndrome","MG0106A","new procedure","New","136000","136000","156400","156400","","#N/A","#N/A"
+"MG","General medicine /high
+end drugs","Severe/Refractory Vasculitis","Severe/Refractory Vasculitis","MG0107A","new procedure","New","75000","75000","86300","86300","","#N/A","#N/A"
+"MG","General medicine","Acute liver failure/Fulminant
+Hepatitis","Acute liver failure/Fulminant Hepatitis","MG0108A","new procedure","New","50000","50000","57500","57500","","#N/A","#N/A"
+"MG","General medicine","Pulmonary thromboembolism","Pulmonary thromboembolism","MG0109A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine","Acute liver failure","Acute liver failure","MG0110A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine","Pleural Effusion","Pleural Effusion","MG0111A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine","Hyberbilirubinemia","Hyberbilirubinemia","MG0112A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine","Polytrauma","Polytrauma","MG0113A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine","Trauma- FacioMaxillary","Trauma- FacioMaxillary","MG0113B","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine","Trauma Hand injury","Trauma Hand injury","MG0113C","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine","Trauma Rib fracture
+conservative","Trauma Rib fracture conservative","MG0113D","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"

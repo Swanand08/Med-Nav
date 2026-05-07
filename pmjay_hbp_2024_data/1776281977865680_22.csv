@@ -1,0 +1,114 @@
+﻿"MO","Medical Oncology","CT for Mesothelioma","Pemetrexed + Cisplatin
+Pemetrexed 500mg/m2 D1
+Cisplatin 75 mg/m2 D1 every 21 days","MO022B","9200","Increased","9420","10400","11800","12300","","No","NA"
+"MO","Medical Oncology","CT for Mesothelioma","Pemetrexed + Carboplatin
+Pemetrexed 500mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO022C","10000","Increased","10125","11200","12700","13200","","No","NA"
+"MO","Medical Oncology","CT for Thymic Carcinoma","Cisplatin + Etoposide
+Etoposide 100mg/m2 D1 - D3
+Cisplatin 75-100 mg/m2 D1 every 21
+days","MO023A","5300","Increased","7012.5","7800","8800","8800","","No","NA"
+"MO","Medical Oncology","CT for Thymic Carcinoma","Cisplatin + Adriamycin +
+Cyclophosphamide
+Cisplatin 50 mg/m2 D1
+Doxorubicin 50 mg/m2 D1
+Cyclophosphamide 500 mg/m2 D1 every
+21 days","MO023B","5000","Increased","5900","6500","7400","7700","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Etoposide + Carboplatin
+Etoposide 100mg/m2 D1 - D3
+Carboplatin AUC 5-6 D1 every 21 days","MO024G","7100","Increased","7687.5","8500","9700","9700","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Etoposide + Cisplatin
+Etoposide 100mg/m2 D1 - D3
+Cisplatin 75-100 mg/m2 D1 every 21
+days","MO024H","9200","Increased","9262.5","10200","11600","11600","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Gemcitabine + Cisplatin
+Gemcitabine 1000 mg/m2 D1 D8
+Cisplatin 75 mg/m2 D1 every 21 days","MO024J","11100","Increased","12150","13400","15200","15200","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Carboplatin
+Carboplatin AUC 2 every week","MO024O","2400","Increased","2692.5","3000","3400","3600","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Cisplatin
+Cisplatin 40mg/m2 every week","MO024P","2200","Increased","2362.5","2600","3000","3100","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Cisplatin + Methotrexate + Vinblastin
+Methotrexate 30mg/m2 D1 D8
+Vinblastine 4 mg/m2 D1 D8
+Doxorubicin 30 mg/m2 D2
+Cisplatin 100 mg/m2 D2
+Leucovorin 15 mg PO D2 D9 every 21
+days","MO026A","6000","Increased","6750","7500","8500","8800","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Cisplatin + Gemcitabine
+Gemcitabine 1000 mg/m2 D1 D8
+Cisplatin 75 mg/m2 D1 every 21 days","MO026C","11100","Increased","12150","13400","15200","15200","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Methotrexate + Vinblastin + Doxorubicin
++ Cisplatin
+Methotrexate 30mg/m2 D1
+Vinblastine 3 mg/m2 D2
+Doxorubicin 30 mg/m2 D2
+Cuisplatin 70 mg/m2 D2 every 14 days","MO026I","6600","Increased","7537.5","8300","9500","9800","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Paclitaxel
+Paclitaxel 80 mg/m2 D1 every week","MO026K","5700","Increased","6375","7100","8000","8300","","No","NA"
+"MO","Medical Oncology","CT for CA Penis","Paclitaxel
+Paclitaxel 80 mg/m2 D1 every week","MO027E","5700","Increased","5962.5","6600","7500","7800","","No","NA"
+"MO","Medical Oncology","CT for CA Penis","5 FU + Cisplatin
+5 FU 1000mg/m2 D1-D4
+Cisplatin 75mg/m2 D1 every 4 weeks","MO027B","7800","Increased","8175","9000","10300","10700","","No","NA"
+"MO","Medical Oncology","CT for CA Prostate","Etoposide + Carboplatin
+Etoposide 100mg/m2 D1 - D3
+Carboplatin AUC 5-6 D1 every 21 days","MO028C","7100","Increased","7687.5","8500","9700","9700","","No","NA"
+"MO","Medical Oncology","CT for Peripheral T - Cell
+Lymphoma","CHOEP
+Cyclophosphamide 750mg/m2 D1
+Vincristine 1.4mg/m2 D1
+Adriamycin 50 mg/m2 D1
+Etoposide 100mg/m2 D1-3
+Prednisolone 100 mg D1-5
+Every 21days. Total 6 cycles","MO037A","5000","Increased","5250","5800","6600","6900","","No","NA"
+"MO","Medical Oncology","CT for Peripheral T - Cell
+Lymphoma","CHOP
+Cyclophosphamide 750mg/m2 D1
+Vincristine 1.4mg/m2 D1
+Adriamycin 50 mg/m2 D1
+Prednisolone 100 mg D1-5
+Every 21days. Total 6 cycles","MO037B","4000","Increased","5125","5700","6500","6500","","No","NA"
+"MO","Medical Oncology","CT for Peripheral T - Cell
+Lymphoma","SMILE
+Methotrexate 2gm/m2 D1
+Ifosfamide 1500mg/m2 D2-4
+Etoposide 100mg/m2 D2-4
+L-asparginase 6000U/m2
+D8,10,12,14,16,18,20
+Dexamethasone 40mg D1-4 every 28
+days","MO037C","19300","Increased","19672.5","21700","24600","25600","","No","NA"
+"MO","Medical Oncology","CT for NK - T Cell
+Lymphoma","GELOX
+Gemcitabine 1000mg/m2 D1 and D8
+Oxaliplatin 130mg/m2 D1
+L- asparginase 6000 U/m2 D1-7
+Repeat every 21 days","MO038A","18900","Increased","19293.75","21300","24200","25100","","No","NA"
+"MO","Medical Oncology","CT for NK - T Cell
+Lymphoma","LVP
+L-asparginase 6000U/m2 D1-5
+Vincristine 1.4mg/m2 D1
+Prednisolone 100mg D1-5
+Repeat every 21 days","MO038B","7600","Increased","7950","8800","10000","10000","","No","NA"
+"MO","Medical Oncology","CT for Hodgkin's Lymphoma","COPP
+Cyclophosphamide 650mg/m2 D1, 8
+Vincristine 1.4mg/m2 D1, 8
+Procarbazine 100 mg/m2 D1-14
+Prednisolone 40mg/m2 D1-14
+Every 28days. Total 6 - 8 cycles","MO039A","3600","Increased","3825","4300","4800","4800","","No","NA"
+"MO","Medical Oncology","CT for Relapsed Hodgkin
+Lymphoma","ICE
+Ifosfamide 1.5 mg/m2 D1-3
+Carboplatin AUC5 D2
+Etoposide 100mg/m2 D1-3
+Every 3 weeks","MO040A","9700","Increased","10530","11600","13200","13700","","No","NA"
+"MO","Medical Oncology","CT for Relapsed Hodgkin
+Lymphoma","MINE
+Ifosfamide 4 gm/m2 over 3days (D1-3)
+Mitoxantrone 8mg/m2
+Etoposide 65mg/m2 D1-3
+Every 3 weeks","MO040B","9700","Increased","10530","11600","13200","13700","","No","NA"

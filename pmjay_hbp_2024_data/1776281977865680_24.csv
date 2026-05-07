@@ -1,0 +1,123 @@
+﻿"MO","Medical Oncology","CT for Neuroblastoma","13-cis retinoic acid 160mg/m2 per day
+for 2 weeks
+Each cycle given 4 weekly","MO057C","2000","Increased","2025","2300","2600","2700","","No","NA"
+"MO","Medical Oncology","CT for Retinoblastoma","Vincristine + Carboplatin + Etoposide
+Carboplatin 600mg/m2 day 1
+Etoposide 150mg/m2 days 1-3
+Vincristine1.5mg/m2 day 1","MO058A","7100","Increased","7372.5","8200","9300","9600","","No","NA"
+"MO","Medical Oncology","CT for Rhabdomyosarcoma","Vincristine + Cyclophosphamide +
+Dactinomycin
+Vincristine 1.5mg/m2 (day 1, 8 and 15)
+Cyclophosphamie 1200 - 2200 mg/m2
+(day 1)
+Dactinomycin 1.5mg / m2 (day 1)
+3 weekly cycle","MO059A","4800","Increased","5700","6300","7200","7500","","No","NA"
+"MO","Medical Oncology","CT for Relapse
+Rhabdomyosarcoma","Vincristine + Topotecan +
+Cyclophosphamide and
+Vincristine + Adriamycin +
+Cyclophosphamide
+Vincristine 1.5mg/m2 (day 1)
+Topotecan 1.5mg/m2 (day 1-5)
+Cyclophosphamide 250mg/m2 (days 1-
+5)
+3 - weekly
+Vincristine 1.5mg/m2
+Adriamyicn 60mg/m2
+Cyclophosphamide 600mg/m2 (all Day
+1)
+Every 3 weeks. Cycles given in couplets","MO060A","12200","Increased","12412.5","13700","15600","16200","","No","NA"
+"MO","Medical Oncology","CT for Wilms Tumor","Vincristine + Actinomycin D
+Vincristine 1.5 mg/m2 weekly for 12
+weeks and then 3 weekly
+Actinomycin D 45 microgram / kg 3
+weekly for 24 weeks","MO061A","3000","Increased","3750","4200","4700","4900","","No","NA"
+"MO","Medical Oncology","CT for Wilms Tumor","Vincristine + Actinomycin D +
+Doxorubicin
+Vincristine 1.5 mg/m2 weekly for 12
+weeks and then 3 weekly
+Actinomycin D 45 microgram/kg 3
+weekly
+Doxorubicin 60mg/m2 for 24 weeks","MO061B","4200","Increased","4950","5500","6200","6500","","No","NA"
+"MO","Medical Oncology","CT for Wilms Tumor","Cyclophosphamide + Doxorubicin +
+Etoposide + Vincristine + Dactinomycin
+Vincristine 1.5 mg/m2
+Dactinomycin 45 microgram/kg
+Adriamyicn 60mg/m2
+Cyclophosphamide
+Etoposide
+Weekly chemotherapy - varying hybrid
+regimen","MO061C","12300","Increased","15225","16800","19100","19800","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Acute
+Lymphoblastic Leukemia","Consolidation
+(Phase II, CNS Therapy Reinduction)","MO062A","208600","Increased","239650","263700","299600","311600","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Acute
+Lymphoblastic Leukemia","ICICLE
+BFM
+KLALL
+MCP:841","MO062B","72000","Increased","87000","95700","108800","113100","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Acute
+Lymphoblastic Leukemia","6 - Mercaptopurine 75mg/m2 daily
+Methotrexate 20mg/m2 weekly
+Vincristine 1.5mg/m2 monthly
+Intrathecal methotrexate 12 mg 3
+monthly","MO062C","2500","Increased","2662.5","3000","3400","3500","","No","NA"
+"MO","Medical Oncology","CT for Pediatric
+Lymphoblastic Lymphoma","Consolidation
+(Phase II, CNS Therapy Reinduction)","MO063A","208600","Increased","239650","263700","299600","311600","","No","NA"
+"MO","Medical Oncology","CT for Pediatric
+Lymphoblastic Lymphoma","ICICLE
+BFM
+KLALL
+MCP:841","MO063B","72000","Increased","87000","95700","108800","113100","","No","NA"
+"MO","Medical Oncology","CT for Pediatric
+Lymphoblastic Lymphoma","6 - Mercaptopurine 75mg/m2 daily
+Methotrexate 20mg/m2 weekly
+Vincristine 1.5mg/m2 monthly
+Intrathecal methotrexate 12 mg 3
+monthly","MO063C","2500","Increased","2662.5","3000","3400","3500","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Acute
+Myeloid Leukemia","Cytrabine 200mg/m2/day days 1-10 and
+Daunorubicin 50mg/m2 days 1, 3 and 5
+Etposide 100mg/m2 days 1-5","MO064B","94400","Increased","105240","115800","131600","136900","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Acute
+Myeloid Leukemia","Cytrabine 100-200mg/m2/day days 1-7
+and Daunorubicin 50mg/m2 days 1, 3
+and 5","MO064C","92800","Increased","104880","115400","131100","136400","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Acute
+Promyelocytic Leukemia","Consolidation","MO065A","36800","Increased","58800","64700","73500","76500","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Acute
+Promyelocytic Leukemia","Induction","MO065B","97600","Increased","129400","142400","161800","168300","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Hodgkins
+Lymphoma","COPDAC","MO066A","7800","Increased","9450","10400","11900","12300","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Non
+Hodgkins Lymphoma","LMB 89 - 96 - Consolidation (second
+month)","MO068A","33500","Increased","42562.5","46900","53300","55400","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Non
+Hodgkins Lymphoma","LMB 89 - 96 - Induction - COPADAM (
+first month)","MO068B","33100","Increased","42412.5","46700","53100","55200","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Non
+Hodgkins Lymphoma","LMB 89 - 96 - Maintenance","MO068C","15400","Increased","65775","72400","82300","85600","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Non
+Hodgkins Lymphoma","MCP - 842","MO068D","13200","Increased","98700","108600","123400","128400","","No","NA"
+"MO
+MO","Medical Oncology
+Medical Oncology","PEDIATRIC-GCT/JEB
+CT for Pediatric
+Hepatoblastoma","Pediatric - Germ Cell Tumor / JEB
+Carboplatin + Cisplatin + Doxorubicin","MO069A
+MO070A","10000
+4900","Increased
+Increased","10650
+5587.5","11800
+6200","13400
+7000","13900
+7300","","No
+No","NA
+NA"
+"MO","Medical Oncology","CT for CA Lung","Pemetrexed + Carboplatin
+Pemetrexed 500mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO071E","10000","Increased","10125","11200","12700","13200","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Etoposide + Carboplatin
+Etoposide 100mg/m2 D1 - D3
+Carboplatin AUC 5-6 D1 every 21 days","MO071H","7100","Increased","7687.5","8500","9700","9700","","No","NA"

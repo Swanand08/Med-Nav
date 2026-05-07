@@ -1,0 +1,320 @@
+﻿"SG","General Surgery,
+Pediatric Surgery","Thoracoscopic Segmental
+Resection","Thoracoscopic Segmental Resection","SG082A","25000","Increased","31875","39900","45300","39900","Linear Cutter 3 cartidges-15000","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Thymectomy","Thymectomy","SG072A","28000","Increased","48000","60000","68200","72000","","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Rib Resection & Drainage","Rib Resection & Drainage","SG078A","14000","Increased","20000","20000","28400","25000","","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Thoracoplasty","Thoracoplasty","SG079A","20000","Increased","24375","24400","34700","30500","","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Decortication (Pleurectomy)","Decortication (Pleurectomy)","SG080A","28000","Increased","33000","33000","46900","41300","","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Lung Hydatid Cyst removal","Lung Hydatid Cyst removal","SG083A","20000","Increased","26250","26300","37300","32900","","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Surgical Management of
+PseudoCyst","CystoJejunostomy - Lap","SG011B","20000","Increased","22500","22500","26400","28200","","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Surgical Management of
+PseudoCyst","Cystogastrostomy - Lap","SG011D","20000","Increased","26250","26300","30800","32900","","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Operation forAbdominal
+Hydatid Cyst (Single Organ) -
+Change in Name","Operation forAbdominal Hydatid Cyst
+(Single Organ) - Change in Name","SG038A","15800","Increased","20925","21000","23100","26200","","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Cholecystectomy","With Exploration of CBD - Lap","SG039D","27800","Increased","31050","31100","36400","38900","","No","NA"
+"SG","General Surgery,
+Pediatric Surgery","Hiatus Hernia Repair /
+Fundoplication","Hiatus Hernia Repair - Lap","SG053B","23500","Increased","26287.5","26300","30800","32900","","No","NA"
+"SG","General Surgery,
+Orthopedics","Tendon Transfer","Tendon Transfer","SG092A","15000","Increased","20000","25000","28400","25000","","No","NA"
+"SG","General Surgery, ENT","Surgical removal of Branchial
+Cyst/Sinus","Surgical removal of Branchial
+Cyst/Sinus","SG068A","15000","Increased","20000","20000","23400","25000","","No","NA"
+"SG","General Surgery","Gastrectomy","Bleeding Ulcer - Partial Gastrectomy
+without Vagotomy","SG003A","42500","Increased","50000","62500","71000","62500","","No","NA"
+"SG
+SG
+SG","General Surgery
+General Surgery
+General Surgery","Vagotomy
+Vagotomy
+Operation for Bleeding Peptic
+Ulcer","G J Vagotomy
+Vagotomy + Pyloroplasty
+Operation for Bleeding Peptic Ulcer","SG005A
+SG005B
+SG006A","23500
+23500
+22500","Increased
+Increased
+Increased","25687.5
+25687.5
+27187.5","32200
+32200
+27200","36500
+36500
+31900","38600
+38600
+34000","","No
+No
+No","NA
+NA
+NA"
+"SG","General Surgery","Operation for Gastric /
+Duodenal Perforation","Gastric Perforation","SG007A","20100","Increased","22537.5","22600","32100","28200","","No","NA"
+"SG","General Surgery","Operation for Gastric /
+Duodenal Perforation","Duodenal Perforation","SG007B","20100","Increased","22537.5","22600","32100","28200","","No","NA"
+"SG
+SG","General Surgery
+General Surgery","Diverticulectomy
+Perineal Procedure for Rectal
+Prolapse","Excision Duodenal Diverticulum
+Perineal Procedure for Rectal Prolapse","SG016A
+SG026A","20000
+16700","Increased
+Increased","25000
+18750","25000
+18800","29300
+26700","31300
+23500","","No
+No","NA
+NA"
+"SG
+SG","General Surgery
+General Surgery","Sigmoid Resection
+Abdominal Procedure for
+Rectal Prolapse","Sigmoid Resection
+Open","SG025A
+SG027A","21500
+19000","Increased
+Increased","23062.5
+20250","23100
+20300","27000
+28800","28900
+25400","","No
+No","NA
+NA"
+"SG","General Surgery","Abdominal Procedure for
+Rectal Prolapse","Lap","SG027B","19000","Increased","20250","20300","23700","25400","","No","NA"
+"SG","General Surgery","Procedure for Fissure in Ano","Procedure for Fissure in Ano","SG031A","8000","Increased","10000","10000","11700","12500","","No","NA"
+"SG","General Surgery","Management of Pilonidal
+Sinus","Management of Pilonidal Sinus","SG033A","5000","Increased","5625","5700","6600","7100","","Yes","LA - 5000
+GA - 13500"
+"SG
+SG","General Surgery
+General Surgery","Porto Caval Anastomosis
+Mesenteric Caval
+Anastomosis","Porto Caval Anastomosis
+Mesenteric Caval Anastomosis","SG046A
+SG047A","31500
+28500","Increased
+Increased","39937.5
+38812.5","50000
+48600","56800
+55200","60000
+58300","","No
+No","NA
+NA"
+"SG
+SG
+SG
+SG
+SG","General Surgery
+General Surgery
+General Surgery
+General Surgery
+General Surgery","Groin Hernia Repair
+Groin Hernia Repair
+Groin Hernia Repair
+Groin Hernia Repair
+Excision of cyst / Sebaceous
+Cysts over scrotum","Inguinal - Open
+Inguinal - Lap.
+Femoral - Open
+Femoral - Lap
+Single Cyst","SG050A
+SG050B
+SG050C
+SG050D
+SG054A","18200
+18200
+19100
+19100
+2000","Increased
+Increased
+Increased
+Increased
+Increased","20000
+20000
+20000
+20287.5
+2625","20000
+20000
+20000
+20300
+2700","23400
+23400
+23400
+23800
+3100","25000
+25000
+25000
+25400
+3300","Mesh - 6 X 3 - Polypropylene - 15000
+Mesh - 6 X 3 - Polypropylene - 800
+Mesh - 15 X 15 - Polypropylene - 15000
+Mesh - 6 X 3 - Polypropylene - 2000","No
+No
+No
+No
+No","NA
+NA
+NA
+NA
+NA"
+"SG","General Surgery","Lymphatics Excision of
+Subcutaneous Tissues In
+Lymphoedema","Lymphatics Excision of Subcutaneous
+Tissues In Lymphoedema","SG093A","10000","Increased","15000","15000","21300","18800","","No","NA"
+"SG","General Surgery","Management of Varicose
+Veins","Management of Varicose Veins-
+Operative management","SG095A","14000","Increased","16500","16500","23500","20700","","No","NA"
+"SG","General Surgery","Stoma Management","Stoma Management follow up of
+Ileostomy","SG097A","4500","Increased","5437.5","5500","6400","6800","","No","NA"
+"SG","General Surgery","Stoma Management","Stoma Management follow up of
+Colostomy","SG097B","4500","Increased","5437.5","5500","6400","6800","","No","NA"
+"SG","General Surgery","Necrotising fasciitis /
+Fournier Gangrene","Necrotising fasciitis / Fournier Gangrene","SG099A","10000","Increased","11250","14100","16000","16900","","No",""
+"SG","General Surgery","Surgical management of
+Lower GI bleed (inclusive of
+sigmoidoscopy /
+colonoscopy) - Colonoscopic
+management only excluding
+local perineal conditions","Surgical management of Lower GI bleed
+(inclusive of sigmoidoscopy /
+colonoscopy) - Colonoscopic
+management only excluding local
+perineal conditions","SG100A","18000","Increased","20000","25000","28400","30000","","No",""
+"SG
+SG
+SG","General Surgery
+General Surgery
+General Surgery","Tissue Reconstruction Flap
+ERCP
+Repair of Renal Artery
+Stenosis","Tissue Reconstruction Flap
+ERCP + Stenting/Stone removal
+Repair of Renal Artery Stenosis","SG089A
+SG103A
+SG102A","25000
+15000
+60000","Increased
+Increased
+Increased","28125
+20000
+60750","35200
+25000
+76000","40000
+28400
+86300","42200
+30000
+91200","","No
+No
+No","NA"
+"SG","General Surgery,
+Surgical Oncology","Subtotal Colectomy","Open","SG0106A","new procedure","New","34875","34900","49600","43600","","#N/A","#N/A"
+"SG","General Surgery,
+Surgical Oncology","Subtotal Colectomy","Lap","SG0106B","new procedure","New","34875","34900","49600","43600","","#N/A","#N/A"
+"SG","General Surgery,
+Pediatric Surgery","Operation for Hydrocele (U/L)","Operation for Hydrocele (B/L)","SG0107A","new procedure","New","15000","15000","21300","18800","","#N/A","#N/A"
+"SG","General Surgery,
+Pediatric Surgery","Sympathectomy","Sympathectomy-Bilateral (B/L)","SG0108A","new procedure","New","35000","35000","49700","43800","","#N/A","#N/A"
+"SG
+SG","General Surgery
+General Surgery","ERCP
+Management of Varicose
+Veins","ERCP
+Minor sclerotherapy","SG0109A
+SG095B","15000
+new procedure","New
+New","15000
+5000","15000
+5000","17600
+5900","18800
+6300","","#N/A
+#N/A","#N/A
+#N/A"
+"SG
+SG","General Surgery
+General Surgery","Brachial sinus excision
+Epididymal Excision under
+GA","Brachial sinus excision
+Epididymal Excision under GA","SG0110A
+SG0111A","new procedure
+new procedure","New
+New","20000
+2000","20000
+2000","23400
+2400","25000
+2500","","#N/A
+#N/A","#N/A
+#N/A"
+"SG
+SG
+SG","General Surgery
+General Surgery
+General Surgery","Mesentric cyst excision
+Mole Excision
+Neurofibroma Excision under
+LA","Mesentric cyst excision
+Mole Excision
+Neurofibroma Excision under LA","SG0112A
+SG0113A
+SG0114A","new procedure
+new procedure
+new procedure","New
+New
+New","20000
+2000
+2000","20000
+2000
+2000","23400
+2400
+2400","25000
+2500
+2500","","#N/A
+#N/A
+#N/A","#N/A
+#N/A
+#N/A"
+"SG
+SG
+SG","General Surgery
+General Surgery
+General Surgery","Ingrowing Toe Nail
+Splenorenal Anastomosis
+Replacement Surgery For
+Corrosive Injury Stomach","Ingrowing Toe Nail
+Splenorenal Anastomosis
+Replacement Surgery For Corrosive
+Injury Stomach","SG0115A
+SG0116A
+SG0117A","new procedure
+new procedure
+new procedure","New
+New
+New","2000
+70000
+50000","2000
+70000
+50000","2400
+81900
+58500","2500
+87500
+62500","","#N/A
+#N/A
+#N/A","#N/A
+#N/A
+#N/A"

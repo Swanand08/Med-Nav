@@ -1,0 +1,606 @@
+[
+  {
+    "icd10_code": "M17.9",
+    "condition_name": "Osteoarthritis of Knee",
+    "approved_treatment": "Total Knee Replacement",
+    "procedure_detail": "Primary - Total Knee Replacement",
+    "hbp_code": "SB039A",
+    "department": "Orthopedics",
+    "pmjay": {
+      "base_rate": 25000,
+      "tier1_rate": 36400,
+      "tier2_rate": 41300,
+      "tier3_rate": 43600,
+      "implant_cost": 55000,
+      "implant_covered": false,
+      "total_with_implant_tier1": 91400,
+      "total_with_implant_tier2": 96300,
+      "total_with_implant_tier3": 98600
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 18928,
+        "room_stay": 4732,
+        "doctor_fee": 6552,
+        "medication": 3276,
+        "diagnostics": 2184,
+        "contingency": 728,
+        "implant": 55000,
+        "total": 36400
+      },
+      "tier2": {
+        "procedure": 21476,
+        "room_stay": 5369,
+        "doctor_fee": 7434,
+        "medication": 3717,
+        "diagnostics": 2478,
+        "contingency": 826,
+        "implant": 55000,
+        "total": 41300
+      },
+      "tier3": {
+        "procedure": 22672,
+        "room_stay": 5668,
+        "doctor_fee": 7848,
+        "medication": 3924,
+        "diagnostics": 2616,
+        "contingency": 872,
+        "implant": 55000,
+        "total": 43600
+      }
+    },
+    "risk_flags": {
+      "Diabetes": {
+        "description": "Increases risk of post-op infection, may extend ICU stay by 1-2 days.",
+        "cost_penalty_pct": 0.12
+      },
+      "Obesity": {
+        "description": "Higher anesthesia risk and longer surgery time.",
+        "cost_penalty_pct": 0.08
+      }
+    },
+    "search_keyword": "Total Knee Replacement"
+  },
+  {
+    "icd10_code": "M16.9",
+    "condition_name": "Osteoarthritis of Hip",
+    "approved_treatment": "Total Hip Replacement",
+    "procedure_detail": "Cementless",
+    "hbp_code": "SB038B",
+    "department": "Orthopedics",
+    "pmjay": {
+      "base_rate": 37000,
+      "tier1_rate": 46300,
+      "tier2_rate": 52600,
+      "tier3_rate": 55500,
+      "implant_cost": 65000,
+      "implant_covered": false,
+      "total_with_implant_tier1": 111300,
+      "total_with_implant_tier2": 117600,
+      "total_with_implant_tier3": 120500
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 24076,
+        "room_stay": 6019,
+        "doctor_fee": 8334,
+        "medication": 4167,
+        "diagnostics": 2778,
+        "contingency": 926,
+        "implant": 65000,
+        "total": 46300
+      },
+      "tier2": {
+        "procedure": 27352,
+        "room_stay": 6838,
+        "doctor_fee": 9468,
+        "medication": 4734,
+        "diagnostics": 3156,
+        "contingency": 1052,
+        "implant": 65000,
+        "total": 52600
+      },
+      "tier3": {
+        "procedure": 28860,
+        "room_stay": 7215,
+        "doctor_fee": 9990,
+        "medication": 4995,
+        "diagnostics": 3330,
+        "contingency": 1110,
+        "implant": 65000,
+        "total": 55500
+      }
+    },
+    "risk_flags": {
+      "Diabetes": {
+        "description": "Risk of delayed wound healing and infection.",
+        "cost_penalty_pct": 0.1
+      },
+      "Obesity": {
+        "description": "Higher mechanical stress, longer recovery.",
+        "cost_penalty_pct": 0.08
+      }
+    },
+    "search_keyword": "Total Hip Replacement"
+  },
+  {
+    "icd10_code": "I25.1",
+    "condition_name": "Atherosclerotic Heart Disease / Coronary Artery Disease",
+    "approved_treatment": "PTCA, inclusive of diagnostic",
+    "procedure_detail": "PTCA, inclusive of diagnostic angiogram",
+    "hbp_code": "MC011A",
+    "department": "Cardiology",
+    "pmjay": {
+      "base_rate": 40600,
+      "tier1_rate": 50800,
+      "tier2_rate": 57700,
+      "tier3_rate": 52800,
+      "implant_cost": 8885,
+      "implant_covered": false,
+      "total_with_implant_tier1": 59685,
+      "total_with_implant_tier2": 66585,
+      "total_with_implant_tier3": 61685
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 21796,
+        "room_stay": 5449,
+        "doctor_fee": 7545,
+        "medication": 3772,
+        "diagnostics": 2515,
+        "contingency": 838,
+        "implant": 8885,
+        "total": 50800
+      },
+      "tier2": {
+        "procedure": 25384,
+        "room_stay": 6346,
+        "doctor_fee": 8787,
+        "medication": 4393,
+        "diagnostics": 2929,
+        "contingency": 976,
+        "implant": 8885,
+        "total": 57700
+      },
+      "tier3": {
+        "procedure": 22836,
+        "room_stay": 5709,
+        "doctor_fee": 7905,
+        "medication": 3952,
+        "diagnostics": 2635,
+        "contingency": 878,
+        "implant": 8885,
+        "total": 52800
+      }
+    },
+    "risk_flags": {
+      "Diabetes": {
+        "description": "Accelerates restenosis. May require repeat procedure.",
+        "cost_penalty_pct": 0.15
+      },
+      "Hypertension": {
+        "description": "Increases operative risk; stricter BP management required.",
+        "cost_penalty_pct": 0.07
+      }
+    },
+    "search_keyword": "PTCA"
+  },
+  {
+    "icd10_code": "I34.0",
+    "condition_name": "Mitral Valve Regurgitation / Valve Disease",
+    "approved_treatment": "Double Valve Procedure",
+    "procedure_detail": "Double valve replacement / repair",
+    "hbp_code": "SV006A",
+    "department": "CTVS",
+    "pmjay": {
+      "base_rate": 142000,
+      "tier1_rate": 195300,
+      "tier2_rate": 221900,
+      "tier3_rate": 234300,
+      "implant_cost": 40000,
+      "implant_covered": true,
+      "total_with_implant_tier1": 195300,
+      "total_with_implant_tier2": 221900,
+      "total_with_implant_tier3": 234300
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 101556,
+        "room_stay": 25389,
+        "doctor_fee": 35154,
+        "medication": 17577,
+        "diagnostics": 11718,
+        "contingency": 3906,
+        "implant": 0,
+        "total": 195300
+      },
+      "tier2": {
+        "procedure": 115388,
+        "room_stay": 28847,
+        "doctor_fee": 39942,
+        "medication": 19971,
+        "diagnostics": 13314,
+        "contingency": 4438,
+        "implant": 0,
+        "total": 221900
+      },
+      "tier3": {
+        "procedure": 121836,
+        "room_stay": 30459,
+        "doctor_fee": 42174,
+        "medication": 21087,
+        "diagnostics": 14058,
+        "contingency": 4686,
+        "implant": 0,
+        "total": 234300
+      }
+    },
+    "risk_flags": {
+      "Heart Disease": {
+        "description": "Prior cardiac history increases surgical risk.",
+        "cost_penalty_pct": 0.15
+      },
+      "Hypertension": {
+        "description": "Must be controlled pre-operatively adding to stay.",
+        "cost_penalty_pct": 0.08
+      }
+    },
+    "search_keyword": "Double Valve Procedure"
+  },
+  {
+    "icd10_code": "H26.9",
+    "condition_name": "Cataract",
+    "approved_treatment": "Cataract surgery",
+    "procedure_detail": "Phaco emulsification with foldable",
+    "hbp_code": "SE020A",
+    "department": "Ophthalmology",
+    "pmjay": {
+      "base_rate": 4500,
+      "tier1_rate": 4500,
+      "tier2_rate": 5300,
+      "tier3_rate": 5700,
+      "implant_cost": 0,
+      "implant_covered": false,
+      "total_with_implant_tier1": 4500,
+      "total_with_implant_tier2": 5300,
+      "total_with_implant_tier3": 5700
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 2340,
+        "room_stay": 585,
+        "doctor_fee": 810,
+        "medication": 405,
+        "diagnostics": 270,
+        "contingency": 90,
+        "implant": 0,
+        "total": 4500
+      },
+      "tier2": {
+        "procedure": 2756,
+        "room_stay": 689,
+        "doctor_fee": 954,
+        "medication": 477,
+        "diagnostics": 318,
+        "contingency": 106,
+        "implant": 0,
+        "total": 5300
+      },
+      "tier3": {
+        "procedure": 2964,
+        "room_stay": 741,
+        "doctor_fee": 1026,
+        "medication": 513,
+        "diagnostics": 342,
+        "contingency": 114,
+        "implant": 0,
+        "total": 5700
+      }
+    },
+    "risk_flags": {
+      "Diabetes": {
+        "description": "Diabetic retinopathy may complicate cataract surgery.",
+        "cost_penalty_pct": 0.1
+      }
+    },
+    "search_keyword": "Cataract"
+  },
+  {
+    "icd10_code": "K37",
+    "condition_name": "Appendicitis",
+    "approved_treatment": "Appendicectomy",
+    "procedure_detail": "Open",
+    "hbp_code": "SG017A",
+    "department": "General Surgery",
+    "pmjay": {
+      "base_rate": 19700,
+      "tier1_rate": 20000,
+      "tier2_rate": 23400,
+      "tier3_rate": 25000,
+      "implant_cost": 0,
+      "implant_covered": false,
+      "total_with_implant_tier1": 20000,
+      "total_with_implant_tier2": 23400,
+      "total_with_implant_tier3": 25000
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 10400,
+        "room_stay": 2600,
+        "doctor_fee": 3600,
+        "medication": 1800,
+        "diagnostics": 1200,
+        "contingency": 400,
+        "implant": 0,
+        "total": 20000
+      },
+      "tier2": {
+        "procedure": 12168,
+        "room_stay": 3042,
+        "doctor_fee": 4212,
+        "medication": 2106,
+        "diagnostics": 1404,
+        "contingency": 468,
+        "implant": 0,
+        "total": 23400
+      },
+      "tier3": {
+        "procedure": 13000,
+        "room_stay": 3250,
+        "doctor_fee": 4500,
+        "medication": 2250,
+        "diagnostics": 1500,
+        "contingency": 500,
+        "implant": 0,
+        "total": 25000
+      }
+    },
+    "risk_flags": {
+      "Diabetes": {
+        "description": "Slower wound healing and infection risk post-op.",
+        "cost_penalty_pct": 0.1
+      }
+    },
+    "search_keyword": "Appendicectomy"
+  },
+  {
+    "icd10_code": "K80.2",
+    "condition_name": "Gallstones / Cholelithiasis",
+    "approved_treatment": "Cholecystectomy",
+    "procedure_detail": "Without Exploration of CBD - Open",
+    "hbp_code": "SG039A",
+    "department": "General Surgery",
+    "pmjay": {
+      "base_rate": 27800,
+      "tier1_rate": 31100,
+      "tier2_rate": 36400,
+      "tier3_rate": 38900,
+      "implant_cost": 0,
+      "implant_covered": false,
+      "total_with_implant_tier1": 31100,
+      "total_with_implant_tier2": 36400,
+      "total_with_implant_tier3": 38900
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 16172,
+        "room_stay": 4043,
+        "doctor_fee": 5598,
+        "medication": 2799,
+        "diagnostics": 1866,
+        "contingency": 622,
+        "implant": 0,
+        "total": 31100
+      },
+      "tier2": {
+        "procedure": 18928,
+        "room_stay": 4732,
+        "doctor_fee": 6552,
+        "medication": 3276,
+        "diagnostics": 2184,
+        "contingency": 728,
+        "implant": 0,
+        "total": 36400
+      },
+      "tier3": {
+        "procedure": 20228,
+        "room_stay": 5057,
+        "doctor_fee": 7002,
+        "medication": 3501,
+        "diagnostics": 2334,
+        "contingency": 778,
+        "implant": 0,
+        "total": 38900
+      }
+    },
+    "risk_flags": {
+      "Obesity": {
+        "description": "Laparoscopic technique may be difficult; may convert to open.",
+        "cost_penalty_pct": 0.12
+      }
+    },
+    "search_keyword": "Cholecystectomy"
+  },
+  {
+    "icd10_code": "N20.0",
+    "condition_name": "Kidney Stone (Urolithiasis)",
+    "approved_treatment": "PCNL (Percutaneous",
+    "procedure_detail": "PCNL (Percutaneous Nephrolithotomy)",
+    "hbp_code": "SU007A",
+    "department": "Urology",
+    "pmjay": {
+      "base_rate": 35000,
+      "tier1_rate": 45000,
+      "tier2_rate": 52700,
+      "tier3_rate": 56300,
+      "implant_cost": 0,
+      "implant_covered": true,
+      "total_with_implant_tier1": 45000,
+      "total_with_implant_tier2": 52700,
+      "total_with_implant_tier3": 56300
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 23400,
+        "room_stay": 5850,
+        "doctor_fee": 8100,
+        "medication": 4050,
+        "diagnostics": 2700,
+        "contingency": 900,
+        "implant": 0,
+        "total": 45000
+      },
+      "tier2": {
+        "procedure": 27404,
+        "room_stay": 6851,
+        "doctor_fee": 9486,
+        "medication": 4743,
+        "diagnostics": 3162,
+        "contingency": 1054,
+        "implant": 0,
+        "total": 52700
+      },
+      "tier3": {
+        "procedure": 29276,
+        "room_stay": 7319,
+        "doctor_fee": 10134,
+        "medication": 5067,
+        "diagnostics": 3378,
+        "contingency": 1126,
+        "implant": 0,
+        "total": 56300
+      }
+    },
+    "risk_flags": {
+      "Hypertension": {
+        "description": "May affect renal perfusion during procedure.",
+        "cost_penalty_pct": 0.06
+      },
+      "Kidney Disease": {
+        "description": "Reduced renal reserve increases surgical risk.",
+        "cost_penalty_pct": 0.15
+      }
+    },
+    "search_keyword": "PCNL"
+  },
+  {
+    "icd10_code": "Z51.1",
+    "condition_name": "Cancer Chemotherapy Support",
+    "approved_treatment": "CT for CA Breast",
+    "procedure_detail": "Trastuzumab",
+    "hbp_code": "MO001F",
+    "department": "Medical Oncology",
+    "pmjay": {
+      "base_rate": 21200,
+      "tier1_rate": 23400,
+      "tier2_rate": 26500,
+      "tier3_rate": 27600,
+      "implant_cost": 0,
+      "implant_covered": false,
+      "total_with_implant_tier1": 23400,
+      "total_with_implant_tier2": 26500,
+      "total_with_implant_tier3": 27600
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 12168,
+        "room_stay": 3042,
+        "doctor_fee": 4212,
+        "medication": 2106,
+        "diagnostics": 1404,
+        "contingency": 468,
+        "implant": 0,
+        "total": 23400
+      },
+      "tier2": {
+        "procedure": 13780,
+        "room_stay": 3445,
+        "doctor_fee": 4770,
+        "medication": 2385,
+        "diagnostics": 1590,
+        "contingency": 530,
+        "implant": 0,
+        "total": 26500
+      },
+      "tier3": {
+        "procedure": 14352,
+        "room_stay": 3588,
+        "doctor_fee": 4968,
+        "medication": 2484,
+        "diagnostics": 1656,
+        "contingency": 552,
+        "implant": 0,
+        "total": 27600
+      }
+    },
+    "risk_flags": {
+      "Diabetes": {
+        "description": "Blood glucose must be tightly managed during chemo cycles.",
+        "cost_penalty_pct": 0.1
+      }
+    },
+    "search_keyword": "CT for"
+  },
+  {
+    "icd10_code": "O82",
+    "condition_name": "Caesarean Section (C-Section)",
+    "approved_treatment": "Caesarean hysterectomy",
+    "procedure_detail": "Caesarean hysterectomy",
+    "hbp_code": "SO011A",
+    "department": "Obstetrics & Gynecology",
+    "pmjay": {
+      "base_rate": 20000,
+      "tier1_rate": 20000,
+      "tier2_rate": 23400,
+      "tier3_rate": 25000,
+      "implant_cost": 0,
+      "implant_covered": false,
+      "total_with_implant_tier1": 20000,
+      "total_with_implant_tier2": 23400,
+      "total_with_implant_tier3": 25000
+    },
+    "cost_breakdown": {
+      "tier1": {
+        "procedure": 10400,
+        "room_stay": 2600,
+        "doctor_fee": 3600,
+        "medication": 1800,
+        "diagnostics": 1200,
+        "contingency": 400,
+        "implant": 0,
+        "total": 20000
+      },
+      "tier2": {
+        "procedure": 12168,
+        "room_stay": 3042,
+        "doctor_fee": 4212,
+        "medication": 2106,
+        "diagnostics": 1404,
+        "contingency": 468,
+        "implant": 0,
+        "total": 23400
+      },
+      "tier3": {
+        "procedure": 13000,
+        "room_stay": 3250,
+        "doctor_fee": 4500,
+        "medication": 2250,
+        "diagnostics": 1500,
+        "contingency": 500,
+        "implant": 0,
+        "total": 25000
+      }
+    },
+    "risk_flags": {
+      "Hypertension": {
+        "description": "Pre-eclampsia risk mandates closer monitoring.",
+        "cost_penalty_pct": 0.1
+      },
+      "Diabetes": {
+        "description": "Gestational diabetes increases neonatal ICU probability.",
+        "cost_penalty_pct": 0.12
+      }
+    },
+    "search_keyword": "Caesarean"
+  }
+]

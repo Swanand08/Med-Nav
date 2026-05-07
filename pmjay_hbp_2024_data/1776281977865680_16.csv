@@ -1,0 +1,110 @@
+﻿"MO","Medical Oncology","CT for B - Cell NHL - High
+Grade
+(Except Burkitt's & PCNSL)","Rituximab + Cyclophosphamide +
+Doxorubicin + Prednsiolone
+Rituximab 375mg/m2
+Cyclophosphamide 750 mg/m2
+Doxorubicin 50mg/m2
+Vincristine 1.4 mg/m2 on Day1
+Prednisolone 100 mg Day 1-5
+Total 6 cycles, repeat 21 days","MO029B","27000","No change","27000","29700","33800","33800","","No","NA"
+"MO","Medical Oncology","CT for High - Grade NHL - B
+Cell","Rituxmab + Dexamethasone + High
+Dose Cytarabine + Cisplatin
+Rituximab 375mg/m2 Day 1
+Cytarabine 2g/m2 BD on day 2
+Dexamethasone 40 mg Day 1 - 4
+Cisplatin 75mg/m2 or
+Carboplatin AUC-5 on day 1
+Cycle to be repeated every 21days","MO030A","34900","No change","34900","38400","43700","45400","","No","NA"
+"MO","Medical Oncology","CT for Relapsed B - Cell NHL
+- High Grade
+(Except Burkitt's & PCNSL)","GDP - R
+Rituximab 375mg/m2 Day 1
+Gemcitabine 1000mg/m2 on day 1 and
+8
+Dexamethasone 40 mg Day 1 - 4
+Cisplatin 75mg/m2 on day 1
+Cycle to be repeated every 21days
+Total- 6 cycles","MO031A","35300","No change","35300","38900","44200","45900","","No","NA"
+"MO","Medical Oncology","CT for Relapsed B - Cell NHL
+- High Grade
+(Except Burkitt's & PCNSL)","ICE - R
+Rituximab 375mg/m2
+Ifosfamide 1.66g/m2 on day 1 - 3
+Mesna 1.66g/m2 day 1 - 3
+Carboplatin AUC 5 on day 1
+Etoposide 100mg/m2 on day 1 - 3
+Cycle every 21days for 6 cycles","MO031B","31900","No change","31900","35100","39900","41500","","No","NA"
+"MO","Medical Oncology","CT for PMBCL / Burkitt's
+Lymphoma / Seropositive
+B - Cell NHLR","Etoposide + Prednsiolone + Vincristine +
+Cyclophosphamide + Doxorubicin
+Rituximab 375mg/m2 Day 1
+Etoposide 50mg/m2
+VCR 0.4mg/m2
+Doxorubicin 10mg/m2 Day1 - 4
+Cyclophosphamide 750mg/m2 on day 5
+Prednisolone 100 mg day 1-5
+Every 21 days
+Dose adjustment each cycle depending
+on nadir counts
+Total- 6 cycles","MO032A","31700","No change","31700","34900","39700","41300","","No","NA"
+"MO","Medical Oncology","CT for Burkitt's NHL","Codox - M - IVAC / GMALL / BFM /
+Hyper CVAD","MO033A","34500","No change","34500","38000","43200","44900","","No","NA"
+"MO","Medical Oncology","CT for Chronic Lymphocytic
+Leukemia","Fludarabine + Cyclophosphamide
+Fludarabine 25mg/m2 D1-3
+Cyclophosphamide 250 mg/m2 D1-3
+every 28 days for 6 cycles","MO036A","18100","No change","18100","20000","22700","23600","","No","NA"
+"MO","Medical Oncology","CT for Chronic Lymphocytic
+Leukemia","Rituximab + Fludarabine +
+Cyclophosphamide
+Rituximab 375mg/m2 on day 1
+Fludarabine 25mg/m2 D1 - 3
+Cyclophosphamide 250 mg/m2 D1 - 3
+Every 28 days for 6 cycles","MO036C","40700","No change","40700","44800","50900","53000","","No","NA"
+"MO","Medical Oncology","CT for Chronic Lymphocytic
+Leukemia","Lenalidomide
+lenalidomide-10-25 mg/day day 1 to 21
+every 28 days","MO036D","4800","No change","4800","5300","6000","6000","","No","NA"
+"MO","Medical Oncology","CT for Hodgkin's Lymphoma","ABVD
+Adriamycin 25mg/m2
+Bleomycin 10unit/m2
+Vinblastine 6mg/m2
+Dacarbazine 375 mg/m2 Day 1,15
+Every 28 days for 6 cycles","MO039B","10200","No change","10200","11300","12800","12800","","No","NA"
+"MO","Medical Oncology","CT for Hodgkin's Lymphoma","AEVD
+Adriamycin 25mg/m2
+Vinblastine 6mg/m2
+Dacarbazine 375 mg/m2 Day 1,15
+Etoposide 65mg/m2 Day 1-3, 15-17
+Every 28 days for 6 cycles","MO039C","10200","No change","10200","11300","12800","12800","","No","NA"
+"MO","Medical Oncology","CT for MM / Amyloidosis","Melphalan + Thalidomide +
+Prednisolone
+Melphalan 9mg/m2 D1-D4
+Thalidomide 100mg D1-28
+Prednisolone 100mg Day1-4
+Every 28days","MO043B","4100","No change","4100","4600","5200","5200","","No","NA"
+"MO","Medical Oncology","CT for MM / Amyloidosis","Bortezomib + Cyclophosphamide +
+Dexamethasone
+Cyclophosphamide - 300 mg/m2 day 1,
+8, 15, 22
+Dexamethasone 40mg Day 1, 8, 15, 22
+Bortezomib 1.3 mg/m2 Day1, 8, 15, 22
+Every 28 days","MO043C","14600","No change","14600","16100","18300","18300","","No","NA"
+"MO","Medical Oncology","CT for MM / Amyloidosis","Bortezomib + Dexamethasone
+Bortezomib 1.3 mg/m2 Day1, 8, 15, 22
+Dexamethasone 40mg Day1, 8, 15, 22
+Every 28 day","MO043D","13300","No change","13300","14700","16700","16700","","No","NA"
+"MO","Medical Oncology","CT for MM / Amyloidosis","Bortezomib + Melphalan + Prednsiolone
+Melphalan 9mg/m2 D1-D4
+Prednisolone 100mg Day 1-4
+Bortezomib 1.3 mg/m2 Day 1, 8, 15, 22
+Every 28 days","MO043E","12600","No change","12600","13900","15800","15800","","No","NA"
+"MO","Medical Oncology","CT for MM / Amyloidosis","Bortezomib + Lenalidomide +
+Dexamethasone
+Lenalidomide 25 mg daily Day 1 - 21
+Dexamethasone 40mg Day 1, 8, 15, 22
+Bortezomib 1.3 mg/m2 Day 1, 8, 15, 22
+Every 28 days","MO043F","17800","No change","17800","19600","22300","22300","","No","NA"

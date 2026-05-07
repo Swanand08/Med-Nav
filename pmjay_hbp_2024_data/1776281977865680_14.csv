@@ -1,0 +1,161 @@
+﻿"MN","Neo - natal Care","Critical Care Neonatal
+Package:
+Babies with birthweight of
+<1200 g
+or
+Bab ies of any birthweight
+with at least one of the
+following conditions:
+• Severe Respiratory Failure
+requiring High Frequency
+Ventilation or inhaled Nitric
+Oxide (iNO)
+• Multisystem failure
+requiring multiple organ
+support including mechanical
+ventilation and multiple
+inotropes
+• Critical congenital heart
+disease
+Mother's stay and food in the
+hospital for breastfeeding,
+family centred care and
+(Kangaroo Mother Care)
+KMC is mandatory and
+included in the package rate","Neonates <1200 g OR
+Neonates of any weight with at least one
+of the following conditions:
+• Severe Respiratory Failure requiring
+High Frequency Ventilation or inhaled
+Nitric Oxide (iNO)
+• Multisystem failure requiring multiple
+organ support including mechanical
+ventilation and multiple inotropes
+• Reuiring parenteral nutrition
+Critical congenital heart disease
+(excluding surgical costs)
+The above list is illustrative but not
+limited to these conditions.
+The package includes mandatory stay
+and food of the mother in the hospital for
+breastfeeding, Kangaroo Mother Care
+(KMC) and Family centered care","MN005A","7000/day","Increased","9000/day","9900/day","11250/Day","11250/Day","","Yes","SNCU / NICU - 7000"
+"MN","Neo - natal Care","Chronic Care Package: If the
+baby requires stay beyond
+the upper limit of usual stay
+in Package no MN004A or
+MN005A for conditions like
+severe BPD requiring
+respiratory support, severe
+NEC requiring prolonged
+TPN support","Neonates in Special Neonatal Care,
+Special Neonatal Care-Plus, Intensive
+Neonatal Care or Critical Neonatal Care
+packages (MN002,MN003,MN004,
+MN005) who have not fully recovered
+and continue to require NICU/SNCU
+care, e.g. for respiratory support,
+gavage feeding, thermal support, etc.,","MN006A","3000/day","Increased","4000/day","4000/day","5000/day","5000/day","","Yes","SNCU / NICU - 3000"
+"MN","Neo - natal Care","High Risk Newborn Post
+Discharge Care Package
+(Protocol Driven)","Includes but not limited to minimum six
+follow-up visits at 40 weeks PMA, and
+corrected ages of 3,6,9, 12 and 18
+months for Assessment and
+Management of growth and
+development. Neurosonogram at 40
+weeks PMA if indicated.","MN007A","2400","Decrease","1000/visit","1000/visit","1150/visit","1150/visit","","No","NA"
+"MN","Neo - natal Care","Laser Therapy for
+Retinopathy of Prematurity
+(Irrespective of no. of eyes
+affected) - per session","Laser Therapy for Retinopathy of
+Prematurity
+(Irrespective of no. of eyes affected)
+per session","MN008A","1500","No change","1500","1900","2200","2250","","No","NA"
+"MN","Neo - natal Care","Advanced Surgery for
+Retinopathy of Prematurity","Advanced Surgery for Retinopathy
+of Prematurity","MN009A","15000","No change","15000","18800","21300","22500","","No","NA"
+"MN","Neo - natal Care","Ventriculoperitoneal Shunt
+Surgery (VP) or Omaya
+Reservoir or External
+Drainage for Hydrocephalus","Ventriculoperitoneal Shunt Surgery (VP)
+or Omaya Reservoir or External
+Drainage for
+Hydrocephalus","MN010A","5000","No change","5000","6300","7100","7500","","No","NA"
+"MN","Neo - natal Care","Basic neonatal care (Level
+IA)","Neonates > 2.5 kg nursed with mother :
+Includes clinical monitoring,
+breastfeeding support, birth vaccination,
+thyroid screening, universal hearing
+screening and pre-discharge counselling","MN011A","new procedure","New","750/day","775/day","900/day","900/day","","#N/A","#N/A"
+"MN","Neo - natal Care","ROP screening","ROP screening","MN012A","new procedure","New","500 per screening for
+both
+eyes(documentation of
+findingsto be done in a
+structured format)","550 per screening for
+both
+eyes(documentation of
+findingsto be done in a
+structured format)","625per screening for
+both
+eyes(documentation of
+findingsto be done in a
+structured format)","625per screening for
+both
+eyes(documentation of
+findingsto be done in a
+structured format)","","#N/A","#N/A"
+"MN
+MO","Neo - natal Care
+Medical Oncology","BERA
+CT for CA Breast","BERA
+Trastuzumab
+Trastuzumab 8 mg/Kg in Cycle 1 D1
+Trastuzumab 6 mg/kg D1 from C2 every
+21 days","MN013A
+MO001F","new procedure
+21200","New
+No change","1500 per BERA
+21200","1650 per Bera
+23400","1900 per bera
+26500","1900 per bera
+27600","","#N/A
+No","#N/A
+NA"
+"MO","Medical Oncology","CT for CA Breast","Tamoxifen
+Tamoxifem 20 mg orally daily","MO001G","1200","No change","1200","1400","1400","1400","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Letrozole
+Letrozole 2.5 mg orally daily","MO001H","3900","No change","3900","4300","4900","4900","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Carboplatin + Paclitaxel
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO001I","14900","No change","14900","16400","18700","18700","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Capecitabine
+Capecitabine - 1000mg/m2 orally twice
+daily D1-D14 every 21 days","MO001J","7400","No change","7400","8200","9300","9300","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Carboplatin + Gemcitabine
+Gemcitabine - 1000mg/m2 D1 D8
+Carboplatin AUC 2 D1 D8
+Gemcitabine - 1000mg/m2 D1 D8
+Carboplatin AUC 5-6 D1 only","MO001K","13900","No change","13900","15300","17400","17400","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Cyclophosphamide + Adriamycin
+Cyclophosphamide - 600 mg /m2 D1
+Adriamycin - 60mg/m2 D1 every 21
+days","MO001L","4500","No change","4500","5000","5700","5700","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Fulvestrant
+Fulvestrant 500 mg D1 D15 D28 then
+every 28 days","MO001M","11000","Increased","12000 per dose (36000
+in cycle1 ) then 12,000
+per month","13200 per dose (39600
+in cycle1 ) then 13200
+per month","15000 per dose (45000
+in cycle1 ) then 15000
+per month","15000 per dose (45000
+in cycle1 ) then 15000
+per month","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Paclitaxel
+Paclitaxel 175 mg/m2 D1 every 21 days","MO001N","11800","No change","11800","13000","14800","14800","","No","NA"
+"MO","Medical Oncology","CT for CA Ovary","Lipodox + Carboplatin
+Lipopdox 30 mg/m2 D1
+Carboplatin AUC 5-6 D1 every 28 days","MO003B","17200","No change","17200","19000","21500","22400","","No","NA"
+"MO","Medical Oncology","CT for CA Ovary","Etoposide 50 mg/m2 OD D1-D21 every
+28 days","MO003C","3400","No change","3400","3800","4300","4300","","No","NA"

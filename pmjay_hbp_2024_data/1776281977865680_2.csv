@@ -1,0 +1,103 @@
+﻿"BM","Burns Management","Electrical contact burns","Electrical contact burns: High voltage -
+with part of limb / limb loss; Includes %
+TBSA skin grafted, flap cover,fasciotomy
++/- /amputation/Central IV
+Line/debridement/early skin grafting
+pedicle or free flap coverage,follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM004C","60000","No change","60000","75000","85200","90000","","No","NA"
+"BM","Burns Management","Electrical contact burns","Electrical contact burns: High voltage -
+without part of limb / limb loss; Includes
+% TBSA skin grafted, flap cover,
+fasciotomy +/- /debridement/early skin
+grafting/flap cover: pedicle or free flap
+coverage,follow-up dressings etc. as
+deemed necessary; Surgical procedures
+are required for deep burns that are not
+amenable to heal with dressings alone.","BM004D","50000","No change","50000","62500","71000","75000","","No","NA"
+"BM","Burns Management","Chemical burns","Chemical burns: Without significant
+facial scarring and/or loss of function;
+Includes % TBSA skin grafted, flap
+cover, follow-up dressings etc. as
+deemed necessary; Surgical procedures
+are required for deep burns that are not
+amenable to heal with dressings
+alone.(Similar to therma burns
+require more grafting, debridement,(skin
+grafing/canthopexy)","BM005A","40000","No change","40000","50000","56800","60000","","No","NA"
+"BM","Burns Management","Chemical burns","Chemical burns: With significant facial
+scarring and/or loss of function; Includes
+% TBSA skin grafted, flap
+cover,debridement,skin grafting,follow-
+up dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM005B","60000","No change","60000","75000","85200","90000","","No","NA"
+"BM","Burns MPaonsatg Beumrenn Ct","ontracture surgeries for FunctionaErl eIxlmcelapusrdoeivn wegmi tNhee n-c tSk","Post Burn Contracture surgeries for
+Functional Improvement (Package
+including splints, pressure garments,
+silicone - gel sheet and physiotherapy):
+contracture; Contracture
+plit thickness Skin Graft
+(STSG) / Full Thickness Skin Graft
+(FTSG) / Flap cover is done for each
+joint with post - operative regular
+dressings for STSG / FTSG / Flap cover.","BM006A","50000","No change","50000","62500","71000","75000","","No","NA"
+"BM","Burns Management","Post Burn Contracture
+surgeries for Functional
+Improvement","Post Burn Contracture surgeries for
+Functional Improvement (Package
+including splints, pressure
+garments,contracture release & split
+skin graft with or without flap
+reconstruction,silicone - gel sheet and
+physiotherapy): Neck contracture;
+Contracture release with - Split
+thickness Skin Graft (STSG) /
+Full Thickness Skin Graft (FTSG) / Flap
+cover is done for each joint with post-
+operative regular dressings for STSG /
+FTSG / Flap cover.","BM006B","50000","No change","50000","62500","71000","75000","","No","NA"
+"BM","Burns Management","Thermal burns","Criteria 4: % Total Body Surface Area
+Burns (TBSA):40- 60 %; Includes %
+TBSA skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM001D","70000","Increased","80000","100000","113600","120000","","No","NA"
+"BM","Burns Management","Scald burns","Criteria 4: % Total Body Surface Area
+Burns (TBSA):40- 60 %; Includes %
+TBSA skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM002D","70000","Increased","80000","100000","113600","120000","","No","NA"
+"ER","Emergency Room
+Packages","Laceration - Suturing /
+Dressing","Laceration - Suturing / Dressing","ER001A","2,000","No change","2000","2000","2300","2300","","No","NA"
+"ER","Emergency Room
+Packages","Cardiopulmonary emergency","Emergency with stable
+cardiopulmonary status","ER002A","2,000","No change","2000","2000","2300","2300","","No","NA"
+"ER","Emergency Room
+Packages","Cardiopulmonary emergency","Emergency with unstable
+cardiopulmonary status with
+resuccitation","ER002B","10,000","No change","10000","11000","12300","12300","","No","NA"
+"ER","Emergency Room
+Packages","Animal bites (Excluding
+Snake Bite)","Animal bites (Excluding Snake Bite)","ER003A","1,700","No change","1700","1700","2000","2000","","No","NA"
+"MC","Cardiology,
+Interventional Radiology","Catheter directed
+Thrombolysis","For Deep vein thrombosis (DVT)","MC002A","30,800","No change","30800","38500","43800","40100","","No","NA"
+"MC","Cardiology,
+Interventional Radiology","Catheter directed
+Thrombolysis","For Mesenteric Thrombosis","MC002B","30,800","No change","30800","38500","43800","40100","","No","NA"
+"MC","Cardiology,
+Interventional Radiology","Catheter directed
+Thrombolysis","For Peripheral vessels","MC002C","30,800","No change","30800","38500","43800","40100","","No","NA"
+"MC","Cardiology, CTVS","Temporary Pacemaker
+implantation","Temporary Pacemaker implantation","MC014A","19,200","No change","19200","24000","27300","22100","","No","NA"
+"MC","Cardiology, CTVS","Single Chamber Permanent
+Pacemaker Implantation","Permanent Pacemaker Implantation -
+Single Chamber","MC015A","24,500","No change","24500","30700","34800","31900","Single Chamber Pacemaker - 45000","No","NA"

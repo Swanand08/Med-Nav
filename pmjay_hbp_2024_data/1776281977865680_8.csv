@@ -1,0 +1,484 @@
+﻿"MG","General Medicine,
+Pediatric Medical
+Management","Systematic lupus erythematosusD","Systematic lupus erythematosus (SLE)/
+iffuse alveolar hemmorhage associated
+with SLE","MG068A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine,
+Pediatric Medical
+Management","Snake bite","Snake bite","MG070A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine,
+Pediatric Medical
+Management","Poisoning","Acute organophosphorus poisoning","MG071A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine,
+Pediatric Medical
+Management","Poisoning","Other poisonings","MG071B","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine,
+Pediatric Medical
+Management","Plasmapheresis","Plasmapheresis","MG073A","2000","no change","2000","2000","2300","2300","","No","NA"
+"MG","General Medicine,
+Pediatric Medical
+Management","Blood transfusion","Whole Blood transfusion","MG074A","2000","no change","2000","2000","2300","2300","","No","NA"
+"MG","General Medicine,
+Pediatric Medical
+Management","Blood transfusion","Blood component including platelet
+transfusion (RDP, PC, SDP)","MG074B","2000","no change","2000","2000","2300","2300","","No","NA"
+"MG","General Medicine,
+Nephrology, Organ
+transplantation","Haemodialysis / Peritoneal
+Dialysis","Acute Haemodialysis","MG072C","1500","no change","1500","1500","1800","1800","","No","#N/A"
+"MG","General Medicine,
+Nephrology, Organ
+transplantation","Haemodialysis / Peritoneal
+Dialysis","Chronic Haemodialysis","MG072D","1500","no change","1500","1500","1800","1800","","No","#N/A"
+"MG","General Medicine,
+Nephrology","Haemodialysis / Peritoneal
+Dialysis","Peritoneal Dialysis","MG072B","1500","no change","Pd Catheter Insertion Rs
+1500, PD fluid &
+disposables Rs 1000 per
+day","Pd Catheter Insertion Rs
+1500, PD fluid &
+disposables Rs 1000 per
+day","Pd Catheter Insertion Rs
+1700, PD fluid &
+disposables Rs 1150 per
+day","Pd Catheter Insertion Rs
+1700, PD fluid &
+disposables Rs 1150 per
+day","","No","NA"
+"MG","General Medicine,
+General
+Surgery,Nephrology","Renal colic","Renal colic","MG044A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine,
+General
+Surgery,Nephrology","AKI / Renal failure","AKI / Renal failure","MG045A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine,
+Cardiology","Cardiac Tamponade","Cardiac Tamponade","MG037A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine,
+General
+Surgery,Endocrinology","Diabetic Foot","Diabetic Foot","MG058A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine","Gout","Gout","MG054A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine","Electrolyte Imbalance","Hyperkalaemia","MG060E","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","no change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine","Electrolyte Imbalance","Hypokalaemia","MG060F","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","no change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine","Peripheral Arterial Thrombosis","Peripheral Arterial Thrombosis","MG079A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","no change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward -
+2300HDU - 3630
+ICU (without Ventilator) -
+9350
+ICU (with Ventilator) -
+9900","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine","IHD / CAD / Arrhythmia","Arrhythmia","MG081A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","no change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward -
+2300HDU - 3630
+ICU (without Ventilator) -
+9350
+ICU (with Ventilator) -
+9900","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","General Medicine","IHD / CAD / Arrhythmia","CAD","MG081B","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","no change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward -
+2300HDU - 3630
+ICU (without Ventilator) -
+9350
+ICU (with Ventilator) -
+9900","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","Routine Ward - 2400
+HDU - 3800
+ICU (without Ventilator) -
+9700
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"

@@ -1,0 +1,93 @@
+﻿"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy 3D CRT
+(25 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Adjuvant","MR005B","40000","No change","40000","44000","50000","52000","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy IMRT
+(Intensity Modulated
+Radiotherapy)
+(20 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Adjuvant","MR006B","70000","No change","70000","77000","87500","91000","","No","NA"
+"MR","Radiation Oncology","2D External Beam
+Radiotherapy (Telecobalt /
+Strock LA)
+(25 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Adjuvant","MR003B","20000","No change","20000","22000","25000","26000","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator External
+Beam Radiotherapy IGRT
+(Image Guided radiotherapy)
+with 3D CRT or IMRT
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Adjuvant","MR009B","55000","No change","55000","60500","68800","71500","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy 3D CRT
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Adjuvant","MR004B","21000","No change","21000","23100","26300","27300","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy IMRT
+(Intensity Modulated
+Radiotherapy)
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Adjuvant","MR007B","42000","No change","42000","46200","52500","54600","","No","NA"
+"MR","Radiation Oncology","2D External Beam
+Radiotherapy (Telecobalt /
+Strock LA)
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Adjuvant","MR001B","11000","No change","11000","12100","13800","14300","","No","NA"
+"MR","Radiation Oncology","2D External Beam
+Radiotherapy (Telecobalt /
+Strock LA)
+(25 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Neoadjuvant","MR003C","20000","No change","20000","22000","25000","26000","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy 3D CRT
+(25 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Neoadjuvant","MR005C","40000","No change","40000","44000","50000","52000","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator External
+Beam Radiotherapy IGRT
+(Image Guided radiotherapy)
+with 3D CRT or IMRT
+(20 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Neoadjuvant","MR008C","90000","No change","90000","99000","112500","117000","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy 3D CRT
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Neoadjuvant","MR004C","21000","No change","21000","23100","26300","27300","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy IMRT
+(Intensity Modulated
+Radiotherapy)
+(20 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Neoadjuvant","MR006C","70000","No change","70000","77000","87500","91000","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator External
+Beam Radiotherapy IGRT
+(Image Guided radiotherapy)
+with 3D CRT or IMRT
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Neoadjuvant","MR009C","55000","No change","55000","60500","68800","71500","","No","NA"
+"MR","Radiation Oncology","2D External Beam
+Radiotherapy (Telecobalt /
+Strock LA)
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Neoadjuvant","MR001C","11000","No change","11000","12100","13800","14300","","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy IMRT
+(Intensity Modulated
+Radiotherapy)
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Neoadjuvant","MR007C","42000","No change","42000","46200","52500","54600","","No","NA"

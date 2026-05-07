@@ -1,0 +1,264 @@
+﻿"MO","Medical Oncology","CT for CA Lung","Etoposide + Cisplatin
+Etoposide 100mg/m2 D1 - D3
+Cisplatin 75-100 mg/m2 D1 every 21
+days","MO071I","5500","Increased","6750","7500","8500","8500","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Gemcitabine + Cisplatin
+Gemcitabine 1000 mg/m2 D1 D8
+Cisplatin 75 mg/m2 D1 D8 every 21
+days","MO071L","11100","Increased","12150","13400","15200","15200","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Pemetrexed + Cisplatin
+Pemetrexed 500mg/m2 D1
+Cisplatin 75 mg/m2 D1 every 21 days","MO071Q","9200","Increased","9420","10400","11800","12300","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Pemetrexed
+Pemetrexed 500mg/m2 D1 every 21
+days","MO071R","7600","Increased","7612.5","8400","9600","9900","","No","NA"
+"MO","Medical Oncology","CT for CA Cervix","Carboplatin Carboplatin AUC 2 every
+week","MO072A","2400","Increased","2692.5","3000","3400","3600","","No",""
+"Mo","Medical Oncology","CT for CA Breast","Lapatinib
+Lapatinib 500 mg BD orally , daily","MO001P","new procedure","New","15050","16600","18900","19600","","#N/A","#N/A"
+"MO","Medical Oncology","CT for CA Ovary","Cyclophosphamide 50 mg/m2 OD D1-
+D21 every 28 days","MO003H","new procedure","New","2800","3100","3500","3700","","#N/A","#N/A"
+"MO","Medical Oncology","CT for CA Ovary","Tamoxifen
+Tamoxifem 20 mg orally daily (3 months)","MO003I","new procedure","New","1200","1400","1500","1600","","#N/A","#N/A"
+"MO","Medical Oncology","CT for CA Ovary","Letrozole
+Letrozole 2.5 mg orally daily (3 months)","MO003J","new procedure","New","3900","4300","4900","5100","","#N/A","#N/A"
+"Mo","Medical Oncology","CT for CA Ovary","Single agent Carboplatin
+Carboplatin AUC 5-6 D1 every 21 days (
+maximum -6 cycle)","MO003K","new procedure","New","7000","7700","8800","9100","","#N/A","#N/A"
+"Mo","Medical Oncology","CT for CA Ovary","Cisplatin
+Cisplatin 40 mg/m2 every week
+(maximum- 6 cycles)","MO003L","new procedure","New","4100","4600","5200","5400","","#N/A","#N/A"
+"MO","Medical OncologCyT","for Gestational Trophoblastic NeopInlaj sDiaa","Dactinomycin
+ctinomycin 0.5 mg D1- D5 every
+14 days","MO005D","new procedure","New","6950","7700","8700","9100","","#N/A","#N/A"
+"MO","Medical Oncology","CT for Endometrial Cancer","Lipodox + Carboplatin
+Lipopdox 30 mg/m2 D1
+Carboplatin AUC 5 D1 every 28 days","MO007C","new procedure","New","17200","19000","21500","22400","","#N/A","#N/A"
+"MO","Medical Oncology","CT for Endometrial Cancer","Carboplatin + Gemcitabine
+Gemcitabine - 1000mg/m2 D1 D8
+Carboplatin AUC 2 D1 D8
+Gemcitabine - 1000mg/m2 D1 D8
+Carboplatin AUC 5-6 D1 only every 3
+weeks","MO007D","new procedure","New","13900","15300","17400","18100","","#N/A","#N/A"
+"MO","Medical Oncology","CT for Endometrial Cancer","Anastrozole
+1 mg orally daily (for 3 months)","MO007E","new procedure","New","3900","4300","4900","5100","","#N/A","#N/A"
+"MO","Medical Oncology","CT for Vulvar Cancer","Carboplatin + Paclitaxel
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5 D1 every 21 days","MO008C","new procedure","New","14500","16000","18200","18900","","#N/A","#N/A"
+"MO
+MO","Medical Oncology
+Medical Oncology","CT for Soft Tissue Sarcoma
+CT for Metastatic Melanoma","Doxorubicin 60-75/m2, every 21 days
+Imatinib
+Tab Imatinib 400/800 mg daily","MO011C
+MO012C","new procedure
+new procedure","New
+New","4000
+5000","4400
+5500","5000
+6300","5200
+6500","","#N/A
+#N/A","#N/A
+#N/A"
+"MO
+MO","Medical Oncology
+Medical Oncology","CT for Hepatocellular CarcinomaL
+CT for Renal Cell Cancer","envatinib 12 mg daily
+Cabozantinib 60 mg od x 1 month
+every 4 weeks","MO017C
+MO025B","new procedure
+new procedure","New
+New","17000
+13000","18700
+14300","21300
+16300","22100
+16900","","#N/A
+#N/A","#N/A
+#N/A"
+"MO","Medical Oncology","CT for CA Prostate","Abiraterone 1000 mg + Prednisolone
+10mg daily
+Once every month","MO028I","new procedure","New","13000","14300","16300","16900","","#N/A","#N/A"
+"MO
+MO","Medical Oncology","CT for Chronic Myeloid LeukemiaD
+CTM feodr iPcahl+ Oven cPoelodgiayt ric Acute Lymphoblastic Leukemia fDAoLra Lsaa dtthuineltir baa n+d c phaeemdoia trtoic","asatinib 100 mg once a day
+(be used only with
+py)","MO044B
+MO062D","new procedure
+new procedure","New
+New","5000
+5000 per menth","5500
+5500/month","6300
+6250 /month","6500
+6250 /month","","#N/A
+#N/A","#N/A
+#N/A"
+"MO","","CTM feodr iPcahl+ Oven cPoelodgiayt ric Acute Lymphoblastic Leukemia fIAomLr aLat ditnhuiebltr  a+an cdh peameod iattroi cb","((e used only with
+py)","MO062E","new procedure","New","5000 per month","5500/month","6250 /month","6250 /month","","#N/A","#N/A"
+"MO
+MO","Medical Oncology
+Medical Oncology","CT for primary CNS lymphoma
+GCT Testis","De-Angelis/MTR
+SA Carboplatin AUC 7 once every 3
+weeks","MO073A
+M0074A","new procedure
+new procedure","New
+New","36000
+6000 per cycle. Max 4
+cycles once every 3
+week","39600
+6600 per cycle. Max 4
+cycles once every 3
+week","45000
+7500per cycle. Max 4
+cycles once every 3
+week","46800
+7500per cycle. Max 4
+cycles once every 3
+week","","#N/A
+#N/A","#N/A
+#N/A"
+"MO","Medical Oncology","CT for GCT of bone","Denosumab
+Denosumab 120 mg s/c D1, 8, 15 then
+every 28 days","MO075A","new procedure","New","18000 per dose. Max 6
+dose","19800 per dose. Max 6
+dose","22500 per dose. Max 6
+dose","22500 per dose. Max 6
+dose","","#N/A","#N/A"
+"MO","Medical Oncology","GEP NET Neuroendocrine carcinomCaap","Temozolamide 150mg/m2 D9-14 +
+ecitabine 1gm/me D1-14 every 28
+days","MO076A","new procedure","New","8000","8800","10000","10400","","#N/A","#N/A"
+"MO","Medical OncoGloEgPy","NET high grade Neuroendocrine ca1Cr0cai0rnbmoomp/lama t","in AUC 5 + Etoposide
+g2 D1-D3 every 21 days","MO076B","new procedure","New","13400","14800","16800","17500","","#N/A","#N/A"
+"MP","Pediatric Medical
+Management,Neurology","Pediatric seizure disorders","Status epilepticus","MG047A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MP","Pediatric Medical
+Management, General
+Medicine","Pediatric seizure disorders","Acute non-febrile seizures","MP001D","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MP","Pediatric Medical
+Management, General
+Medicine","ACUTE
+ENCEPHALOPATHY","Acute Febrile encephalopathy","MP003A","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MP","Pediatric Medical
+Management, General
+Medicine","ACUTE
+ENCEPHALOPATHY","Acute Disseminated Encephalomyelitis","MP003B","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","No change","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"

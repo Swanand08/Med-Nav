@@ -1,0 +1,119 @@
+﻿"MR","Radiation Oncology","2D External Beam
+Radiotherapy (Telecobalt /
+Strock LA)
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 18 Max upto (Every
+additional fraction at Rs.500 per
+Fraction)","MR001D","9000","no change","9000","9900","11300","11700","500 (18)","No","NA"
+"MR","Radiation Oncology","2D External Beam
+Radiotherapy - Palliative
+(Telecobalt / Strock LA)
+(Upto 10 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Palliative","MR002A","10000","No change","10000","11000","12500","13000","","No","NA"
+"MR","Radiation Oncology","2D External Beam
+Radiotherapy (Telecobalt /
+Strock LA)
+(25 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 10 Max upto
+(additional fraction at Rs.500 per
+Fraction upto a max)","MR003D","5000","no change","5000","5500","6300","6500","500 (10)","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy 3D CRT
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 18 Max upto (Every
+additional fraction at Rs.1000 per
+Fraction)","MR004D","18000","no change","18000","19800","22500","23400","1000 (18)","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy 3D CRT
+(25 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 10 Max upto (Every
+additional fraction at Rs.1000 per
+Fraction)","MR005D","10000","no change","10000","11000","12500","13000","1000 (10)","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy IMRT
+(Intensity Modulated
+Radiotherapy)
+(20 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 15 (Every
+additional fraction at Rs.2000 per
+Fraction)","MR006D","30000","no change","30000","33000","37500","39000","2000 (15)","No","NA"
+"MR","Radiation Oncology","Linear Accelerator, External
+Beam Radiotherapy IMRT
+(Intensity Modulated
+Radiotherapy)
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 18 Max upto (Every
+additional fraction at Rs.2000 per
+Fraction)","MR007D","36000
+37500","no change","36000","39600","45000","46800","2000 (18)","No","NA"
+"MR","Radiation Oncology","Linear Accelerator External
+Beam Radiotherapy IGRT
+(Image Guided radiotherapy)
+with 3D CRT or IMRT
+(20 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 15 Max upto
+(Every additional fraction at Rs.2500 per
+Fraction)","MR008D","no change","37500","41300","46900","48800","2500 (15)","No","NA"
+"MR","Radiation Oncology","Linear Accelerator External
+Beam Radiotherapy IGRT
+(Image Guided radiotherapy)
+with 3D CRT or IMRT
+(6 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 18 Max upto
+Every additional fraction at Rs.2500 per
+Fraction","MR009D","45000","no change","45000","49500","56300","58500","2500 (18)","No","NA"
+"MR","Radiation Oncology","SRT / SBRT with IGRT
+(Stereotacatic radiotherapy)
+(4 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","SRT / SBRT with IGRT
+(Stereotacatic radiotherapy)","MR010A","82000","No change","82000","90200","102500","106600","","No","NA"
+"MR","Radiation Oncology","SRT / SBRT with IGRT
+(Stereotacatic radiotherapy)
+(4 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 4
+Every additional fraction at Rs.11000 per
+Fraction","MR010B","44000","no change","44000","48400","55000","57200","11000 (4)","No","NA"
+"MR","Radiation Oncology","SRS with IGRT
+(Stereotacatic radiotherapy)
+(Inclusive of Simulation &
+Planning Cost)","SRS with IGRT (Stereotacatic
+radiotherapy)","MR011A","70000","No change","70000","77000","87500","91000","","No","NA"
+"MR","Radiation Oncology","Respiratory Gating along with
+Linear Accelerator planning
+(5 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Respiratory Gating along with Linear
+Accelerator planning","MR012A","65000","No change","65000","71500","81300","84500","","No","NA"
+"MR","Radiation Oncology","Respiratory Gating along with
+Linear Accelerator planning
+(5 Fractions)
+(Inclusive of Simulation &
+Planning Cost)","Additional fractions - 10 Max upto
+Every additional fraction at Rs.3500 per
+Fraction","MR012B","35000","no change","35000","38500","43800","45500","3500 (10)","No","NA"
+"MR","Radiation Oncology","Brachytherapy High Dose
+Radiation (2D/X-ray)
+(Maximum of 4 session)","Intracavitory","MR013A","3500","No change","3500","3900","4400","4600","","No","NA"
+"MR","Radiation Oncology","Brachytherapy High Dose
+Radiation (2D/X-ray)
+(Maximum of 4 session)","Intraluminal","MR013B","3500","No change","3500","3900","4400","4600","","No","NA"
+"MR","Radiation Oncology","Brachytherapy High Dose
+Radiation (2D/X-ray)
+(Maximum of 4 session)","Endobiliary","MR013C","3500","No change","3500","3900","4400","4600","","No","NA"
+"MR","Radiation Oncology","Brachytherapy High Dose
+Radiation (2D/X-ray)
+(Maximum of 4 session)","Endobronchial","MR013D","3500","No change","3500","3900","4400","4600","","No","NA"
+"MR","Radiation Oncology","Brachytherapy High Dose
+Radiation (2D/X-ray)
+(Maximum of 4 session)","CVS","MR013E","3500","No change","3500","3900","4400","4600","","No","NA"

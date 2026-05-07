@@ -1,0 +1,407 @@
+﻿"OBG & Gynec","OBG & Gynec","High risk delivery","Other maternal and fetal conditions as
+per guidelines-eg previous caesarean
+section, diabetes, severe growth
+retardation, etc that qualify for high risk
+delivery.","SO054E","11500","Decrease","10000","10000","11700","12500","","No","NA"
+"OBG & Gynec","OBG & Gynec","Hysteroscopic Myomectomy","Hysteroscopic Myomectomy","SO007A","9900","Increased","12000","12000","14100","15000","","No","NA"
+"OBG & GyneOc","BG & Gynec","Laparotomy for ectopic/
+benign disorders","Open","SO040A","14000","Increased","20000","20000","28400","25000","","No","NA"
+"OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec","Abdominal Myomectomy
+Hysteroscopic polypectomy","Abdominal Myomectomy
+Hysteroscopic polypectomy","SO006A
+SO009A","20000
+7200","Increased
+Increased","25000
+10500","25000
+10500","35500
+12300","31300
+13200","","No
+No","NA
+NA"
+"OBG & Gynec
+OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec
+OBG & Gynec","Manchester Repair
+Hysterotomy
+Lap. Surgery for
+Endometriosis
+(Other than Hysterectomy)","Manchester Repair
+Hysterotomy
+Lap. Surgery for Endometriosis
+(Other than Hysterectomy)","SO012A
+SO014A
+SO015A","15000
+5000
+11200","Increased
+Increased
+Increased","20000
+6375
+17325","20000
+6400
+17400","28400
+7500
+20300","25000
+8000
+21700","","No
+No
+No","NA
+NA
+NA"
+"OBG & GyneOc
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec","BG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec","Diagnostic hysteroscopy
+Diagnostic hysteroscopy
+Hysteroscopic adhesiolysis
+Laparoscopic adhesiolysis
+Vaginal Sacrospinus fixation
+with repair","With biopsy
+Without biopsy
+Hysteroscopic adhesiolysis
+Laparoscopic adhesiolysis
+Vaginal Sacrospinus fixation with repair","SO016A
+SO016B
+SO022A
+SO023A
+SO027A","6400
+6400
+6900
+6000
+15000","Increased
+Increased
+Increased
+Increased
+Increased","8000
+8000
+8000
+9750
+16875","8000
+8000
+8000
+9800
+16900","9400
+9400
+9400
+11500
+24000","10000
+10000
+10000
+12200
+21100","","No
+No
+No
+No
+No","NA
+NA
+NA
+NA
+NA"
+"OBG & Gynec","OBG & Gynec","Excision of Vaginal Septum
+(vaginal route)","Excision of Vaginal Septum (vaginal
+route)","SO028A","14500","Increased","24656.25","24700","35100","30900","","No","NA"
+"OBG & Gynec","OBG & Gynec","Hymenectomy for
+imperforate hymen","Hymenectomy for imperforate hymen","SO029A","3000","Increased","3375","3400","4000","4300","","No","NA"
+"OBG & Gynec","OBG & Gynec","Anterior & Posterior
+Colpoperineorrhapy","Anterior & Posterior Colpoperineorrhapy","SO030A","8000","Increased","11250","11300","16000","14100","","No","NA"
+"OBG & Gynec","OBG & Gynec","Vaginoplasty (McIndoe
+procedure)","Vaginoplasty (McIndoe procedure)","SO031A","13500","Increased","20000","20000","23400","25000","","No","NA"
+"OBG & Gynec","OBG & Gynec","Vaginal repair for vesico-
+vaginal fistula (Repair for
+VVF)","Vaginal repair for vesico-vaginal fistula
+(Open)","SO032A","34000","Increased","40000","40000","46800","50000","","No","NA"
+"OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec","Rectovaginal fistula repair
+Vulval Hematoma drainage
+Vulvectomy simple
+Radical Vulvectomy with
+Inguinal and Pelvic lymph
+node disection","Rectovaginal fistula repair
+Vulval Hematoma drainage
+Vulvectomy simple
+Radical Vulvectomy with Inguinal and
+Pelvic lymph node disection","SO033A
+SO034A
+SO035A
+SO036A","24000
+3000
+15000
+38500","Increased
+Increased
+Increased
+Increased","25000
+3375
+20000
+50000","25000
+3400
+20000
+50000","29300
+4800
+28400
+71000","31300
+4300
+25000
+62500","","No
+No
+No
+No","NA
+NA
+NA
+NA"
+"OBG & Gynec","OBG & Gynec","Abdomino Perineal repair for
+Mullerian Anomaly","Abdomino Perineal repair for Mullerian
+Anomaly","SO037A","20000","Increased","34687.5","34700","49300","43400","","No","NA"
+"OBG & Gynec
+OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec
+OBG & Gynec","Colpotomy
+Diagnostic laparoscopy
+Laparotomy for ectopic/
+benign disorders","Colpotomy
+Diagnostic laparoscopy
+PID","SO038A
+SO039A
+SO040B","3100
+9700
+14000","Increased
+Increased
+Increased","4818.75
+12000
+20000","4900
+12000
+20000","5700
+17100
+23400","6100
+15000
+25000","","No
+No
+No","NA
+NA
+NA"
+"OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec","Cystocele - Anterior repair
+Electro Cauterisation / Cryo
+Surgery","Cystocele - Anterior repair
+Electro Cauterisation / Cryo Surgery","SO042A
+SO044A","6000
+4000","Increased
+Increased","8000
+5625","8000
+5700","9400
+8000","10000
+7100","","No
+No","NA
+NA"
+"OBG & Gynec","OBG & Gynec","EUA for (minor girls /
+unmarried sexually inactive /
+victims of sexual abuse)","EUA for (minor girls / unmarried sexually
+inactive / victims of sexual abuse)","SO045A","2000","Increased","2625","2700","2900","3300","","No","NA"
+"OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec","Shirodkar's stitch
+Medical Termination of
+Pregnancy","Shirodkar's stitch
+MTP upto 8 weeks","SO051A
+SO053A","4000
+3500","Increased
+Increased","4500
+5000","4500
+5000","5300
+5900","5700
+6300","","No
+No","NA
+NA"
+"OBG & Gynec","OBG & Gynec","Medical Termination of
+Pregnancy","MTP 8 to 12 weeks","SO053B","5000","Increased","7000","7000","8200","8800","","No","NA"
+"OBG & Gynec","OBG & Gynec","Medical Termination of
+Pregnancy","MTP > 12 weeks","SO053C","6500","Increased","7000","7000","8200","8800","","No","NA"
+"OBG & Gynec","OBG & Gynec","High risk delivery","Mothers with eclampsia / imminent
+eclampsia / severe pre-eclampsia","SO054B","11500","Increased","15000","15000","21300","18800","","No","NA"
+"OBG & Gynec","OBG & Gynec","High risk delivery","Major Fetal malformation requiring
+intervention immediately after birth","SO054C","11500","Increased","15000","15000","17600","18800","","No","NA"
+"OBG & Gynec","OBG & Gynec","Secondary suturing of
+episiotomy","Secondary suturing of episiotomy","SO056A","2500","Increased","3000","3000","3600","3800","","No","NA"
+"OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec","Caesarean Delivery
+Vulvo vaginal / bartholin cyst/
+abscess enucleation /
+drainage","Caesarean Delivery
+Vulvo vaginal/ bartholin cyst/ abscess
+enucleation","SO057A
+SO059A","11500
+4700","Increased
+Increased","12000
+7000","12000
+7000","14100
+8200","15000
+8800","","No
+No","NA
+NA"
+"OBG & Gynec","OBG & Gynec","Vulvo vaginal / bartholin cyst/
+abscess enucleation /
+drainage","Vulvo vaginal/ bartholin cyst/ abscess
+drainage","SO059B","4700","Increased","7000","7000","8200","8800","","No","NA"
+"OBG & Gynec","OBG & Gynec","Staging laparotomy for
+ovarian cancer (simple)","Hysterrectomy + salpingo opherectomy
++ omentectomy + BPLND- Open","SO060A","new procedure","New","50000","50000","58500","62500","","#N/A","#N/A"
+"OBG & Gynec
+OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec
+OBG & Gynec","Vaginal Myomectomy
+Cystectomy
+Laparoscopy for Ectopic/
+other benign disorders","Vaginal Myomectomy
+Open
+lap","SO061A
+SO062A
+SO063A","new procedure
+new procedure
+new procedure","New
+New
+New","15000
+20000
+20000","15000
+20000
+20000","17600
+23400
+23400","18800
+25000
+25000","","#N/A
+#N/A
+#N/A","#N/A
+#N/A
+#N/A"
+"OBG & Gynec
+OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec
+OBG & Gynec","Sterilisation
+Sterilisation
+Reversal of Sterilisation/
+Tuboplasty (lap/ open)","Sterilisation- Open
+Sterilisation- Lap
+Reversal of Sterilisation/ Tuboplasty (lap/ open)","SO064A
+SO064B
+SO065A","new procedure
+new procedure
+new procedure","New
+New
+New","7000
+10000
+25000","7000
+10000
+25000","8200
+11700
+29300","8800
+12500
+31300","","#N/A
+#N/A
+#N/A","#N/A
+#N/A
+#N/A"
+"OBG & Gynec","OBG & Gynec","Diagnostic Hystero -
+Laparoscopy with/ without
+Chromopertubation","Diagnostic Hystero - Laparoscopy with/
+without Chromopertubation","SO066A","new procedure","New","15000","15000","17600","18800","","#N/A","#N/A"
+"OBG & Gynec","OBG & Gynec","Laparotomy for Broad
+Ligament Hematoma","Laparotomy for Broad Ligament
+Hematoma (with internal iliac ligation)","SO067A","new procedure","New","35000 (include internal
+iliac ligation)","35000 (include internal
+iliac ligation)","40100(include internal
+iliac ligation)","43750(include internal
+iliac ligation)","","#N/A","#N/A"
+"OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec","Complete Perineal Tear
+Molar follow up for
+chemotherapy","Complete Perineal Tear
+Molar follow up for chemotherapy","SO068A
+SO069A","new procedure
+new procedure","New
+New","25000
+6000","25000
+6000","29300
+7100","31300
+7500","","#N/A
+#N/A","#N/A
+#N/A"
+"OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec
+OBG & Gynec
+OBG & Gynec","Resuturing of wounds
+Post coital / Injury Repair
+Cone biopsy
+Biopsy- Cervical, Endometrial
+EA/ ECC; Vulvar;
+Polypectomy","Resuturing of wounds
+Post coital / Injury Repair
+Cone biopsy
+Biopsy- Cervical, Endometrial EA/ ECC;
+Vulvar; Polypectomy","SO070A
+SO071A
+SO072A
+SO073A","new procedure
+new procedure
+new procedure
+new procedure","New
+New
+New
+New","5000
+7000
+7000
+5000","5000
+7000
+7000
+5000","5900
+8200
+8200
+5900","6300
+8800
+8800
+6300","","#N/A
+#N/A
+#N/A
+#N/A","#N/A
+#N/A
+#N/A
+#N/A"
+"OBG & Gynec
+OBG & Gynec","OBG & Gynec
+OBG & Gynec","Normal vaginal delivery
+Operative vaginal delivery
+(Vacuum/ forceps)","Normal vaginal delivery
+Operative vaginal delivery (Vacuum/
+forceps)","SO074A
+SO075A","new procedure
+new procedure","New
+New","8000
+10000","8000
+10000","8800
+11700","10000
+12500","","#N/A
+#N/A","#N/A
+#N/A"
+"OBG & Gynec","OBG & Gynec","Surgical management of
+PPH after vaginal delivery","Surgical management of PPH after
+vaginal delivery","SO076A","new procedure","New","15000","15000","17600","18800","","#N/A","#N/A"
+"OT","Organ and Tissue
+Transplant","Renal Transplant","Post-Transplant Medication – Month 1-3","OT001D","50000","Decrease","40000","50000","56800","60000","","No",""

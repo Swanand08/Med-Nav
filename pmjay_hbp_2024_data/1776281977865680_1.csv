@@ -1,0 +1,99 @@
+﻿"","","","","","","","","Differential price , by type of city)","","",""
+"Specialt
+y Code
+HBP 2.2","Specialty","Package Name","Procedure Name","Procedure code","Existing Procedure
+Price","Status with present
+package","National Reference
+Price (NRP)","Tier3 (Z)","Tier2(Y)","Tier1(X)","Implant mapped.","Stratification Criteria
+(Y/N)","Stratification remarks"
+"BM","Burns Management","Thermal burns","Criteria 1: % Total Body Surface Area
+Burns (TBSA):less than 20% in adults
+and less than 10% in children younger
+than 12 years. Dressing without
+anesthesia","BM001A","7000","No change","7000","7000","8200","8800","","No","NA"
+"BM","Burns Management","Thermal burns","Criteria 2: % Total Body Surface Area
+Burns (TBSA): Upto 25%; Includes %
+TBSA skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM001B","40000","No change","40000","50000","56800","60000","","No","NA"
+"BM","Burns Management","Thermal burns","Criteria 3: % Total Body Surface Area
+Burns (TBSA): 25-40 %; Includes %
+TBSA skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM001C","50000","No change","50000","62500","71000","75000","","No","NA"
+"BM","Burns Management","Thermal burns","Criteria 5: % Total Body Surface Area
+Burns (TBSA):60-80 %; Includes %
+TBSA skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM001E","80000","No change","80000","100000","113600","120000","","#N/A","#N/A"
+"BM","Burns Management","Scald burns","Criteria 1: % Total Body Surface Area
+Burns (TBSA): less than 20% in adults
+and less than 10% in children younger
+than 12 years. Dressing without
+anesthesia","BM002A","7000","No change","7000","7000","8200","8800","","No","NA"
+"BM","Burns Management","Scald burns","Criteria 2: % Total Body Surface Area
+Burns (TBSA): Upto 25%; Includes %
+TBSA skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM002B","40000","No change","40000","50000","56800","60000","","No","NA"
+"BM","Burns Management","Scald burns","Criteria 3: % Total Body Surface Area
+Burns (TBSA): 25-40 %; Includes %
+TBSA skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM002C","50000","No change","50000","62500","71000","75000","","No","NA"
+"BM","Burns Management","Scald burns","Criteria 5: % Total Body Surface Area
+Burns (TBSA):60-80 %; Includes %
+TBSA skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM002E","80000","No change","80000","100000","113600","120000","","#N/A","#N/A"
+"BM","Burns Management","Flame burns","% Total Body Surface Area Burns
+(TBSA) - any %
+(not requiring admission).
+Needs at least 5-6 dressing","BM003A","7000","No change","7000","7000","8200","8800","","No","NA"
+"BM","Burns Management","Flame burns","% Total Body Surface Area Burns
+(TBSA): Upto 40 %; Includes % TBSA
+skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM003B","40000","No change","40000","50000","56800","60000","","No","NA"
+"BM","Burns Management","Flame burns","% Total Body Surface Area Burns
+(TBSA): 40 % - 60 %; Includes % TBSA
+skin grafted, flap cover, follow-up
+dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM003C","50000","No change","50000","62500","71000","75000","","No","NA"
+"BM","Burns Management","Flame burns","% Total Body Surface Area Burns
+(TBSA): > 60 %; Includes % TBSA skin
+grafted, flap cover, follow-up dressings
+etc. as deemed necessary; Surgical
+procedures are required for deep burns
+that are not amenable to heal with
+dressings alone.","BM003D","80000","No change","80000","100000","113600","120000","","No","NA"
+"BM","Burns Management","Electrical contact burns","Electrical contact burns: Low voltage -
+without part of limb / limb loss; Includes
+% TBSA skin grafted, flap cover, follow-
+up dressings etc. as deemed necessary;
+Surgical procedures are required for
+deep burns that are not amenable to
+heal with dressings alone.","BM004A","30000","No change","30000","37500","42600","45000","","No","NA"
+"BM","Burns Management","Electrical contact burns","Electrical contact burns: Low voltage -
+with part of limb / limb loss; Includes %
+TBSA skin grafted, flap cover, follow-up
+dressings Amputation etc. as deemed
+necessary; Surgical procedures are
+required for deep burns that are not
+amenable to heal with dressings alone.","BM004B","40000","No change","40000","50000","56800","60000","","No","NA"

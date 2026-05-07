@@ -1,0 +1,39 @@
+# General
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+*.log
+
+# Node
+node_modules/
+package-lock.json
+
+# Backend
+backend/__pycache__/
+backend/services/__pycache__/
+backend/*.log
+backend/scratch/
+
+# Frontend
+mednav-ui/dist/
+mednav-ui/node_modules/
+mednav-ui/.env*
+!mednav-ui/.env.example
+
+# Internal docs (keep out of public repo)
+*.docx
+*.txt
+!requirements.txt
+
+# IDE
+.vscode/
+.idea/

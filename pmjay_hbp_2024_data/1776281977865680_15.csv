@@ -1,0 +1,101 @@
+﻿"MO","Medical Oncology","CT for CA Ovary","Carboplatin + Gemcitabine
+Gemcitabine - 1000mg/m2 D1 D8
+Carboplatin AUC 2 D1 D8
+Gemcitabine - 1000mg/m2 D1 D8
+Carboplatin AUC 5-6 D1 only","MO003F","13900","No change","13900","15300","17400","17400","","No","NA"
+"MO","Medical Oncology","CT for Germ Cell Tumor","Gemcitabine + Oxaliplatin
+Gemcitabine 1000mg/m2 D1 D8
+Oxaiplatin 130mg/m2 D1 every 21 days","MO004D","17500","No change","17500","19300","21900","22800","","No","NA"
+"MO","Medical Oncology","CT for Germ Cell Tumor","Gemcitabine + Paclitaxel
+Gemcitabine 1000mg/m2 D1 D8 D15
+Paclitaxel 100 mg/m2 D1 D8 D15 every
+28 days","MO004E","17500","No change","17500","19300","21900","22800","","No","NA"
+"MO","Medical Oncology","CT for Germ Cell Tumor","Paclitaxel + Ifosfamide + Cisplatin
+Paclitaxel 240 mg/m2 D1
+Ifosfamide 1500mg/m2 D2-D5
+Mesna 300 mg/m2 0h 4h 8h D2-D5
+Cisplatin 25mg/m2 D2-D5 every 21 days","MO004F","24400","No change","24400","26900","30500","31800","","No","NA"
+"MO","Medical Oncology","CT for Cervical Cancer","Carboplatin + Paclitaxel
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO006A","14900","No change","14900","16400","18700","18700","","No","NA"
+"MO","Medical Oncology","CT for Endometrial Cancer","Carboplatin + Paclitaxel
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5 D1 every 21 days","MO007A","14900","No change","14900","16400","18700","18700","","No","NA"
+"MO","Medical Oncology","CT for Osteogenic Sarcoma","Methotrexate + Doxorubicin + Cisplatin
+for Relapsed Osteogenic Sarcoma
+Cisplatin 120mg/sq.m
+Doxorubicin 75mg/m2
+Methotrexate 8-12 gram/m2
+Each cycle for 5 weeks","MO010B","27000","No change","27000","29700","33800","35100","","No","NA"
+"MO","Medical Oncology","CT for Osteogenic Sarcoma","OGS - 12
+Ifosfamide 1800 mg/m2 D1-D5
+Mesna 600mg/m2 0h 3h 6h 9h D1-D5
+Adriamycin 25mg/m2 D1- D3
+Cisplatin 33 mg/m2 D1-D3 every 21
+days","MO010C","29600","No change","29600","32600","37000","38500","","No","NA"
+"MO","Medical Oncology","CT for Soft Tissue Sarcoma","Ifosfamide + Adriamycin
+Doxorubicin 30mg/m2 D1 D2
+Ifosfamide 2000 to 3000mg/m2
+Mesna 400 to 600 mg/m2 0h 4h 8h D1 -
+D3
+Every 21 days","MO011B","13700","No change","13700","15100","17200","17900","","No","NA"
+"MO","Medical Oncology","CT for Metastatic Melanoma","Dacarbazine + Cisplatin
+Dacarbazine 250mg/m2 D1-D5
+Cisplatin 75 mg/m2 Every 21 days","MO012A","7100","No change","7100","7900","8900","9300","","No","NA"
+"MO","Medical Oncology","CT for Anal Cancer","Carboplatin + Paclitaxel
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO013D","14900","No change","14900","16400","18700","18700","","No","NA"
+"MO","Medical Oncology","CT for Anal Cancer","Cisplatin + Paclitaxel
+Paclitaxel 175 mg/m2 D1
+Cisplatin 75mg/m2 D1 every 21 days","MO013E","13300","No change","13300","14700","16700","16700","","No","NA"
+"MO","Medical Oncology","CT for Colorectal Cancer","Capecitabine + Irinotecan
+Capecitabine 1000mg/m2 D1-D14
+Irinotecan 200 mg/m2 D1 every 21 days","MO014B","12500","No change","12500","13800","15700","16300","","No","NA"
+"MO","Medical Oncology","CT for Colorectal Cancer","Capecitabine along with RT
+Capecitabine 825 mg/m2 twice daily","MO014F","7200","No change","7200","8000","9000","9400","","No","NA"
+"MO","Medical Oncology","CT for Colorectal Cancer","Capecitabine
+Capecitabine 1000mg/m2 D1-D14 every
+21 days","MO014G","7300","No change","7300","8100","9200","9500","","No","NA"
+"MO","Medical Oncology","CT for Esophageal Cancer","Carboplatin + Paclitaxel
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO015A","14900","No change","14900","16400","18700","18700","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","Capecitabine
+Capecitabine 825 mg/m2 twice daily","MO016D","7200","No change","7200","8000","9000","9000","","No","NA"
+"MO","Medical Oncology","CT for Panceratic Cancer","Gemcitabine
+Gemcitabine 1000mg /m2 D1 D8 every
+21 days","MO018B","9000","No change","9000","9900","11300","11700","","No","NA"
+"MO","Medical Oncology","CT for Gall Bladder Cancer /
+Cholangiocarcinoma","Capecitabine
+Capecitabine 1000 - 1250 mg/m2 twice
+daily D1 -D14 every 21 days","MO019A","7300","No change","7300","8100","9200","9500","","No","NA"
+"MO","Medical Oncology","CT for Gall Bladder Cancer /
+Cholangiocarcinoma","Gemcitabine
+Gemcitabine 300 mg/m2 D 1every week
+(till RT ends)","MO019D","9000","Decrease","4000(per week)","4400/week","5000/week","5000/week","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Cisplatin + Docetaxel
+Docetaxel 75 mg/m2 D1
+Cisplatin 75 mg/m2 D1 every 21 days","MO024A","12400","No change","12400","13700","15500","16200","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Cisplatin
+Cisplatin 100mg/m2 every 21 days","MO024B","9800","No change","9800","10800","12300","12800","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Paclitaxel + Carboplatin
+Paclitaxel 80mg/m2 D1
+Carboplatin AUC 2 D1 every week","MO024K","7700","No change","7700","8500","9700","9700","","No","NA"
+"MO","Medical Oncology","CT for CA Prostate","LHRH Agonist
+Leuprolide 22.5 ug every 3 months","MO028D","15300","No change","15300","16900","19200","19200","","No","NA"
+"MO","Medical Oncology","CT for CA Prostate","Mitoxantrone + Prednisolone
+Mitoxantrone 12mg/m2 every 3 weeks
+Prednsiolone 10 mg daily","MO028E","4200","No change","4200","4700","5300","5500","","No","NA"
+"MO","Medical Oncology","CT for CA Prostate","Paclitaxel + Carboplatin
+Paclitaxel 80mg/m2 D1
+Carboplatin AUC 2 D1 every week","MO028F","7700","No change","7700","8500","9700","9700","","No","NA"
+"MO","Medical Oncology","CT for B - Cell NHL - High
+Grade
+(Except Burkitt's & PCNSL)","Rituximab + Cyclophosphamide +
+Etoposide + Prednsiolone
+Rituximab 375mg/m2
+Cyclophosphamide 750 mg/m2
+Vincristine 1.4 mg/m2, on Day1
+Etoposide 65mg/m2 Day 1 to 3
+Prednisolone 100 mg Day 1-5
+Total 6 cycles, repeat 21 days","MO029A","26200","No change","26200","28900","32800","32800","","No","NA"

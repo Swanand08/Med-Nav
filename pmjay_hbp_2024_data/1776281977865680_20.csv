@@ -1,0 +1,105 @@
+﻿"MO","Medical Oncology","CT for Germ Cell Tumor","Bleomycin + Etoposide + Cisplatin
+Bleomycin 30 units D1 D8 D15
+Cisplatin 20 mg/m2 IV D1-D5
+Etoposide 100mg/m2 D1-D5 every 21
+days","MO004B","11600","Increased","12322.5","13600","15500","16100","","No","NA"
+"MO","Medical Oncology","CT for Germ Cell Tumor","Etoposide + Cisplatin
+Cisplatin 20 mg/m2 IV D1-D5
+Etoposide 100mg/m2 D1-D5 every 21
+days","MO004C","10000","Increased","10860","12000","13600","14200","","No","NA"
+"MO","Medical Oncology","CT for Germ Cell Tumor","Vinblastin + Ifosfamide + Cisplatin
+Vinblastine 0.11 mg/kg IV D1-D2
+Mesna 240mg/m2 0h 4h 8h D1-D5
+Ifosfamide 1200mg/m2 D1-D5
+Cisplatin 20 mg/m2 D1-D5 every 21
+days","MO004G","12600","Increased","13597.5","15000","17000","17700","","No","NA"
+"MO","Medical Oncology","CT for Gestational
+Trophoblastic Neoplasia","Etoposide + Methotrexate +
+Dactinomycin- Cyclophosphamide +
+Vincristine
+Etoposide 100mg/m2 IV D1 D2
+Dactinomycin 0.5 mg IV push D1 D2
+Methotrexate 300 mg /m2 D1
+Leucovorin 15 mg PO every 12 hrs for 4
+doses
+Cyclophosphamide 600mg/m2 D8
+Vincrstine 1 mg/m2 D8 every 2 weeks","MO005A","11400","Increased","12041.25","13300","15100","15700","","No","NA"
+"MO","Medical Oncology","CT for Gestational
+Trophoblastic Neoplasia","Etoposide + Methotrexate +
+Dactinomycin + Cisplatin
+Etoposide 100mg/m2 IV D1 D2 D8
+Dactinomycin 0.5 mg IV push D1 D2
+Methotrexate 300 mg /m2 D1
+Leucovorin 15 mg PO every 12 hrs for 4
+doses Cisplatin 75mg/m2 D8 every 2
+weeks","MO005B","12200","Increased","12746.25","14100","16000","16600","","No","NA"
+"MO","Medical Oncology","CT for Gestational
+Trophoblastic Neoplasia","Methotrexate
+Methotrexate 1/mg/kg IM every other
+day x 4 days D1 3 D5 D7
+Alternating every other day with
+Leucovorin 15 mg PO repeat every 14
+days","MO005C","1100","Increased","1218.75","1400","1600","1600","","No","NA"
+"MO","Medical Oncology","CT for Cervical Cancer","Cisplatin
+Cisplatin 40 mg/m2 every week","MO006B","2200","Increased","2362.5","2600","3000","3100","","No","NA"
+"MO","Medical Oncology","CT for Vulvar Cancer","Cisplatin
+Cisplatin 40 mg/m2 every week","MO008B","2200","Increased","2362.5","2600","3000","3100","","No","NA"
+"MO","Medical Oncology","CT for Endometrial Cancer","Cisplatin + Doxorubicin
+Doxorubicin 60 mg/m2 D1
+Cisplatin 50mg/m2 every 3 weeks","MO007B","4200","Increased","4410","4900","5600","5600","","No","NA"
+"MO","Medical Oncology","CT for Vulvar Cancer","Cisplatin + 5 FU
+5 FU 1000mg/m2 D1-D4
+Cisplatin 75mg/m2 D1 every 3 weeks","MO008A","7600","Increased","8250","9100","10400","10800","","No","NA"
+"MO","Medical Oncology","CT for Anal Cancer","Cisplatin + 5 FU
+5 FU 1000mg/m2 D1-D4
+Cisplatin 75mg/m2 D1 every 4 weeks","MO013C","7600","Increased","8100","9000","10200","10600","","No","NA"
+"MO","Medical Oncology","CT for Ureter / Bladder /
+Urethra","Cisplatin + 5 FU
+5 FU 1000mg/m2 D1-D4
+Cisplatin 75mg/m2 D1 every 4 weeks","MO026D","7800","Increased","8175","9000","10300","10700","","No","NA"
+"MO","Medical Oncology","CT for Esophageal Cancer","Cisplatin + 5 FU
+5 FU 1000mg/m2 D1-D4
+Cisplatin 75mg/m2 D1 every 4 weeks","MO015B","9600","Increased","9675","10700","12100","12600","","No","NA"
+"MO","Medical Oncology","CT for Ewing Sarcoma","Vincristine + Topotecan +
+Cyclophosphamide + Irinotecan +
+Temozolamide
+Vincristine 1.5mg/m2( day 1)
+Topotecan 1.5mg/m2 (day 1-5)
+Cyclophosphamide 250mg/m2 (days 1-
+5)
+Given every 3 weeks
+Irinotecan 10-50 mg/sqM days 1-5 and
+days 8-12 Temozolamide 100mg/m2
+days 1-5 of each cycle every 3 weeks","MO009A","22400","Increased","23152.5","25500","29000","30100","","No","NA"
+"MO","Medical Oncology","CT for Ewing Sarcoma","Vincristine + Ifosfamide + Etoposide
+Vincristine + Doxorubicin +
+Cyclophosphamide
+Vincristine + Cyclophosphamide +
+Dactinomycin.
+4 cycles VIE, 6 cycles VAC, 4 cycles
+VCD
+Vincristine 1.5mg/m2 (day 1, 8 and 15)
+Ifosfamide: 1800mg/m2 (days1-5)
+Etposide: 100mg/sq.m (days 1-5)
+Given every 3 weeks
+Vincristine 1.5mg/m2 (day 1 and 8)
+Adriamyicn: 60mg/m2 (day 1)
+Cyclophosphamide 600mg/m2 (day 1)
+Given 2-3 weekly
+Vincristine 1.5mg/m2 (day 1 and 8)
+Cyclophosphamide 600mg/m2 (day 1)
+Dactinomycin1mg/m2 (day1)
+Given 3 weekly","MO009B","9700","Increased","9900","10900","12400","12900","","No","NA"
+"MO","Medical Oncology","CT for Ewing Sarcoma","Vincristine + Adriamycin +
+Cyclophosphamide
+Ifosfamide + Etoposide
+Ifosfamide: 1800mg/m2 (days1-5)
+Etposide: 100mg/sq.m (days 1-5)
+Given every 2-3 weekly
+Vincristine 1.5mg/m2 (day 1 and 8)
+Adriamyicn: 75mg/m2 (day 1)
+Cyclophosphamide 1200mg/m2 (day 1)
+Given 2-3 weekly","MO009C","12500","Increased","12708.75","14000","15900","16600","","No","NA"
+"MO","Medical Oncology","CT for Anal Cancer","5 FU + Mitomycin C
+5 FU 1000mg/m2 D1-D4 D29-D32
+Mitomycin 10mg/m2 D1","MO013A","10500","Increased","10950","12100","13700","14300","","No","NA"

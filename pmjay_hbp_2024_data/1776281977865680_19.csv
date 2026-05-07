@@ -1,0 +1,101 @@
+﻿"MO","Medical Oncology","CT for CA Prostate","Docetaxel
+Docetaxel 60 mg/m2 D1 every 14 days","MO028A","11700","Decrease","8000","8800","10000","10400","","No","NA"
+"MO","Medical Oncology","CT for CA Prostate","Paclitaxel + Carboplatin
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO028G","15100","Decrease","14500","16000","18200","18200","","No","NA"
+"MO","Medical Oncology","CT for CA Prostate","Docetaxel
+Docetaxel 20mg/m2 D1 every week","MO028H","14700","Decrease","3200","3600","4000","4200","","No","NA"
+"MO","Medical Oncology","CT for Low Grade B - Cell
+NHL","Bendamustine + Rituximab
+Bendamustine 90mg/m2 on day 1, 2
+Rituximab 375mg/m2 on day 1
+Repeat every 28 days, Total 6 cycles","MO034A","30700","Decrease","25000","27500","31300","31300","","No","NA"
+"MO","Medical Oncology","CT for Low Grade B - Cell
+NHL","Lenalidomide + Rituximab
+Rituximab 375mg/m2 Day 1
+Lenlidomide 25 mg D1-28, for 8 cycles","MO034B","27500","Decrease","22500","24800","28200","28200","","No","NA"
+"MO","Medical Oncology","CT for Low Grade NHL","Rituximab
+Rituximab 375mg/m2 per week for 6
+weeks","MO035A","24800","Decrease","16000","17600","20000","20000","","No","NA"
+"MO","Medical Oncology","CT for Low Grade NHL","Rituximab + Cyclophosphamide +
+Vincristine + Prednisolone
+Rituximab 375 mg/m2
+Cyclophosphamide 750mg/m2
+Vincristine 1.4mg/m2 Day 1
+Prednisolone 100 mg Day 1 - 5
+Repeat every 21days. Total 6 cycles","MO035B","25800","Decrease","17500","19300","21900","21900","","No","NA"
+"MO","Medical Oncology","CT for Chronic Lymphocytic
+Leukemia","Rituxmab + Chlorambucil
+Rituximab 375mg/m2 Day 1
+Chlorambucil 10 mg/m2 D1-7
+Repeat every 28 days for 12 cycles","MO036B","24900","Decrease","17100","18900","21400","21400","","No","NA"
+"MO","Medical Oncology","CT for MM / Amyloidosis /
+POEMS","Lenalidomide + Dexamethasone
+Lenalidomide 25 mg daily Day1-21
+Dexamethasone 40mg Day 1, 8, 15, 22
+Every 28days","MO042A","6000","Decrease","5200","5800","6500","6500","","No","NA"
+"MO","Medical Oncology","CT for Chronic Myeloid
+Leukemia","Imatinib
+Imatinib 400 mg, 600 mg, 800 mg
+(per month X 5 years)","MO044A","19400","Decrease","15000","16500","18800","18800","","No","NA"
+"MO","Medical Oncology","Granulocyte Colony
+Stimulating Factor Use","5 microgram / kg / day
+(max 300 microgram per day) for 7 days
+or
+PEG - GCSF 6mg one single dose per
+chemotherapy cycle","MO053A","12800","Decrease","4500","5000","5700","5700","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Hodgkins
+Lymphoma Relapse","ICE","MO067A","21500","Decrease","14000","15400","17500","18200","","No","NA"
+"MO","Medical Oncology","CT for Pediatric Hodgkins
+Lymphoma Relapse","DECA","MO067B","17800","Decrease","14000","15400","17500","18200","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Erlotinib
+Erlotinib 150 mg once daily","MO071B","13000","Decrease","4500","5000","5700","5700","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Gefitnib
+Gefitinib 250 mg once daily","MO071C","11000","Decrease","2500","2800","3200","3200","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Paclitaxel + Carboplatin
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO071D","15100","Decrease","14500","16000","18200","18200","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Docetaxel
+Docetaxel 20 mg/m2 D1 every week","MO071G","14600","Decrease","3200","3500","4000","4000","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Gemcitabine + Carboplatin
+Gemcitabine 1000 mg/m2 D1 D8
+Carboplatin AUC 5-6 D1 every 21 days","MO071K","14300","Decrease","13900","15300","17400","17400","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Paclitaxel + Carboplatin
+Paclitaxel 50mg/m2 D1
+Carboplatin AUC 2 D1 every week","MO071O","7900","Decrease","7700","8500","9700","9700","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Paclitaxel + Cisplatin
+Paclitaxel 175 mg/m2 D1
+Cisplatin 75mg/m2 D1 every 21 days","MO071P","13500","Decrease","13300","14700","16700","16700","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Vinorelbine + Carboplatin
+Vinorelbine 25mg/m2 D1 D8
+CarboplatinAUC 5-6 D1 every 21 days","MO071S","22800","Decrease","17000","18700","21300","22100","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Vinorelbine + Cisplatin
+Vinorelbine 25mg/m2 D1 D8
+Cisplatin 75mg/m2 D1 every 21 days","MO071T","20600","Decrease","17000","18700","21300","22100","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Cyclophosphamide + Epirubcin
+Cyclophosphamide - 600 mg /m2 D1
+Epirubicin -90mg/m2 D1 every 21 days","MO001A","7200","Increased","7312.5","8100","9200","9200","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Weekly Paclitaxel for Adjuvant Therapy
+Paclitaxel 80mg/m2 every week","MO001B","5800","Increased","5987.5","6600","7500","7500","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Weekly Paclitaxel in metastatic setting
+Paclitaxel 80mg/m2 every week","MO001C","5800","Increased","5987.5","6600","7500","7500","","No","NA"
+"MO","Medical Oncology","CT for CA Breast","Cyclophosphamide + Methotrexate + 5 -
+FU
+Cyclophosphamide - 100mg/m2 orally
+D1-D14 Methotrexate 40mg/m2 IV D1
+D8 5FU 600 mg/m2 D1, D8 every 28
+days","MO001D","3200","Increased","3528.75","3900","4500","4500","","No","NA"
+"MO","Medical Oncology","CT for CA Ovary","Cisplatin + Irinotecan
+Cisplatin 60mg/m2 D1
+Irinotecan 60 mg/m2 D1 D8 D15 every
+28 days","MO003A","10200","Increased","13050","14400","16400","17000","","No","NA"
+"MO","Medical Oncology","CT for CA Ovary","Irinotecan
+Irinotecan 60 -90 mg/m2 D1 D8 every
+21 days","MO003D","8400","Increased","10950","12100","13700","14300","","No","NA"
+"MO","Medical Oncology","CT for CA Ovary","Lipodox
+Lipodox 40 mg/m2 IV every 28 days","MO003E","14800","Increased","17950","19800","22500","23400","","No","NA"
+"MO","Medical Oncology","CT for CA Ovary","Carboplatin + Paclitaxel
+Paclitaxel 175mg/m2 D1
+Carboplatin AUC 5-6 D1 every 21 days","MO003G","14700","Increased","14850","16400","18600","18600","","No","NA"
+"MO","Medical Oncology","CT for Germ Cell Tumor","Carboplatin (AUC 7)
+Carboplatin AUC 7 every 21 days","MO004A","5800","Increased","7300","8100","9200","9500","","No","NA"

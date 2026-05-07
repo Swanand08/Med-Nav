@@ -1,0 +1,114 @@
+﻿"MO","Medical Oncology","CT for Anal Cancer","Capecitabine + Mitomycin C
+Capecitabine 825mg/m2 PO twice daily
+till completion of RT
+Mitomycin 10mg/2 D1","MO013B","13800","Increased","16875","18600","21100","22000","","No","NA"
+"MO","Medical Oncology","CT for Colorectal Cancer","5 FU + Leucovorin
+5 FU 1200mg/m2 D1 D2
+Leucovorin 400mg/m2 D1 every 14 days","MO014A","4700","Increased","5512.5","6100","6900","6900","","No","NA"
+"MO","Medical Oncology","CT for Colorectal Cancer","5 FU + Leucovorin + Oxaliplatin
+5 FU 1200mg/m2 D1 D2
+Leucovorin 400mg/m2 D1
+Oxaliplatin 85 mg/m2 D1 every 14 days","MO014C","11100","Increased","13650","15100","17100","17800","","No","NA"
+"MO","Medical Oncology","CT for Colorectal Cancer","5FU + Leucovorin + Irinotecan
+5 FU 1200mg/m2 D1 D2
+Leucovorin 400mg/m2 D1
+Irinotecan 180mg/m2 85 mg/m2 D1
+every 14 days","MO014D","8700","Increased","9570","10600","12000","12500","","No","NA"
+"MO","Medical Oncology","CT for Colorectal Cancer","5FU + Leucovorin + Oxaliplatin +
+Irinotecan
+5 FU 1200mg/m2 D1 D2
+Leucovorin 400mg/m2 D1
+Oxaliplatin 85 mg/m2 D1
+Irinotecan 180mg/m2 every 14 days","MO014H","15100","Increased","18775","20700","23500","24500","","No","NA"
+"MO","Medical Oncology","CT for Esophageal Cancer","Cisplatin + 5 FU
+Cisplatin 75mg/m2 D1 D29
+5FU 1000mg/m2 D1-D4 D29 D32 every
+35 days","MO015C","9600","Increased","14100","15600","17700","18400","","No","NA"
+"MO","Medical Oncology","CT for Esophageal Cancer","Paclitaxel + Carboplatin
+Paclitaxel 50mg/m2 D1
+Carboplatin AUC 2 D1 every week","MO015D","25100","Increased","27172.5","29900","34000","34000","","No","NA"
+"MO","Medical Oncology","CT for Esophageal Cancer","Paclitaxel + Carboplatin
+Paclitaxel 50mg/m2 D1
+Carboplatin AUC 2 D1 every week","MO015E","25100","Increased","27172.5","29900","34000","34000","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","Cisplatin + Docetaxel
+Docetaxel 40mg/m2 D1
+Cisplatin 40 mg/m2 D1
+Leucovorin 400mg/m2 D1
+5FU 1000mg/m2 D1 D2 every 14 days","MO016A","12100","Increased","13900","15300","17400","18100","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","Irinotecan
+Irinotecan 60- 90 mg/m2 D1 D8 every
+21 days","MO016B","8300","Increased","10925","12100","13700","14300","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","5 FU
+5 FU 250 mg/m2 D1-D5 over 24 hrs
+every week","MO016C","8000","Increased","9375","10400","11800","12200","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","5FU + Leucovorin + Irinotecan
+5 FU 1200mg/m2 D1 D2
+Leucovorin 400mg/m2 D1
+Irinotecan 180mg/m2 85 mg/m2 D1
+every 14 days","MO016J","8700","Increased","9570","10600","12000","12500","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","5FU + Leucovorin + Oxaliplatin
+5 FU 1200mg/m2 D1 D2
+Leucovorin 400mg/m2 D1
+Oxaliplatin 85 mg/m2 D1 every 14 days","MO016K","11100","Increased","13650","15100","17100","17800","","No","NA"
+"MO","Medical Oncology","CT for CA Head & Neck","Paclitaxel
+Paclitaxel 80mg/m2 every week","MO024M","5700","Increased","5962.5","6600","7500","7500","","No","NA"
+"MO","Medical Oncology","CT for Esophageal / Stomach
+Cancer","Paclitaxel
+Paclitaxel 80mg/m2 every week","MO016L","5800","Increased","5987.5","6600","7500","7500","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Paclitaxel
+Paclitaxel 80mg/m2 every week","MO071M","5800","Increased","5987.5","6600","7500","7500","","No","NA"
+"MO","Medical Oncology","CT for Hepatocellular
+Carcinoma","Doxorubicin (TACE)
+Doxorubicin 30-75 mg/m2 one course","MO017A","10000","Increased","22500","24800","28200","29300","","No","NA"
+"MO","Medical Oncology","CT for Hepatocellular
+Carcinoma","Sorafenib
+Sorafenib 400mg PO twice daily","MO017B","7400","Increased","8975","9900","11300","11300","","No","NA"
+"MO","Medical Oncology","CT for Panceratic Cancer","Gemcitabine + Nanopaclitaxel
+Gemcitabine 1000mg/m2 D1 D8 D16
+Albumin bound Paclitaxel 125mg/m2 D1
+D8 D15 every 28 days","MO018A","23500","Increased","28375","31300","35500","36900","","No","NA"
+"MO","Medical Oncology","CT for CA Lung","Gemcitabine
+Gemcitabine 1000mg /m2 D1 D8 every
+21 days","MO071J","8900","Increased","8975","9900","11300","11700","","No","NA"
+"MO","Medical Oncology","CT for Gall Bladder Cancer /
+Cholangiocarcinoma","Gemcitabine
+Gemcitabine 1000mg /m2 D1 D8 every
+21 days","MO019E","8900","Increased","8975","9900","11300","11700","","No","NA"
+"MO","Medical Oncology","CT for Panceratic Cancer","5FU + Leucovorin + Oxaliplatin +
+Irinotecan
+5 FU 1200mg/m2 D1 D2
+Leucovorin 400mg/m2 D1
+Oxaliplatin 85 mg/m2 D1
+Irinotecan 180mg/m2 every 14 days","MO018D","15500","Increased","18875","20800","23600","24600","","No","NA"
+"MO","Medical Oncology","CT for Panceratic Cancer","Capecitabine + Gemcitabine
+Gemcitabine 1000mg/m2 D1 D8 D15
+Capecitabine 830mg/m2 twice daily D1-
+D21 every 28 days","MO018F","31500","Increased","34125","37600","42700","44400","","No","NA"
+"MO","Medical Oncology","CT for Gall Bladder Cancer /
+Cholangiocarcinoma","Cisplatin + Gemcitabine
+Gemcitabine 1000 mg/m2 D1 D8
+Cisplatin 25 mg/m2 D1 D8 every 21
+days","MO019B","10900","Increased","12100","13400","15200","15800","","No","NA"
+"MO","Medical Oncology","CT for Gall Bladder Cancer /
+Cholangiocarcinoma","5FU + Leucovorin + Irinotecan
+5 FU 1200mg/m2 D1 D2
+Leucovorin 400mg/m2 D1
+Irinotecan 180mg/m2 85 mg/m2 D1
+every 14 days","MO019C","8900","Increased","9615","10600","12100","12500","","No","NA"
+"MO","Medical Oncology","CT for Gall Bladder Cancer /
+Cholangiocarcinoma","Oxaliplatin + Gemcitabine
+Gemcitabine 1000 mg/m2 D1
+Oxaliplatin 100 mg/m2 D1 every 14 days","MO019F","17100","Increased","17400","19200","21800","22700","","No","NA"
+"MO","Medical Oncology","CT for Gall Bladder Cancer /
+Cholangiocarcinoma","5FU + Leucovorin + Oxaliplatin
+5 FU 1200mg/m2 D1 D2
+Leucovorin 400mg/m2 D1
+Oxaliplatin 85 mg/m2 D1 every 14 days","MO019H","11300","Increased","13700","15100","17200","17900","","No","NA"
+"MO","Medical Oncology","CT for Mesothelioma","Gemcitabine + Cisplatin
+Gemcitabine 1000 mg/m2 D1 D8
+Cisplatin 75 mg/m2 D1 every 21 days","MO022A","11100","Increased","12150","13400","15200","15200","","No","NA"

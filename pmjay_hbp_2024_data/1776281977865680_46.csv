@@ -1,0 +1,179 @@
+﻿"SN","Neurosurgery,
+Orthopedics","Laminectomy","Laminectomy with fusion and fixation for
+lumbar/cervical/thoracic canal stenosis
+or for tumor / trauma/Bleed(Cost of
+implants to be extra)","SN034B","40000","Increased","54375","68000","77300","81600","Implant for Laminectomy with Fusion
+and fixation - 10000","No","NA"
+"SN","Neurosurgery,
+Orthopedics","Carpal Tunnel Release","Carpal tunnel release","SN046A","13500","Increased","15000","18800","21300","18800","","No","NA"
+"SN","Neurosurgery, ENT, Oral
+& Maxillofacial Surgery","Neurectomy","Trigeminal Nerve Neurectomy","SN035B","16500","Increased","24812.5","31100","35300","37300","","No","NA"
+"SN","Neurosurgery","CranioPlasty","Cranioplasty with autologus bone graft","SN002A","20000","Increased","27500","34400","39100","41300","","No","NA"
+"SN","Neurosurgery","CranioPlasty","Cranioplasty with exogenous Graft","SN002B","20000","Increased","27500","34400","39100","41300","Implant for "CranioPlasty with Exogenous graft" - To be
+decided by
+SHA","No","NA"
+"SN","Neurosurgery","Craniostenosis","Cranial vault remodeling/ surgery for
+"Craniosynostosis"","SN004A","28000","Increased","37750","47200","53700","56700","","No","NA"
+"SN","Neurosurgery","Meningocele","Anterior cranial fossa
+encephalocele/meningocele repair","SN005A","36000","Increased","49875","62400","70900","74900","","No","NA"
+"SN","Neurosurgery","Meningocele","Surgery for spina bifida cystica/occulta","SN005B","36000","Increased","37500","46900","53300","56300","","No","NA"
+"SN","Neurosurgery","Meningocele","Posterior cranial fossa
+encephalocele/meningocele repair","SN005C","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN","Neurosurgery","Surgery for tumour meninges","Surgery for supratentorial Extra-axial
+Tumours (Meningioma etc)","SN006A","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN","Neurosurgery","Surgery for tumour meninges","Surgery for infratentorial
+ExtraaxialTumour(meningioma etc)","SN006B","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN","Neurosurgery","Burr hole surgery","Burr hole surgery for evacuation of
+hematoma/ biopsy/ pus
+drainage/Placement of ICP monitoring
+device","SN008A","7000","Increased","11000","13800","15700","16500","","No","NA"
+"SN","Neurosurgery","Burr hole surgery","Burr hole surgery with chronic Sub Dural
+Haematoma","SN008B","20000","Increased","25000","31300","35500","37500","","No","NA"
+"SN","Neurosurgery","Surgery for Haematoma -
+Intracranial","Evacuation of Post-trauamtic
+Intraparenchymal Hematoma","SN009A","55000","Increased","56250","70400","79900","84400","","No","NA"
+"SN","Neurosurgery","Surgery for Haematoma -
+Intracranial","Spontaneous Intraparenchymal
+hematoma evacuation","SN009B","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN","Neurosurgery","Surgery for Haematoma -
+Intracranial","Evacuation of Post-trauamtic
+Intraparenchymal Hematoma in
+Pediatric Age group","SN009C","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN
+SN","Neurosurgery
+Neurosurgery","Excision of Brain Abscess
+Abscess Tapping","Excision of Brain abscess
+Craniotomy/Burr hole and Tapping of
+Brain Abscess","SN010A
+SN011A","36000
+20000","Increased
+Increased","49875
+25000","62400
+31300","70900
+35500","74900
+37500","","No
+Yes","NA
+Single - 20000
+Multiple - 30000"
+"SN
+SN","Neurosurgery
+Neurosurgery","Epilepsy Surgery
+Brain Biopsy","Epilepsy Surgery
+Brain Biopsy- Open/Stereotactic guided","SN012A
+SN013A","50000
+15000","Increased
+Increased","68750
+16875","86000
+21100","97700
+24000","103200
+25400","","No
+No","NA
+NA"
+"SN
+SN","Neurosurgery
+Neurosurgery","Excision of Orbital Tumour
+Excision of Brain Tumor
+Supratentorial","Excision of Orbital Tumour
+Parasagital Tumours","SN014A
+SN015A","40000
+50000","Increased
+Increased","50000
+51562.5","62500
+64500","71000
+73300","75000
+77400","","No
+No","NA
+NA"
+"SN","Neurosurgery","Excision of Brain Tumor
+Supratentorial","Skull Base Tumours","SN015B","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN","Neurosurgery","Excision of Brain Tumor
+Supratentorial","Surgerey for infratentorial intra-axial
+tumours","SN015C","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN","Neurosurgery","Excision of Brain Tumor
+Supratentorial","C P Angle","SN015D","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN","Neurosurgery","Excision of Brain Tumor
+Supratentorial","Supratentorial & other Tumours","SN015E","55000","Increased","56250","70400","79900","84400","","No","NA"
+"SN","Neurosurgery","Stereotactic Lesioning","Stereotactic Lesioning for movement
+disoders","SN016A","60000","Increased","75000","93800","106500","112500","","No","NA"
+"SN","Neurosurgery","Trans Sphenoidal Surgery","Endoscpic/Microscopic Trans
+Sphenoidal Surgery","SN017A","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN
+SN","Neurosurgery
+Neurosurgery","Trans oral Surgery
+Transoral surgery (Anterior)
+and CV Junction (Posterior
+Sterilisation)","Trans oral Surgery
+Trans oral anterior decompression and
+Posterior stabilisation ov C V junction","SN018A
+SN019A","40000
+55000","Increased
+Increased","54375
+74375","68000
+93000","77300
+105700","81600
+111600","Implant for "Transoral surgery (Anterior) and CV
+Junction (Posterior Sterlization)" - To be decided by SHA","No
+No","NA
+NA"
+"SN","Neurosurgery","External Ventricular Drainage
+(EVD)
+including antibiotics","External Ventricular Drainage (EVD)","SN020A","30000","Increased","33750","42200","48000","50700","","No","NA"
+"SN","Neurosurgery","Shunt Surgery","Ventriculo-Peritoneal Shunt
+(Low/Medium/High Pressure or Flow
+regulated valve)","SN022A","30000","Increased","33750","42200","48000","50700","","No","NA"
+"SN","Neurosurgery","Shunt Surgery","Ventriculo - pleural Shunt
+(Low/Medium/High Pressure or Flow
+regulated valve)","SN022B","30000","Increased","33750","42200","48000","50700","","No","NA"
+"SN","Neurosurgery","Shunt Surgery","Ventriculo - atrial Shunt
+(Low/Medium/High Pressure or Flow
+regulated valve)","SN022C","30000","Increased","33750","42200","48000","50700","","No","NA"
+"SN","Neurosurgery","Shunt Surgery","Theco - peritoneal Shunt
+(Low/Medium/High Pressure or Flow
+regulated valve)","SN022D","30000","Increased","33750","42200","48000","50700","","No","NA"
+"SN","Neurosurgery","Aneurysm Clipping including
+angiogram","Aneurysm Clipping including DSA or
+CTA","SN023A","50000","Increased","68750","86000","97700","103200","Clip for Aneurysm (3) - 15000","No","NA"
+"SN","Neurosurgery","Superficial Temporal Artery
+(STA): middle cerebral artery
+(MCA) or (other EC - IC)
+Bypass procedure","Superficial Temporal Artery (STA):
+middle cerebral artery (MCA) or (other
+EC - IC) Bypass procedure","SN024A","60000","Increased","67500","84400","95900","101300","","No","NA"
+"SN","Neurosurgery","Arterio venous malformation
+(AVM) excision","Craniotmy and excision of arteriovenous
+malformation","SN025A","50000","Increased","68750","86000","97700","103200","","No","NA"
+"SN","Neurosurgery","Arterio venous malformation
+(AVM) excision","Laminectomy/Laminotomy and excision
+of Intraspinal arteriovenous
+malformation","SN025B","50000","Increased","68750","86000","97700","103200","","No","NA"
+"SN","Neurosurgery","Arterio venous malformation
+(AVM) excision","Excision of scalp arteriovenous
+malformation","SN025C","25000","Increased","34375","43000","48900","51600","","No","NA"
+"SN","Neurosurgery","Foramen Magnum
+Decompression","Foramen magnum decompression for
+Chiari malormation with or without
+duraplasty or tonsillar resection.","SN026A","63300","Increased","75000","93800","106500","112500","","No","NA"
+"SN
+SN","Neurosurgery
+Neurosurgery","Skull Traction
+Posterior Cervical Discetomy
+without implant","Skull Traction
+Posterior cervical laminoforaminotomy
+and discectomy","SN027A
+SN028A","8000
+30000","Increased
+Increased","10000
+33750","12500
+42200","14200
+48000","12500
+50700","","No
+No","NA
+NA"
+"SN","Neurosurgery","Posterior Cervical Fusion
+with implant
+(Lateral mass fixation)","Posterior cervical fusion using lateral
+mass or pedicle screws and rods","SN029A","50000","Increased","52500","65700","74600","78800","Implant for "Posterior Cervical Fusion with implant
+(Lateral mass fixation)"","No","NA"
+"SN","Neurosurgery","Cervical Disc Multiple level
+without Fusion","Anterior cervical discectomy without
+fusion","SN030A","40000","Increased","50000","62500","71000","75000","","No","NA"

@@ -1,0 +1,285 @@
+﻿"OT","Organ and Tissue
+Transplant","Renal Transplant","Intervention for Acute rejection","OT001C","107797","Decrease","100000","125000","142000","150000","","No",""
+"OT","Organ and Tissue
+Transplant","Renal Transplant","Post-Transplant Medication – Month 3-6","OT001E","50000","Decrease","30000","37500","42600","37500","","No",""
+"OT","Organ and Tissue
+Transplant","Renal Transplant","Post-Transplant Medication – Month 6-
+12","OT001F","40000","Decrease","30000","37500","42600","37500","","No",""
+"OT","Organ and Tissue
+Transplant","Renal Transplant","Pre Procedure workup-Donor/ Recipient,
+Immunosuppressives, Transplant and
+Induction for recipients with
+unrelated/deceased donor/or at high risk
+for rejection","OT001A","215000","Increased","225000","281300","319500","337500","","No",""
+"OT","Organ and Tissue TransBpolannet","Marrow Transplant (AutologoPCusroe)l l","Transplant Evaluation and Stem Cell
+ection and Cryopreservation","OT002A","new procedure","New","100000","125000","142000","150000","","#N/A","#N/A"
+"OT","Organ and Tissue Transplant","Bone Marrow Transplant
+(Autologous)","Transplant
+(includes conditioning)","OT002B","new procedure","New","250000","312500","355000","375000","","#N/A","#N/A"
+"OT","Organ and Tissue TransBpolannet","Marrow Transplant (Autologo(uins)c l","Post Transplant Care for 3 months
+udes supportive care and
+investigations)","OT002C","new procedure","New","50000","62500","71000","75000","","#N/A","#N/A"
+"SB","Orthopedics, Surgical
+Oncology","Arthrodesis","Hand","SB026E","27000","No change","27000","27000","38400","33800","","No","NA"
+"SB","Orthopedics, Surgical
+Oncology","Arthrodesis","Foot","SB026F","27000","No change","27000","27000","38400","33800","","No","NA"
+"SB","Orthopedics, SurgicBalo
+Oncology","ne Tumour Excision + reconstrucBtion","e Tumour Excision + reconstruction","SB041A","30000","No change","30000","37500","42600","45000","(Plate) - 10000, Mega prosthesis (1) - 100000","No","NA"
+"SB","Orthopedics,
+Neurosurgery","Nerve root block","Nerve root block","SB068A","3000","No change","3000","3000","4300","3800","","No","NA"
+"SB","Orthopedics, Emergency
+Room Packages","Fracture - Conservative
+Management -
+Without plaster","Fracture - Conservative Management -
+Without plaster","SB001A","2300","No change","2300","2300","2600","2900","","No","NA"
+"SB","Orthopedics,
+General Surgery","Excision of Bursa","Excision of Bursa","SB065A","3000","No change","3000","3000","3600","3800","","No","NA"
+"SB
+SB
+SB
+SB
+SB","Orthopedics
+Orthopedics
+Orthopedics
+Orthopedics
+Orthopedics","Application of P.O.P. casts
+Application of P.O.P. casts
+Application of P.O.P. Spikas & JackSeptsik
+Application of P.O.P. Spikas & JackJeatcs
+External fixation of Fracture","Upper Limbs
+Lower Limbs
+as
+kets
+Long bone","SB003A
+SB003B
+SB004A
+SB004B
+SB005A","3000
+3000
+3500
+3500
+14000","No change
+No change
+No change
+No change
+No change","3000
+3000
+3500
+3500
+14000","3000
+3000
+3500
+3500
+14000","3600
+3600
+4100
+4100
+16400","3800
+3800
+4400
+4400
+17500","tubular external fixator with 6 shanz pins and single rod
+assembly - 8000
+double rod assembly -10000
+ilizarov fixator assembly for tibia -12000
+ilizarov fixator assembly for femur -7000
+JESS fixator - 7000","No
+No
+No
+No
+No","NA
+NA
+NA
+NA
+NA"
+"SB","Orthopedics","Osteotomy","Long Bone","SB055A","18000","No change","18000","18000","21100","22500","Long Bone (Plate/Screw) - 7000 per piece, broad DCP
+with screws - 5000 per piece, LC DCP - 6000 per piece","No","NA"
+"SB
+SB
+SB
+SB","Orthopedics
+Orthopedics
+Orthopedics
+Orthopedics","External fixation of Fracture
+Osteotomy
+External fixation of Fracture
+Percutaneous - Fixation of FracturPee","Small bone
+Small Bone
+Pelvis
+rcutaneous - Fixation of Fracture","SB005B
+SB055B
+SB005C
+SB006A","9500
+10000
+19200
+3000","No change
+No change
+No change
+No change","9500
+10000
+19200
+3000","9500
+10000
+19200
+3000","11200
+11700
+22500
+3600","11900
+12500
+24000
+3800","External Fixator - 7000
+K Wire - 300 per piece
+External Fixator - 7000
+K - Wire - 250 per wire
+Screw - 1000 per screw","No
+No
+No
+Yes","NA
+NA
+NA
+LA - 3000
+GA - 8000"
+"SB","Orthopedics","Elastic nailing for fracture fixationF","emur + shaft tibia","SB007A","11000","No change","11000","11000","12900","13800","(Elastic Nail) - 5000","No","NA"
+"SB","Orthopedics","Elastic nailing for fracture fixationH","umerus","SB007B","19100","No change","19100","19100","22400","23900","(Elastic Nail) - 5000","No","NA"
+"SB","Orthopedics","Elastic nailing for fracture fixationF","orearm","SB007C","17300","No change","17300","17300","20300","21700","(Elastic Nail) - 5000","No","NA"
+"SB","Orthopedics","Internal Fixation of Small Bones","ORIF Small Bones","SB008A","11300","No change","11300","11300","13300","14200","Plates, screws and K wire - 1500 per plate, one 6 hole
+small DCP with screws -3500 per plate","No","NA"
+"SB","Orthopedics","Fracture - Long Bones - Metaphyseal -F OraRcItFur","e - Long Bones - Metaphyseal - ORIF","SB009A","16400","No change","16400","16400","19200","20500","Locking Plate for Metaphyseal fracture - Long Bone -
+7000 per plate, CC Screw -1000 per screw","No","NA"
+"SB
+SB","Orthopedics
+Orthopedics","Displaced Clavicle Fracture
+Fixation of Diaphyseal Fracture - LongC Bloosneed","Open Reduction Internal Fixation
+Reduction & Internal Fixation of long bonesS BF0ix1a0tiBon","SB017A","17000
+20800","No change
+No change","17000
+20800","17000
+20800","19900
+24400","21300
+26000","(Plate) - 3000
+IM Nail for CR&F - Diaphyseal fracture - Long Bone -
+7000","No
+No","NA
+NA"
+"SB","OrthopeSduicrsg","ery for Comminuted Fracture - OlecranPolant ionfg U ollneac r","enon fracture, ulna","SB011A","11800","No change","11800","11800","13900","14800","Plate for Comminuted Fracture - Olecranon of Ulna -
+8000","No","NA"
+"SB","Orthopedics","Fracture Head radius","Fixation","SB012A","10000","No change","10000","10000","11700","12500","(Plate / Screw) - 8000 per piece, Herbert screw - 2500
+per screw","No","NA"
+"SB
+SB","Orthopedics
+OrthoFperadcictusr","Fracture Head radius
+e - Single Bone - Forearm - ORIF - PlaFtrinacgt u/ rNea -i liSnign","Excision","SB012B
+gle Bone - Forearm - ORIF - PlatingS / BN0a1il3inAg /DCP/LCP","9200
+8900","No change
+No change","9200
+8900","9200
+8900","10800
+10500","11500
+11200","Nail - 2000 per nail, Plate - 5000 per plate, one small
+DCP with screw-2500 per piece","No
+No","NA
+NA"
+"SB","OrthopFeradcictus r","e - Both Bones - Forearm - ORIF - PlaFtirnagc t/u Nrea -il iBngo t","","h Bones - Forearm - ORIF - Plating S/ BN0a1ili4nAg  /DCP/LCP","16100","No change","16100","16100","18900","20200","two Plates with screw -5000 , Nails - 2000 per nail","No","NA"
+"SB
+SB
+SB
+SB
+SB
+SB","Orthopedics
+Orthopedics
+OrthopeFdriaccst
+Orthopedics
+Orthopedics
+Orthopedics","Fracture Condyle - Humerus - ORLIFat
+Fracture Condyle - Humerus - OROIFR
+ure intercondylar Humerus + olecranonO oRsItFe oFtroamctyu
+Fracture - Acetabulum
+Fracture - Acetabulum
+Fracture - Neck Femur","eral Condyle
+IF with screw/wire of Medial Condyle
+ORIF THROUGH Single Approach PLATING
+ORIF THROUGH combined Approach PLATING
+Closed Reduction and Percutaneous Screw FixatioSnB","SB015A
+SB015B
+re intercondylar Humerus + olecranonS oBs0t1e6oAto my + TBW
+SB018A
+SB018B
+019A","8500
+8500
+15100
+28000
+33500
+15500","No change
+No change
+No change
+No change
+No change
+No change","8500
+8500
+15100
+28000
+33500
+15500","8500
+8500
+15100
+28000
+33500
+15500","10000
+10000
+21500
+39800
+47600
+18200","10700
+10700
+18900
+35000
+41900
+19400","1500
+1500
+(TBW + 2 Plates) - 11000
+- Recon Plate (2) - 10000
+- Recon Plate (3) - 15000
+Cannulated Screws for Closed Reduction and
+Percutaneous Screw Fixation (neck femur) - 5000","No
+No
+No
+No
+No
+No","NA
+NA
+NA
+NA
+NA
+NA"
+"SB","Orthopedics","Fracture - Neck Femur","ORIF Intertrochanteric Fracture with Dynamic HipS SBc0re1w9B","","18400","No change","18400","18400","21600","23000","Dynamic Hip Screw for Intertrochanteric Fracture - 5000","No","NA"
+"SB
+SB","Orthopedics
+Orthopedics","Fracture - Neck Femur
+Ankle Fractures","ORIF Intertrochanteric Fracture with Proximal FemSoBr0a1l 9NCai l
+ORIF of medial malleolus or bimalleolar fracture oSr BTr0im20aAlle olar fracture","","16100
+15600","No change
+No change","16100
+15600","16100
+15600","18900
+18300","20200
+19500","Proximal Femoral Nail - 8000
+Tension Band Wire - 1500 per tension band ,Plate -
+5000 per plate, Screw - 1000 per screw","No
+No","NA
+NA"
+"SB","Orthopedics","Cervical spine fixation including odonCtoeirdv i","cal spine fixation including odontoid","SB021A","21300","No change","21300","26700","30300","32000","Implant for Cervical spine fixation including odontoid
+(Screw) - 5000
+Implant for Cervical spine fixation including odontoid
+(Odontoid Screw) - 20000
+Implant for Cervical spine fixation including odontoid
+(Cage) - 10000","No","NA"
+"SB","Orthopedics","Reconstruction of Cruciate
+Ligament with implant and
+brace","Anterior","SB049A","25700","No change","25700","32200","36500","38600","Implant & brace for Reconstruction of ACL / PCL
+(Bio screw / Endobutton / Suture disc + Ethibond) -
+17000, brace and crutches - 2000 per piece","No","NA"
+"SB","Orthopedics","Dorsal and lumber spine
+fixation","Dorsal and lumber spine fixation THROUGH AnterSioBr0 a2p2pAro ach","","40000","No change","40000","50000","56800","60000","(Plate including screw) (6) - 5000
+or
+Implant for Dorsal and lumber spine fixation (Cage) -
+10000","No","NA"

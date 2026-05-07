@@ -1,0 +1,130 @@
+﻿"SL","ENT, Surgical Oncology","Mastoidectomy","Simple","SL004A","28,000","No change","28000","28000","32800","35000","","No","NA"
+"SL","ENT, Surgical Oncology","Mastoidectomy","Radical","SL004B","28,000","No change","28000","28000","32800","35000","","No","NA"
+"SL","ENT, Surgical Oncology","Myringotomy with or without
+Grommet","Unilateral","SL005A","7600","No change","7600","7600","8900","9500","","Yes","LA - 5000
+GA - 10000"
+"SL","ENT, Surgical Oncology","Myringotomy with or without
+Grommet","Bilateral","SL005B","7600","No change","7600","7600","8900","9500","","Yes","LA - 5000
+GA - 10000"
+"SL","ENT","Epistaxis treatment - packing","Epistaxis treatment - packing","SL007A","2500","no change","2500(inc. of pack cost)","2500(inc. of pack cost)","2900(inc. of pack cost)","3100(inc. of pack cost)","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"SL","ENT","Microlaryngeal surgery with
+or without laser","Microlaryngeal surgery with or without
+laser","SL024A","17000","No change","17000","17000","19900","21300","","No","NA"
+"SL","ENT","Clinic based therapeutic
+interventions of ENT","Turbinate reduction","SL035A","1200","No change","1200","1200","1800","1500","","No","NA"
+"SL","ENT","Clinic based therapeutic
+interventions of ENT","Biopsy","SL035B","1200","No change","1200","1200","1500","1500","","No","NA"
+"SL","ENT","Clinic based therapeutic
+interventions of ENT","Intratympanic injections","SL035C","1200","No change","1200","1200","1500","1500","","No","NA"
+"SL","ENT","Clinic based therapeutic
+interventions of ENT","Wide bore aspiration","SL035D","1200","No change","1200","1200","1500","1500","","No","NA"
+"SL","ENT","Closed reduction /
+intermaxillary fixation for
+fracture of maxilla / mandible
+/ zygoma","Closed reduction for fracture of maxilla","SL033A","11300","Decrease","Close reduction
+5000/Fracture 12000","Close reduction
+5000/Fracture 12000","Close reduction
+5850/Fracture 14040","Close reduction
+6250/Fracture 15000","","No","NA"
+"SL","ENT","Closed reduction /
+intermaxillary fixation for
+fracture of maxilla / mandible
+/ zygoma","Closed reduction for fracture of
+mandible","SL033B","18500","Decrease","Close reduction
+5000/Fracture 12000","Close reduction
+5000/Fracture 12000","Close reduction
+5850/Fracture 14040","Close reduction
+6250/Fracture 15000","","No","NA"
+"SL","ENT","Closed reduction /
+intermaxillary fixation for
+fracture of maxilla / mandible
+/ zygoma","Closed reduction for fracture of zygoma","SL033C","18500","Decrease","Close reduction
+5000/Fracture 12000","Close reduction
+5000/Fracture 12000","Close reduction
+5850/Fracture 14040","Close reduction
+6250/Fracture 15000","","No","NA"
+"SL","ENT","Closed reduction /
+intermaxillary fixation for
+fracture of maxilla / mandible
+/ zygoma","Closed reduction and Intermaxillary
+fixation for fracture of mandible","SL033D","18500","Decrease","Close reduction
+5000/Fracture 12000","Close reduction
+5000/Fracture 12000","Close reduction
+5850/Fracture 14040","Close reduction
+6250/Fracture 15000","","No","NA"
+"SL","ENT","Pinna surgery for tumour /
+trauma","Pinna surgery for tumor","SL001A","8600","Increased","10000","12500","14200","15000","","No","NA"
+"SL","ENT","Pinna surgery for tumour /
+trauma","Pinna surgery for trauma","SL001B","8600","Increased","10000","10000","11700","12500","","No","NA"
+"SL","ENT","Tympanoplasty","Tympanoplasty (can be stratified
+(GA/LA) and price adjusted accordingly )","SL002A","12900","Increased","15337.5","15400","18000","19200","GA: 28,000+4,000/- +Implant cost if any(
+<8,000/)unilateral","No","NA"
+"SL","ENT","Stapedectomy / tympanotomy","Stapedectomy","SL003A","13000","Increased","17250","17300","20200","21600","GA: 33,000+4,000/- +Implant cost if any( <10,000/)","No","NA"
+"SL","ENT","Stapedectomy / tympanotomy","Tympanotomy","SL003B","13000","Increased","15,000","15,000","17550","18750","GA:15000+5000","No","NA"
+"SL","ENT","Endoscopic DCR","Endoscopic DCR","SL006A","19300","Increased","20000","20000","23400","25000","","No","NA"
+"SL","ENT","Functional septo rhinoplasty","Functional septo rhinoplasty","SL008A","21800","Increased","22650","22700","26600","28400","","No","NA"
+"SL","ENT","Septoplasty","Septoplasty","SL009A","12000","Increased","13875","13900","16300","17400","","Yes","LA - 12000
+GA - 18000"
+"SL","ENT","Fracture - setting nasal bone","Fracture - setting nasal bone","SL010A","8000","Increased","8625","8700","10100","10800","","Yes","LA - 8000
+GA - 12000"
+"SL","ENT","Inferior turbinate reduction
+under GA","Inferior turbinate reduction under
+GA(HOW IS IT DIFFERENT FROM
+TURBINATE REDUCTION AT THE
+END?)","SL011A","5700","Increased","6000","6000","7100","7500","","No","NA"
+"SL","ENT","Open sinus surgery","Open sinus surgery(Open Sinus Surgery
+(Single/Multiple Sinuses)","SL012A","15000","Increased","16125","16200","18900","20200","","No","NA"
+"SL","ENT","Functional Endoscopic Sinus
+(FESS)","Functional Endoscopic Sinus
+(FESS)stratified as U/L or B/L and cost
+adjusted","SL013A","11000","Increased","14625","14700","17200","18300","","No","NA"
+"SL","ENT","Ant. Ethmoidal /
+sphenopalatine artery ligation","Ant. Ethmoidal artery ligation - Open","SL014A","15000","Increased","16125","16200","18900","20200","","No","NA"
+"SL","ENT","Ant. Ethmoidal /
+sphenopalatine artery ligation","Ant. Ethmoidal artery ligation -
+Endoscopic","SL014B","15000","Increased","16125","16200","22900","20200","","No","NA"
+"SL","ENT","Ant. Ethmoidal /
+sphenopalatine artery ligation","Sphenopalatine artery ligation - Open","SL014C","15000","Increased","16125","16200","18900","20200","","No","NA"
+"SL","ENT","Ant. Ethmoidal /
+sphenopalatine artery ligation","Sphenopalatine artery ligation -
+Endoscopic","SL014D","15000","Increased","16125","16200","18900","20200","","No","NA"
+"SL
+SL","ENT
+ENT","Adenoidectomy
+Tonsillectomy","Adenoidectomy
+Tonsillectomy - U/L tonsillectomy
+(unilateral/bilateral)","SL015A
+SL016A","5000
+7500","Increased
+Increased","9375
+12187.5","9400
+12200","11000
+14300","11800
+15300","","No
+No","NA
+NA"
+"SL","ENT","Tonsillectomy","Tonsillectomy - B/L adenotonsillectomy","SL016B","7500","Increased","12187.5","12200","14300","15300","","No","NA"
+"SL","ENT","Thyroglossal / Branchial cyst
+/ sinus / fistula excision","Thyroglossal cyst excision","SL018A","15300","Increased","16931.25","17000","19900","21200","","No","NA"
+"SL","ENT","Thyroglossal / Branchial cyst
+/ sinus / fistula excision","Thyroglossal sinus excision","SL018B","15300","Increased","16931.25","17000","19900","21200","","No","NA"
+"SL","ENT","Thyroglossal / Branchial cyst
+/ sinus / fistula excision","Thyroglossal fistula excision","SL018C","15300","Increased","16931.25","17000","19900","21200","","No","NA"
+"SL","ENT","Thyroglossal / Branchial cyst
+/ sinus / fistula excision","Branchial sinus excision","SL018D","15300","Increased","16987.5","17000","19900","21300","","No","NA"
+"SL","ENT","Thyroglossal / Branchial cyst
+/ sinus / fistula excision","Branchial fistula excision","SL018E","15300","Increased","16987.5","17000","19900","21300","","No","NA"
+"SL","ENT","Uvulopalatopharyngoplasty
+(UPPP)","Uvulopalatopharyngoplasty (UPPP)","SL019A","18600","Increased","20100","20100","23600","25200","","No","NA"
+"SL","ENT","Removal of Submandibular
+Salivary gland","Removal of Submandibular Salivary
+gland","SL022A","21600","Increased","29000","29000","34000","36300","","Yes","LA - 9000
+GA - 15000"
+"SL","ENT","Removal of Submandibular
+Salivary gland","Removal of Ranula","SL022B","21600","Increased","29000","29000","34000","36300","","Yes","LA - 9000
+GA - 15000"

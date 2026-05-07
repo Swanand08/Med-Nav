@@ -1,0 +1,370 @@
+﻿"MG","General Medicine,
+neurology, pediatric
+medicine","Guillain Barre syndrome","Guillain Barre syndrome (IVIG)","MG069A","new procedure","New","2100/day","2300/day","2625/day","2625/day","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MG","Interventional General
+Medicine","Bone marrow aspiration of
+biopsy","Bone marrow aspiration of biopsy","MG082A","new procedure","New","1060","1200","1600","1600","","#N/A","#N/A"
+"MG","Interventional General
+Medicine","Lumbar puncture","Lumbar puncture","MG083A","new procedure","New","100","200","200","200","","#N/A","#N/A"
+"MG","Interventional General
+Medicine","Joint Aspiration","Joint Aspiration","MG084A","new procedure","New","150","200","300","300","","#N/A","#N/A"
+"MG","Interventional General
+Medicine","DVT Pneumatic
+Compression Stockings","DVT Pneumatic Compression Stockings (Add on MpaGck0a8g5eA i n ICU)","","new procedure","New","750","900","1100","1200","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","(Add on package in ICU)
+Acute Ischemic Stoke","Acute Ischemic Stoke","MG086A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Acute ischemic stroke-
+intravenous thrombolysis","Acute ischemic stroke- intravenous
+thrombolysis -Recombinant tissue
+plasminogen activator","MG086B","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Acute ischemic stroke-
+Intravenous thrombolysis","Acute ischemic stroke- Intravenous
+thrombolysis-Tenecteplase","MG086C","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Venous sinus thrombosis","Venous sinus thrombosis","MG087A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Pyogenic Meningitis","Pyogenic Meningitis","MG088A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Fungal Meningitis","Fungal Meningitis","MG089A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Autoimmune encephalitis","Autoimmune encephalitis -
+Plasmapheresis","MG090A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Autoimmune encephalitis
+(IVIG)","Autoimmune encephalitis -
+Immunoglubulin (IVIG)","MG090B","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Acute transverse myelitis/
+Acute demyelinating
+encephalitis","Acute transverse myelitis/ Acute
+demyelinating encephalitis","MG090C","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Acute hemorrhagic stroke-
+Hematoma evacuation","Acute hemorrhagic stroke- Hematoma
+evacuation","MG091A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Acute hemorrhagic stroke-
+(Extra ventricular drainage)","Acute hemorrhagic stroke- Extra
+ventricular drainage","MG091B","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Myasthenic crisis (IVIG)","Myasthenic crisis - Immunoglobulins
+(IVIG)","MG092B","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Myasthenic crisis
+(Plasmapheresis)","Myasthenic crisis - Plasmapheresis","MG093A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+Medicine,Neurology","Tuberculous meningitis
+(Hydrocephalus – VP
+SHUNT/ EVD/Omaya)","Tuberculous meningitis (Hydrocephalus
+– VP SHUNT/ EVD/Omaya)","MG094A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+9800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General
+medicine,Gastroenterolo
+gy","Cholangitis","Cholangitis","MG095A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"

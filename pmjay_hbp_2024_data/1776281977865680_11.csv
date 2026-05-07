@@ -1,0 +1,204 @@
+﻿"MG","General medicine","Trauma Blunt injury
+conservative","Trauma Blunt injury conservative","MG0113E","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine","Trauma Contusion chest
+injury","Trauma Contusion chest injury","MG0113F","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General medicine","Oesophageal Varices
+Banding","Oesophageal Varices Banding","MG0114A","new procedure","New","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","Routine Ward - 2300
+HDU - 3800
+ICU (without Ventilator) -
+8800
+ICU (with Ventilator) -
+10350","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Inflammatory Myopathy/
+Myaesthenic Crisis","Inflammatory Myopathy/ Myaesthenic
+Crisis","MG0115A","new procedure","New","2100/day","2100/day","2300/day","2300/day","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Guillain Barre syndrome","Guillain Barre syndrome
+(Plasmapheresis)","MG0116A","new procedure","New","2100/day","2100/day","2300/day","2300/day","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Myasthenic crisis
+(Plasmapheresis)","Myasthenic crisis (Plasmapheresis)","MG0116B","new procedure","New","2100/day","2100/day","2300/day","2300/day","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Moyamoya revascularization","Moyamoya revascularization","MG0117A","new procedure","New","2100/day","2100/day","2300/day","2300/day","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Evaluation of drug resistant
+epilepsy-Phase-1","Evaluation of drug resistant epilepsy-
+Phase-1","MG0118A","new procedure","New","2100/day","2100/day","2300/day","2300/day","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Drug resistant epilepsy","Drug resistant epilepsy","MG0119A","new procedure","New","2100/day","2100/day","2300/day","2300/day","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Medical/ neuro rehablitation","Comprehensive medical rehabilitation for
+spinal injury/ traumatic brain injury,
+CVA, Cerebral palsy with or without
+orthosis","MG0120A","new procedure","New","25000","25000","28800","28800","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Medical/ neuro rehablitation","Comprehensive medical rehabilitation for
+of complication secondary to specified
+disanility/multiple disability including
+procedures, chemodenevaration with or
+with out orthosis","MG0120B","new procedure","New","35000","35000","40300","40300","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Medical/ neuro rehablitation","Single event multiple level surgery for
+spasticity management in cerebral palsy","MG0120C","new procedure","New","15000","15000","17300","17300","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Medical/ neuro rehablitation","Medical rehabilitation of muscular
+dystrophy","MG0120D","new procedure","New","7000","7000","8100","8100","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Medical/ neuro rehablitation","Medical Rehabilitation intellectual
+dissability","MG0120E","new procedure","New","7000","7000","8100","8100","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Medical/ neuro rehablitation","Medical Rehabilitation special learning
+disability","MG0120F","new procedure","New","7000","7000","8100","8100","","#N/A","#N/A"
+"MG","General Medicine,
+neurology, pediatric
+medicine","Medical/ neuro rehablitation","Medical Rehabilitation multiple disability","MG0120G","new procedure","New","7000","7000","8100","8100","","#N/A","#N/A"
+"MM","Mental Disorders","Mental Retardation (intellectual disability)","Intellectual Disability (ID)","MM001A","Routine Ward - 2100
+HDU - 3300","no change","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2300
+HDU - 3800","Routine Ward - 2300
+HDU - 3800","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MM","Mental DisorMdenrst","al disorders - Organic, including symMspetmonmtataol tmdicisa","orders - Organic, including","MM002A","Routine Ward - 2100
+HDU - 3300","no change","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2300
+HDU - 3800","Routine Ward - 2300
+HDU - 3800","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MM","Mental DisoSrdcehrizso","phrenia, schizotypal and delusionaldS decislhuoiszriodopenhrasrl","enia, schizotypal and
+disorders","MM003A","Routine Ward - 2100
+HDU - 3300","no change","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2300
+HDU - 3800","Routine Ward - 2300
+HDU - 3800","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MM","Mental DisorNdeeursro","tic, stress-related and somatoform diesuorrodtecrs,","Nistress-related and somatoform
+disorders","MM004A","Routine Ward - 2100
+HDU - 3300","no change","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2300
+HDU - 3800","Routine Ward - 2300
+HDU - 3800","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MM","Mental Disorders","Mood (affective) disorders","Mood (affective) disorders","MM005A","Routine Ward - 2100
+HDU - 3300","no change","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2300
+HDU - 3800","Routine Ward - 2300
+HDU - 3800","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MM","","BehaviMouernatla sl yDnidsorordmeerss  associated with physiological disturbpahnycseioslo agnicda  pl hdyisstiucrabl afnacc etosr sa","Behaviouralsyndromesassociated with
+nd physical
+factors","MM006A","Routine Ward - 2100
+HDU - 3300","no change","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2300
+HDU - 3800","Routine Ward - 2300
+HDU - 3800","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"
+"MM","MeMnteanl tDali saonrdd eBresh","avioural disorders due to psychoacptivseeync sthauob aascnttaivn ec ees uuabsvseto","MldBhiural disorders due to
+ance use","MM007A","Routine Ward - 2100
+HDU - 3300","no change","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2100
+HDU - 3300","Routine Ward - 2300
+HDU - 3800","Routine Ward - 2300
+HDU - 3800","","Yes","Routine Ward - 2100
+HDU - 3300
+ICU (without Ventilator) -
+8500
+ICU (with Ventilator) -
+9000"

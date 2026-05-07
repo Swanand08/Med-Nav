@@ -1,0 +1,255 @@
+﻿"SN","Neurosurgery","Excision of Cervical Ribs","Excision of Cervical Ribs","SN031A","20000","Increased","28750","36000","40900","43200","","Yes","Single - 20000
+Multiple - 30000"
+"SN","Neurosurgery","Lumbar Discectomy","Microscopic/Endoscopic Lumbar
+Discectomy (One level)","SN033A","30000","Increased","33750","42200","48000","50700","","No","NA"
+"SN
+SN","Neurosurgery
+Neurosurgery","Neurectomy
+Micro discectomy","Peripheral Neurectomy
+Anterior Cervical Discectomy with fusion
+(Cost of implants to be extra)","SN035A
+SN036A","16000
+40000","Increased
+Increased","20000
+50000","25000
+62500","28400
+71000","30000
+75000","","No
+No","NA
+NA"
+"SN","Neurosurgery","Spine - Extradural
+Haematoma","Intraspinal Extradural hematoma
+evacuation","SN039A","30000","Increased","33750","42200","48000","50700","","No","NA"
+"SN
+SN","Neurosurgery
+Neurosurgery","Spine - Extradural Tumour
+Spine - Extradural Tumour","Excision of extradural spinal tumor
+Excision of extradural spinal tumor with
+fusion and fixation (Cost of implants to
+be extra)","SN041A
+SN041B","30000
+30000","Increased
+Increased","43125
+43125","54000
+54000","61300
+61300","64700
+64700","Implant for Spine - Extradural Tumour
+with fixation - 10000","No
+No","NA
+NA"
+"SN","Neurosurgery","Spine - Intradural Tumour","Excision of Intradural extramedullary
+tumor","SN042A","40000","Increased","50000","62500","71000","75000","","No","NA"
+"SN","Neurosurgery","Spine - Intradural Tumour","Excision of Intradural extramedullary
+tumor with fusion and ficxation (Cost of
+implants to be extra)","SN042B","40000","Increased","54375","68000","77300","81600","Implant for Spine - Intradural Tumour
+with fixation - 10000","No","NA"
+"SN","Neurosurgery","Spine - Intramedullar Tumour","Excision of Intramedullary tumor of
+spine","SN043A","50000","Increased","51562.5","64500","73300","77400","","No","NA"
+"SN","Neurosurgery","Spine - Intramedullar Tumour","Excision of Intramedullary tumor with
+fusion and ficxation (Cost of implants to
+be extra)","SN043B","50000","Increased","51562.5","64500","73300","77400","Implant for Spine - Intramedullar
+Tumour with fixation - 10000","No","NA"
+"SN","Neurosurgery","R. F. Lesioning for
+Trigeminal Neuralgia","R. F. Lesioning for Trigeminal Neuralgia","SN044A","16500","Increased","20000","25000","28400","30000","","No","NA"
+"SN
+SN
+SN","Neurosurgery
+Neurosurgery
+Neurosurgery","Brachial Plexus – Repair
+Nerve Decompression
+Peripheral Nerve Surgery","Brachial Plexus repair
+Peripheral nerve repair/Neurolysis
+Peripheral nerve tumor excision and
+repair","SN045A
+SN047A
+SN049B","27000
+16000
+30000","Increased
+Increased
+Increased","36625
+17062.5
+33750","45800
+21400
+42200","52100
+24300
+48000","55000
+25600
+50700","","No
+No
+No","NA
+NA
+NA"
+"SN","Neurosurgery","Nerve Biopsy excluding
+Hensens","Nerve Biopsy excluding Hansen's","SN050A","7000","Increased","7500","9400","10700","11300","","No","NA"
+"SN
+SN","Neurosurgery
+Neurosurgery","Muscle Biopsy with report
+Gamma Knife radiosurgery
+(GKRS) / SRS for tumours /
+Arteriovenous malformation
+(AVM)","Muscle Biopsy
+Gamma Knife Radiosurgery for
+tumors/AVMs/ Trigeminal Neuralgia","SN051A
+SN054A","7000
+75000","Increased
+Increased","7500
+75000","9400
+93800","10700
+106500","11300
+112500","","No
+No","NA
+NA"
+"SN","Neurosurgery","Endoscopic Third
+Ventriculostomy","Endoscopic Third ventriculostomy","SN057A","27000","Increased","36625","45800","52100","55000","","No",""
+"SN","Neurosurgery","R. F. Lesioning","Radiofrequency lesioning for sacroilitis","SN059A","5000","Increased","8125","10200","11600","12200","","No",""
+"SN","Neurosurgery","R. F. Lesioning","Radiofrequency lesioning for chronic
+back pain","SN059B","5000","Increased","8125","10200","11600","12200","","No",""
+"SN
+SN","Neurosurgery
+Neurosurgery","Discectomy - Dorsal
+Diagnostic Cerebral / Spinal
+Angiography (DSA - Digital
+Substraction Angiography)","Discectomy - Dorsal
+Diagnostic Cerebral / Spinal
+Angiography (DSA - Digital Substraction
+Angiography)","SN060A
+SN061A","30000
+12000","Increased
+Increased","33750
+16625","42200
+20800","48000
+23700","50700
+25000","TBF","No
+No",""
+"SN","Neurosurgery","AVM EMBOLISATION","AVM
+EMBOLISATION/THROMBECTOMY","SN064A","new procedure","New","175000","218800","248500","262500","","#N/A","#N/A"
+"SN","Neurosurgery","Ventricular tap","Ventricular tapping with Omayya
+reservoir/external ventricular drain","SN065A","new procedure","New","20000","25000","28400","30000","","#N/A","#N/A"
+"SN","Neurosurgery","Decompressive Caniectomy","Craniectomy/ DECRA for head
+injury/acute stroke/cerebral venous
+thrombosis","SN066A","new procedure","New","75000","93800","106500","112500","","#N/A","#N/A"
+"SP","Plastic & Reconstructive
+Surgery","Tissue Expander for
+disfigurement following burns
+/ trauma / congenital
+deformity
+(including cost of expander /
+implant)","Tissue Expander for disfigurement
+following burns","SP006A","50000","No change","50000","62500","71000","75000","Tissue Expander / Implant for disfigurement following
+burns / trauma
+/ congenital deformity","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Tissue Expander for
+disfigurement following burns
+/ trauma / congenital
+deformity
+(including cost of expander /
+implant)","Tissue Expander for disfigurement
+following trauma","SP006B","50000","No change","50000","62500","71000","75000","Tissue Expander / Implant for disfigurement following
+burns / trauma
+/ congenital deformity","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Tissue Expander for
+disfigurement following burns
+/ trauma / congenital
+deformity
+(including cost of expander /
+implant)","Tissue Expander for disfigurement
+following congenital deformity","SP006C","50000","No change","50000","62500","71000","75000","Tissue Expander / Implant for disfigurement following
+burns / trauma
+/ congenital deformity","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Diabetic Foot – Surgery","Diabetic Foot – Surgery","SP002A","30000","Decrease","21000","26300","29900","26300","","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Hemangioma","Sclerotherapy under GA","SP007A","35000","Decrease","25000","31300","35500","37500","","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Hemangioma","Excision","SP007C","35000","Increased","40312.5","50400","57300","50400","","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Pressure Sore – Surgery","Pressure Sore – Surgery","SP001A","30000","Increased","33750","42200","48000","42200","","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Revascularization of limb /
+digit","Revascularization of limb / digit","SP003A","25000","Increased","31875","39900","45300","47900","","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Ear Pinna Reconstruction
+with costal cartilage /
+Prosthesis
+(including the cost of
+prosthesis / implants)","Ear Pinna Reconstruction with costal
+cartilage / Prosthesis
+(including the cost of prosthesis /
+implants)","SP004A","30000","Increased","39375","49300","56000","59100","A. ear pinna with recons. Cartilage(inc.all stages): cost-
+75,000/
+B. With Implant (inc cost of Implat): 80,000/ (implant
+cost approx: 15,000/-)","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Scalp avulsion reconstruction","Scalp avulsion reconstruction","SP005A","50000","Increased","60000","75000","85200","90000","","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Hemangioma","Debulking","SP007B","35000","Increased","40000","50000","56800","60000","","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","NPWT","NPWT","SP008A","2000","Increased","3750","4700","5400","4700","","No","NA"
+"SP","Plastic & Reconstructive
+Surgery","Diabetic Foot – Surgery","Diabetic Foot – Surgery","SP009A","new procedure","New","45000","56300","63900","67500","","#N/A","#N/A"
+"SP","Plastic & Reconstructive
+Surgery","Revascularization of limb /
+digit","Revascularization of limb / digit","SP010A","new procedure","New","90000","112500","127800","135000","B. >1digit/limb : cost -90,000/-","#N/A","#N/A"
+"SP
+SS
+SS
+SS
+SS","Plastic & Reconstructive
+Surgery
+Pediatric Surgery
+Pediatric Surgery
+Pediatric Surgery
+Pediatric Surgery","Ear Pinna Reconstruction
+with costal cartilage /
+Prosthesis
+(including the cost of
+prosthesis / implants)
+Ankyloglossia
+Ano Rectal Malformation
+Hernia & Hydrocele
+Undescended Testis","Ear Pinna Reconstruction with costal
+cartilage / Prosthesis
+(including the cost of prosthesis /
+implants)
+Ankyloglossia Major
+Cutback
+Hernia & Hydrocele
+Bilateral Non - Palpable","SP004B
+SS002B
+SS010C
+SS015A
+SS019C","new procedure
+15000
+20000
+20000
+20000","New
+No change
+No change
+No change
+Decrease","80000
+15000
+20000
+20000
+19000","100000
+18800
+25000
+25000
+23800","113600
+21300
+28400
+28400
+27000","120000
+22500
+30000
+30000
+23800","","#N/A
+No
+No
+No
+No","#N/A
+NA
+NA
+NA
+NA"

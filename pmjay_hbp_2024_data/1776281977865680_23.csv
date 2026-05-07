@@ -1,0 +1,116 @@
+﻿"MO","Medical Oncology","CT for Relapsed Hodgkin
+Lymphoma","PTCL - GDP
+Gemcitabine 1000mg/m2 D1 and D8
+Dexamethasone 40mg D1-4
+Cisplatin 75mg/m2 D1 or
+Cacrboplatin AUC-5
+Every 3 weeks","MO040C","12500","Increased","14750","16300","18500","19200","","No","NA"
+"MO","Medical Oncology","CT for Relapsed NHL & HL","DHAP
+Dexamethasone 40mg D1-4
+Cisplatin 100mg/m2 or
+Carboplatin AUC-5D1
+Cytarabine 2 gm/m2 BD D2
+Repeat every 21 days","MO041A","11500","Increased","12510","13800","15700","16300","","No","NA"
+"MO","Medical Oncology","CT for MM / Amyloidosis /
+POEMS","Pomalidomide + Dexamethasone
+Pomalidomide 4 mg daily Day 1-21
+Dexamethasone 40mg Day 1, 8, 15, 22
+Every 28 days","MO042B","6800","Increased","7100","7900","8900","8900","","No","NA"
+"MO","Medical Oncology","CT for MM / Amyloidosis","Cyclophosphamide + Thalidomide +
+Dexamethasone
+Cyclophosphamide 100mg D1-D14
+Thalidomide 100-200 mg daily Day 1-28
+Dexamethasone 40mg Day 1, 8, 15, 22
+Every 28 days","MO043A","4000","Increased","4075","4500","5100","5100","","No","NA"
+"MO","Medical Oncology","CT for Acute Myeloid
+Leukemia","Cytarabine 2 gm / M2 BD for 3 days
+Every 21 days for 3 cycles","MO046A","60000","Increased","71250","78400","89100","92700","","No","NA"
+"MO","Medical Oncology","CT for Acute Myeloid
+Leukemia","Cytarabine 100 mg / M2 7 days
+Daunomycin 60 mg / M2 3 days ( this
+does not include antibiotics, antifungals,
+blood and platelets transfusion)","MO046B","96000","Increased","105600","116200","132000","137300","","No","NA"
+"MO","Medical Oncology","CT for Acute Lymphoblastic
+Leukemia","BFM-90
+BFM-95
+BFM-2000
+HyperCVAD
+UKALL
+GMALL","MO047B","80000","Increased","123750","136200","154700","160900","","No","NA"
+"MO","Medical Oncology","CT for Lymphoblastic
+Lymphoma","BFM-90
+BFM-95
+BFM-2000
+HyperCVAD
+UKALL
+GMALL","MO048B","80000","Increased","123750","136200","154700","160900","","No","NA"
+"MO","Medical Oncology","CT for Acute Promyelocytic
+Leukemia
+(High Risk)","Arsenic trioxide
+ATRA
+Daunomycin or Idarubcin
+Cytarabine - multiagent - vary in each
+protocol","MO049A","32000","Increased","72000","79200","90000","93600","","No","NA"
+"MO","Medical Oncology","CT for Acute Promyelocytic
+Leukemia
+(High Risk)","Arsenic trioxide
+ATRA
+Daunomycin or Idarubcin
+Cytarabine - multiagent - vary on
+protocol","MO049B","96000","Increased","96750","106500","121000","125800","","No","NA"
+"MO","Medical Oncology","CT for Acute Promyelocytic
+Leukemia
+(Low Risk)","ATO 0.15 mg / kg day 1-45 or 60
+ATRA 45 mg / M2 - day 1-45 or 60","MO050B","80000","Increased","81000","89100","101300","105300","","No","NA"
+"MO","Medical Oncology","Febrile Neutopenia","Cefoperazone + Sulbactum
+Piperalicillin + Tazobactum
+Cefoperazone
+Piperacillin
+Amikacin
+Gentamicin
+Cefipime
+Levofloxacin
+Amoxycillin and clavulanate
+Teicoplanin
+Vancomycin","MO051A","28000","Increased","33250","36600","41600","41600","","No","NA"
+"MO","Medical Oncology","Febrile Neutopenia","Meropenem
+Imipenem
+Colistin
+Tigecyclin
+Linezolid
+Voriconazole
+Caspfungin
+Amphotericin - B","MO051B","60000","Increased","78750","86700","98500","102400","","No","NA"
+"MO","Medical Oncology","CT for Langerhans Cell
+Histiocytosis","Langerhans Cell Histiocytosis
+(Histiocytosis Protocol - Induction)","MO054A","22400","Increased","25275","27900","31600","32900","","No","NA"
+"MO","Medical Oncology","CT for Langerhans Cell
+Histiocytosis","Langerhans Cell Histiocytosis
+(Histiocytosis Protocol - Maintenance)","MO054B","17000","Increased","28875","31800","36100","37600","","No","NA"
+"MO","Medical Oncology","CT for Low Grade Glioma","Vincristine + Carboplatin
+Vincristine 1.5mg/m2 (day 1, 8 and 15
+for first 4 cycles and then only day 1
+from cycle 5 to 17)
+Carboplatin 550mg/m2 every 3 weeks
+(all cycles)","MO055A","5600","Increased","5850","6500","7400","7700","","No","NA"
+"MO","Medical Oncology","CT for Low Grade Glioma","Vinblastin
+Vinblastine 6 mg/m2 every week","MO055B","1900","Increased","3337.5","3700","4200","4400","","No","NA"
+"MO","Medical Oncology","CT for Medulloblastoma /
+Brain PNET","PACKER","MO056A","4900","Increased","6337.5","7000","8000","8300","","No","NA"
+"MO","Medical Oncology","CT for Medulloblastoma /
+CNS PNET","Cisplatin + Cyclophosphamide +
+Vincristine
+Cyclophosphamide 1000mg/m2 (2 days
+every cycles)
+Vincristine 1.5mg/m2 (days 1 and 8)
+Cisplatin 100mg/m2 (1 day per cycle)
+Cycles given every 3 weekly","MO056B","8300","Increased","8306.25","9200","10400","10800","","No","NA"
+"MO","Medical Oncology","CT for Neuroblastoma","Cabroplatin + Etoposide +
+Cyclophosphamide + Doxorubicin
+Carboplatin 600mg/m2
+Etoposide 100mg/m2 (days 1-5)
+Cyclophosphamide
+Doxorubicin","MO057A","7900","Increased","8587.5","9500","10800","11200","","No","NA"
+"MO","Medical Oncology","CT for Neuroblastoma","Carboplatin + Cisplatin +
+Cyclophosphamide + Vincristine +
+Etoposide","MO057B","6800","Increased","7612.5","8400","9600","9900","","No","NA"
